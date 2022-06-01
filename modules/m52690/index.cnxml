@@ -1,0 +1,145 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Mutations</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52690</md:content-id>
+  <md:title>Mutations</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the different types of mutations in DNA</item>
+<item>Explain DNA repair mechanisms</item>
+</list></md:abstract>
+  <md:uuid>b3158ad4-c111-4ed5-9f44-d747efd385cd</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1976493">DNA replication is a highly accurate process, but mistakes can occasionally occur, such as a DNA polymerase inserting a wrong base. Uncorrected mistakes may sometimes lead to serious consequences, such as cancer. Repair mechanisms correct the mistakes. In rare cases, mistakes are not corrected, leading to mutations; in other cases, repair enzymes are themselves mutated or defective.
+</para>
+<para id="fs-id2348700">Most of the mistakes during DNA replication are promptly corrected by DNA polymerase by proofreading the base that has been just added (
+<link target-id="fig-ch14_06_01" document=""/>). In 
+<link target-id="d808279797082696568737871">
+<term id="c808279797082696568737871">proofreading
+</term>
+</link>, the DNA polymerase reads the newly added base before adding the next one, so a correction can be made. The polymerase checks whether the newly added base has paired correctly with the base in the template strand. If it is the right base, the next nucleotide is added. If an incorrect base has been added, the enzyme makes a cut at the phosphodiester bond and releases the wrong nucleotide. This is performed by the exonuclease action of DNA pol III. Once the incorrect nucleotide has been removed, a new one will be added again.
+</para>
+<figure id="fig-ch14_06_01">
+<label>Figure 14.6
+</label>
+<media id="fs-id2321057" alt="Illustration shows DNA polymerase replicating a strand of DNA. The enzyme has accidentally inserted G opposite A, resulting in a bulge. The enzyme backs up to fix the error.">
+<image mime-type="image/jpg" src="../../media/Figure_14_06_01.jpg" width="320"/>
+</media>
+<caption>Proofreading by DNA polymerase corrects errors during replication.
+</caption>
+</figure>
+<para id="fs-id1310247">Errors during DNA replication are not the only reason why mutations arise in DNA. 
+<link target-id="d778584658473797883">
+<term id="c778584658473797883">Mutations
+</term>
+</link>, variations in the nucleotide sequence of a genome, can also occur because of damage to DNA. Such mutations may be of two types: induced or spontaneous. 
+<link target-id="d7378688567696832778584658473797883">
+<term id="c7378688567696832778584658473797883">Induced mutations
+</term>
+</link> are those that result from an exposure to chemicals, UV rays, x-rays, or some other environmental agent. 
+<link target-id="d838079788465786979858332778584658473797883">
+<term id="c838079788465786979858332778584658473797883">Spontaneous mutations
+</term>
+</link> occur without any exposure to any environmental agent; they are a result of natural reactions taking place within the body.
+</para>
+<para id="fs-id1368727">Mutations may have a wide range of effects. Some mutations are not expressed; these are known as 
+<link target-id="d83737669788432778584658473797883">
+<term id="c83737669788432778584658473797883">silent mutations
+</term>
+</link>. 
+<link target-id="d807973788432778584658473797883">
+<term id="c807973788432778584658473797883">Point mutations
+</term>
+</link> are those mutations that affect a single base pair. The most common nucleotide mutations are substitutions, in which one base is replaced by another. These can be of two types, either transitions or transversions. 
+<link target-id="d8482657883738473797832838566838473848584737978">
+<term id="c8482657883738473797832838566838473848584737978">Transition substitution
+</term>
+</link> refers to a purine or pyrimidine being replaced by a base of the same kind; for example, a purine such as adenine may be replaced by the purine guanine. 
+<link target-id="d84826578838669828373797832838566838473848584737978">
+<term id="c84826578838669828373797832838566838473848584737978">Transversion substitution
+</term>
+</link> refers to a purine being replaced by a pyrimidine, or vice versa; for example, cytosine, a pyrimidine, is replaced by adenine, a purine. Mutations can also be the result of the addition of a base, known as an insertion, or the removal of a base, also known as deletion. Sometimes a piece of DNA from one chromosome may get translocated to another chromosome or to another region of the same chromosome; this is also known as translocation. These mutation types are shown in 
+<link target-id="fig-ch14_06_05" document=""/>.
+</para>
+<note id="fs-id2046784" class="art-connection">
+<label/>
+<title>Art Connection
+</title>
+<para id="fs-id2216817">
+<figure id="fig-ch14_06_05">
+<label>Figure 14.6
+</label>
+<media id="fs-id2221137" alt="Illustration shows different types of point mutations that result from a single amino acid substitution. In a silent mutation, no change in the amino acid sequence occurs. In a missense mutation, one amino acid is substituted for another. In a nonsense mutation, a stop codon is substituted for an amino acid. In a frameshift mutation, one or more bases is added or deleted, resulting in a change in the reading frame.">
+<image mime-type="image/png" src="../../media/Figure_14_06_05.png" width="325"/>
+</media>
+<caption>Mutations can lead to changes in the protein sequence encoded by the DNA.
+</caption>
+</figure>
+</para>
+<para id="fs-id1813148">A frameshift mutation that results in the insertion of three nucleotides is often less deleterious than a mutation that results in the insertion of one nucleotide. Why?
+</para>
+</note>
+<para id="fs-id2936137">Mutations in repair genes have been known to cause cancer. Many mutated repair genes have been implicated in certain forms of pancreatic cancer, colon cancer, and colorectal cancer. Mutations can affect either somatic cells or germ cells. If many mutations accumulate in a somatic cell, they may lead to problems such as the uncontrolled cell division observed in cancer. If a mutation takes place in germ cells, the mutation will be passed on to the next generation, as in the case of hemophilia and xeroderma pigmentosa.
+</para>
+<section id="fs-id2065835" class="summary">
+<title>Section Summary
+</title>
+<para id="fs-id1242469">DNA polymerase can make mistakes while adding nucleotides. It edits the DNA by proofreading every newly added base. Incorrect bases are removed and replaced by the correct base, and then a new base is added. Most mistakes are corrected during replication, although when this does not happen, the mismatch repair mechanism is employed. Mismatch repair enzymes recognize the wrongly incorporated base and excise it from the DNA, replacing it with the correct base. In yet another type of repair, nucleotide excision repair, the incorrect base is removed along with a few bases on the 5' and 3' end, and these are replaced by copying the template with the help of DNA polymerase. The ends of the newly synthesized fragment are attached to the rest of the DNA using DNA ligase, which creates a phosphodiester bond.
+</para>
+<para id="fs-id2595588">Most mistakes are corrected, and if they are not, they may result in a mutation defined as a permanent change in the DNA sequence. Mutations can be of many types, such as substitution, deletion, insertion, and translocation. Mutations in repair genes may lead to serious consequences such as cancer. Mutations can be induced or may occur spontaneously.
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d7378688567696832778584658473797883">
+<term id="t7378688567696832778584658473797883">Induced mutations
+</term>
+<meaning id="m7378688567696832778584658473797883">mutation that results from exposure to chemicals or environmental agents 
+</meaning>
+</definition>
+<definition id="d778584658473797883">
+<term id="t778584658473797883">Mutations
+</term>
+<meaning id="m778584658473797883">variation in the nucleotide sequence of a genome 
+</meaning>
+</definition>
+<definition id="d807973788432778584658473797883">
+<term id="t807973788432778584658473797883">Point mutations
+</term>
+<meaning id="m807973788432778584658473797883">mutation that affects a single base 
+</meaning>
+</definition>
+<definition id="d808279797082696568737871">
+<term id="t808279797082696568737871">proofreading
+</term> 
+<meaning id="m808279797082696568737871">function of DNA pol in which it reads the newly added base before adding the next one
+</meaning>
+</definition>
+<definition id="d83737669788432778584658473797883">
+<term id="t83737669788432778584658473797883">silent mutations
+</term>
+<meaning id="m83737669788432778584658473797883">mutation that is not expressed 
+</meaning>
+</definition>
+<definition id="d838079788465786979858332778584658473797883">
+<term id="t838079788465786979858332778584658473797883">Spontaneous mutations
+</term>
+<meaning id="m838079788465786979858332778584658473797883">mutation that takes place in the cells as a result of chemical reactions taking place naturally without exposure to any external agent 
+</meaning>
+</definition>
+<definition id="d8482657883738473797832838566838473848584737978">
+<term id="t8482657883738473797832838566838473848584737978">transition substitution
+</term> 
+<meaning id="m8482657883738473797832838566838473848584737978">when a purine is replaced with a purine or a pyrimidine is replaced with another pyrimidine
+</meaning>
+</definition>
+<definition id="d84826578838669828373797832838566838473848584737978">
+<term id="t84826578838669828373797832838566838473848584737978">transversion substitution
+</term> 
+<meaning id="m84826578838669828373797832838566838473848584737978">when a purine is replaced by a pyrimidine or a pyrimidine is replaced by a purine
+</meaning>
+</definition>
+</glossary>
+</document>

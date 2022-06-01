@@ -1,0 +1,124 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Carbon</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52525</md:content-id>
+  <md:title>Carbon</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain why carbon is important for life</item>
+<item>Describe the role of functional groups in biological molecules</item>
+</list></md:abstract>
+  <md:uuid>1558934e-0a72-4a20-a4f0-c73e35528bfd</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm117917360">Cells are made of many complex molecules called macromolecules, such as proteins, nucleic acids (RNA and DNA), carbohydrates, and lipids. The macromolecules are a subset of 
+<link target-id="d7982716578736732777976696785766983">
+<term id="c7982716578736732777976696785766983">organic molecules
+</term>
+</link> (molecules containing carbon and hydrogen) that are especially important for life. The fundamental component for all of these macromolecules is carbon. The carbon atom has unique properties that allow it to form covalent bonds to as many as four different atoms, making this versatile element ideal to serve as the basic structural component, or “backbone,” of the macromolecules.
+</para><para id="fs-idm104312656">Individual carbon atoms have an incomplete outermost electron shell. With an atomic number of 6 (six electrons and six protons), the first two electrons fill the inner shell, leaving four in the second shell. Therefore, carbon atoms can form up to four covalent bonds with other atoms to satisfy the octet rule. The methane molecule provides an example: it has the chemical formula CH
+<sub>4
+</sub>. Each of its four hydrogen atoms forms a single covalent bond with the carbon atom by sharing a pair of electrons. This results in a filled outermost shell.
+</para>
+<section id="fs-idp10455440">
+<title>3.1a Hydrocarbons
+</title>
+<para id="fs-idm23065488">
+<link target-id="d728968827967658266797883">
+<term id="c728968827967658266797883">Hydrocarbons
+</term>
+</link> are organic molecules consisting entirely of carbon and hydrogen, such as methane (CH
+<sub>4
+</sub>) described above. We often use hydrocarbons in our daily lives as fuels—like the propane in a gas grill or the butane in a lighter. The many covalent bonds between the atoms in hydrocarbons store a great amount of energy, which is released when these molecules are burned (oxidized). Methane, an excellent fuel, is the simplest hydrocarbon molecule, with a central carbon atom bonded to four different hydrogen atoms, as illustrated in 
+<link target-id="fig-ch02_03_01" document=""/>. The geometry of the methane molecule, where the atoms reside in three dimensions, is determined by the shape of its electron orbitals. The carbons and the four hydrogen atoms form a shape known as a tetrahedron, with four triangular faces; for this reason, methane is described as having tetrahedral geometry.
+</para>
+<figure id="fig-ch02_03_01" class=" ">
+<label>Figure 2.3
+</label>
+<media id="fs-idm144965344" alt="Methane, the simplest hydrocarbon, is composed of four hydrogen atoms surrounding a central carbon. The bond between the four hydrogen atoms and the central carbon spaced as far apart as possible. The resulting in a tetrahedral shape with hydrogen atoms projecting upward and off to three sides around the central carbon.">
+<image mime-type="image/jpeg" src="../../media/Figure_02_03_01f.jpg" width="400"/>
+</media>
+<caption>Methane has a tetrahedral geometry, with each of the four hydrogen atoms spaced 109.5° apart.
+</caption>
+</figure>
+<para id="fs-idp79833888">As the backbone of the large molecules of living things, more complex hydrocarbons may exist as linear carbon chains, carbon rings, or combinations of both. Furthermore, individual carbon-to-carbon bonds may be single, double, or triple covalent bonds, and each type of bond affects the geometry of the molecule in a specific way. This three-dimensional shape or conformation of the large molecules of life (macromolecules) is critical to how they function.
+</para></section>
+<section id="fs-idm20735968">
+<title>3.1b Functional Groups
+</title>
+<para id="fs-idm3136624">
+<link target-id="d7085786784737978657632718279858083">
+<term id="c7085786784737978657632718279858083">Functional groups
+</term>
+</link> are groups of atoms that occur within molecules and confer specific chemical properties to those molecules. They are found along the “carbon backbone” of macromolecules. This carbon backbone is formed by chains and/or rings of carbon atoms with the occasional substitution of an element such as nitrogen or oxygen. Molecules with other elements in their carbon backbone are 
+<link target-id="d8385668384738485846968327289688279676582">
+<term id="c8385668384738485846968327289688279676582">substituted hydrocarbons
+</term>
+</link>.
+</para>
+<para id="fs-idp75409312">The functional groups in a macromolecule are usually attached to the carbon backbone at one or several different places along its chain and/or ring structure. Each of the four types of macromolecules—proteins, lipids, carbohydrates, and nucleic acids—has its own characteristic set of functional groups that contributes greatly to its differing chemical properties and its function in living organisms.
+</para>
+<para id="fs-idm191060016">A functional group can participate in specific chemical reactions. Some of the important functional groups in biological molecules are shown in 
+<link target-id="fig-ch02_03_07" document=""/>; they include: hydroxyl, methyl, carbonyl, carboxyl, amino, phosphate, and sulfhydryl. These groups play an important role in the formation of molecules like DNA, proteins, carbohydrates, and lipids. Functional groups are usually classified as hydrophobic or hydrophilic depending on their charge or polarity characteristics. An example of a hydrophobic group is the non-polar methane molecule. Among the hydrophilic functional groups is the carboxyl group found in amino acids, some amino acid side chains, and the fatty acids that form triglycerides and phospholipids. This carboxyl group ionizes to release hydrogen ions (H
+<sup>+
+</sup>) from the COOH group resulting in the negatively charged COO
+<sup>- 
+</sup>group; this contributes to the hydrophilic nature of whatever molecule it is found on. Other functional groups, such as the carbonyl group, have a partially negatively charged oxygen atom that may form hydrogen bonds with water molecules, again making the molecule more hydrophilic.
+</para>
+<figure id="fig-ch02_03_07" class=" ">
+<label>Figure 2.3
+</label>
+<media id="fs-idp35347792" alt="Table shows the structure and properties of different functional groups. Hydroxyl groups, which consist of OH attached to a carbon chain, are polar. Methyl groups, which consist of three hydrogens attached to a carbon chain, are nonpolar. Carbonyl groups, which consist of an oxygen double bonded to a carbon in the middle of a hydrocarbon chain, are polar. Carboxyl groups, which consist of a carbon with a double bonded oxygen and an OH group attached to a carbon chain, are able to ionize, releasing H+ ions into solution. Carboxyl groups are considered acidic. Amino groups, which consist of two hydrogens attached to a nitrogen, are able to accept H+ ions from solution, forming H3+. Amino groups are considered basic. Phosphate groups consist of a phosphorous with one double bonded oxygen and two OH groups. Another oxygen forms a link from the phosphorous to a carbon chain. Both OH groups in phosphorous can lose a H+ ion, and phosphate groups are considered acidic.">
+<image mime-type="image/jpeg" src="../../media/Figure_02_03_07.jpg" width="355"/>
+</media>
+<caption>The functional groups shown here are found in many different biological molecules.
+</caption>
+</figure>
+<para id="fs-idm60184160">Hydrogen bonds between functional groups (within the same molecule or between different molecules) are important to the function of many macromolecules and help them to fold properly into and maintain the appropriate shape for functioning. Hydrogen bonds are also involved in various recognition processes, such as DNA complementary base pairing and the binding of an enzyme to its substrate, as illustrated in 
+<link target-id="fig-ch02_03_08" document=""/>.
+</para>
+<figure id="fig-ch02_03_08" class=" ">
+<label>Figure 2.3
+</label>
+<media id="fs-idp14619136" alt="Molecular models show hydrogen bonding between thymine and adenine, and between cytosine and guanine. These four DNA bases are organic molecules containing carbon, nitrogen, oxygen, and hydrogen in complex ring structures. Hydrogen bonds between the bases hold them together.">
+<image mime-type="image/jpeg" src="../../media/Figure_02_03_08.jpg" width="500"/>
+</media>
+<caption>Hydrogen bonds connect two strands of DNA together to create the double-helix structure.
+</caption>
+</figure>
+</section>
+<section id="fs-id00000004" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-004">The unique properties of carbon make it a central part of biological molecules. Carbon binds to oxygen, hydrogen, and nitrogen covalently to form the many molecules important for cellular function. Carbon has four electrons in its outermost shell and can form four bonds. Carbon and hydrogen can form hydrocarbon chains or rings. Functional groups are groups of atoms that confer specific properties to hydrocarbon (or substituted hydrocarbon) chains or rings that define their overall chemical characteristics and function.
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d7085786784737978657632718279858083">
+<term id="t7085786784737978657632718279858083">Functional groups
+</term>
+<meaning id="m7085786784737978657632718279858083">group of atoms that provides or imparts a specific function to a carbon skeleton 
+</meaning>
+</definition>
+<definition id="d728968827967658266797883">
+<term id="t728968827967658266797883">Hydrocarbons
+</term>
+<meaning id="m728968827967658266797883">molecule that consists only of carbon and hydrogen 
+</meaning>
+</definition>
+<definition id="d7982716578736732777976696785766983">
+<term id="t7982716578736732777976696785766983">organic molecules
+</term>
+<meaning id="m7982716578736732777976696785766983">any molecule containing carbon (except carbon dioxide) 
+</meaning>
+</definition>
+<definition id="d8385668384738485846968327289688279676582">
+<term id="t8385668384738485846968327289688279676582">substituted hydrocarbons
+</term>
+<meaning id="m8385668384738485846968327289688279676582">hydrocarbon chain or ring containing an atom of another element in place of one of the backbone chains
+</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,304 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>DNA Replication in Prokaryotes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52688</md:content-id>
+  <md:title>DNA Replication in Prokaryotes</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the process of DNA replication in prokaryotes</item>
+<item>Discuss the role of different enzymes and proteins in supporting this process</item>
+</list></md:abstract>
+  <md:uuid>38067053-3e52-465c-9fd6-cfe581e208d7</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2571092">
+<link target-id="d687865328269807673676584737978">
+<term id="c687865328269807673676584737978">DNA replication
+</term>
+</link> is the process of a cell making an additional copy of all of its DNA. DNA replication has been extremely well studied in prokaryotes primarily because of the small size of the genome and the mutants that are available. 
+<emphasis effect="italics">E. coli 
+</emphasis>has 4.6 million base pairs in a single circular chromosome and all of it gets replicated in approximately 42 minutes, starting from a single origin of replication and proceeding around the circle in both directions. This means that approximately 1000 nucleotides are added per second. The process is quite rapid and occurs without many mistakes.
+</para>
+<para id="fs-id1806393">DNA replication employs a large number of proteins and enzymes, each of which plays a critical role during the process. One of the key players is the enzyme 
+<link target-id="d6878653280797689776982658369">
+<term id="c6878653280797689776982658369">DNA polymerase
+</term>
+</link>, also known as DNA pol, which adds nucleotides one by one to the growing DNA chain that are complementary to the template strand. The addition of nucleotides requires energy; this energy is obtained from the nucleotides that have three phosphates attached to them: ATP, GTP, TTP, and CTP. The ATP in the previous sentence is the same molecules used for energy throughout a cell. When the bond between the phosphates is broken, the energy released is used to form the phosphodiester bond between the incoming nucleotide and the growing chain. In prokaryotes, three main types of polymerases are known: DNA pol I, DNA pol II, and DNA pol III. It is now known that DNA pol III is the enzyme required for DNA synthesis; DNA pol I and DNA pol II are primarily required for repair.
+</para>
+<para id="fs-id1676042">How does the replication machinery know where to begin? It turns out that there are specific nucleotide sequences called origins of replication where replication begins. In 
+<emphasis effect="italics">E. coli, 
+</emphasis>which has a single origin of replication on its one chromosome (as do most prokaryotes), it is approximately 245 base pairs long and is rich in AT sequences. The origin of replication is recognized by certain proteins that bind to this site. An enzyme called 
+<link target-id="d7269767367658369">
+<term id="c7269767367658369">helicase
+</term>
+</link> unwinds the DNA by breaking the hydrogen bonds between the nitrogenous base pairs. As the DNA opens up, Y-shaped structures called 
+<link target-id="d8269807673676584737978327079827583">
+<term id="c8269807673676584737978327079827583">replication forks
+</term>
+</link> are formed. Two replication forks are formed at the origin of replication and these get extended bi- directionally as replication proceeds. 
+<link target-id="d8373787176694583848265786832667378687378">
+<term id="c8373787176694583848265786832667378687378">Single-strand binding proteins
+</term>
+</link> coat the single strands of DNA near the replication fork to prevent the single-stranded DNA from winding back into a double helix. DNA polymerase is able to add nucleotides only in the 5' to 3' direction (a new DNA strand can be only extended in this direction). It also requires a free 3'-OH group to which it can add nucleotides by forming a phosphodiester bond between the 3'-OH end and the 5' phosphate of the next nucleotide. This essentially means that it cannot add nucleotides if a free 3'-OH group is not available. Then how does it add the first nucleotide? The problem is solved with the help of a primer that provides the free 3'-OH end. Another enzyme, RNA 
+<link target-id="d80827377658369">
+<term id="c80827377658369">primase
+</term>
+</link>, synthesizes an RNA primer that is about five to ten nucleotides long and complementary to the DNA. Because this sequence primes the DNA synthesis, it is appropriately called the 
+<link target-id="d808273776982">
+<term id="c808273776982">primer
+</term>
+</link>. DNA polymerase can now extend this RNA primer, adding nucleotides one by one that are complementary to the template strand (
+<link target-id="fig-ch14_04_01" document=""/>).
+</para>
+<note id="fs-id1305287" class="art-connection">
+<label/>
+<title>Art Connection
+</title>
+<para id="fs-id2979157">
+<figure id="fig-ch14_04_01">
+<label>Figure 14.4
+</label>
+<media id="fs-id2897265" alt="Illustration shows the replication fork. Helicase unwinds the helix, and single-strand binding proteins prevent the helix from re-forming. Topoisomerase prevents the DNA from getting too tightly coiled ahead of the replication fork. DNA primase forms an RNA primer, and DNA polymerase extends the DNA strand from the RNA primer. DNA synthesis occurs only in the 5' to 3' direction. On the leading strand, DNA synthesis occurs continuously. On the lagging strand, DNA synthesis restarts many times as the helix unwinds, resulting in many short fragments called “Okazaki fragments.” DNA ligase joins the Okazaki fragments together into a single DNA molecule.">
+<image mime-type="image/png" src="../../media/Figure_14_04_01.jpg" width="400"/>
+</media>
+<caption>A replication fork is formed when helicase separates the DNA strands at the origin of replication. The DNA tends to become more highly coiled ahead of the replication fork. Topoisomerase breaks and reforms DNA’s phosphate backbone ahead of the replication fork, thereby relieving the pressure that results from this supercoiling. Single-strand binding proteins bind to the single-stranded DNA to prevent the helix from re-forming. Primase synthesizes an RNA primer. DNA polymerase III uses this primer to synthesize the daughter DNA strand. On the leading strand, DNA is synthesized continuously, whereas on the lagging strand, DNA is synthesized in short stretches called Okazaki fragments. DNA polymerase I replaces the RNA primer with DNA. DNA ligase seals the gaps between the Okazaki fragments, joining the fragments into a single DNA molecule. (credit: modification of work by Mariana Ruiz Villareal)
+</caption>
+</figure>
+</para>
+<para id="fs-id1368727">You are studying cells in which the joining together of Okazaki fragments is impaired and suspect that a mutation has occurred in an enzyme found at the replication fork. Which enzyme is most likely to be mutated?
+</para></note>
+<para id="fs-id1385221">The replication fork moves at the rate of 1000 nucleotides per second. DNA polymerase can only extend in the 5' to 3' direction, which poses a slight problem at the replication fork. As we know, the DNA double helix is anti-parallel; that is, one strand is in the 5' to 3' direction and the other is oriented in the 3' to 5' direction. One strand, which is complementary to the 3' to 5' parental DNA strand, is synthesized continuously towards the replication fork because the polymerase can add nucleotides in this direction. This continuously synthesized strand is known as the 
+<link target-id="d7669656873787132838482657868">
+<term id="c7669656873787132838482657868">leading strand
+</term>
+</link>. The other strand, complementary to the 5' to 3' parental DNA, is extended away from the replication fork, in small fragments known as 
+<link target-id="d7975659065757332708265717769788483">
+<term id="c7975659065757332708265717769788483">Okazaki fragments
+</term>
+</link>, each requiring a primer to start the synthesis. Okazaki fragments are named after the Japanese scientist who first discovered them. The strand with the Okazaki fragments is known as the 
+<link target-id="d7665717173787132838482657868">
+<term id="c7665717173787132838482657868">lagging strand
+</term>
+</link>.
+</para>
+<para id="fs-id2962574">The leading strand can be extended by one primer alone, whereas the lagging strand needs a new primer for each of the short Okazaki fragments. The overall direction of the lagging strand will be 3' to 5', and that of the leading strand 5' to 3'. A protein called the 
+<link target-id="d83767368737871326776657780">
+<term id="c83767368737871326776657780">sliding clamp
+</term>
+</link> holds the DNA polymerase in place as it continues to add nucleotides. The sliding clamp is a ring-shaped protein that binds to the DNA and holds the polymerase in place. 
+<link target-id="d84798079738379776982658369">
+<term id="c84798079738379776982658369">Topoisomerase
+</term>
+</link> prevents the over-winding of the DNA double helix ahead of the replication fork as the DNA is opening up; it does so by causing temporary nicks in the DNA helix and then resealing it. As synthesis proceeds, the RNA primers are replaced by DNA. The nicks that remain between the newly synthesized DNA (that replaced the RNA primer) and the previously synthesized DNA are sealed by the enzyme DNA 
+<link target-id="d767371658369">
+<term id="c767371658369">ligase
+</term>
+</link> that catalyzes the formation of phosphodiester linkage between the 3'-OH end of one nucleotide and the 5' phosphate end of the other fragment.
+</para>
+<para id="fs-id1752302">Once the chromosome has been completely replicated, the two DNA copies move into two different cells during cell division. The process of DNA replication can be summarized as follows:
+</para>
+<list id="fs-id2017788" list-type="enumerated">    
+<item>DNA unwinds at the origin of replication.
+</item>
+<item>Helicase opens up the DNA-forming replication forks; these are extended bidirectionally.
+</item>
+<item>Single-strand binding proteins coat the DNA around the replication fork to prevent rewinding of the DNA.
+</item>
+<item>Topoisomerase binds at the region ahead of the replication fork to prevent supercoiling.
+</item>
+<item>Primase synthesizes RNA primers complementary to the DNA strand.
+</item>
+<item>DNA polymerase starts adding nucleotides to the 3'-OH end of the primer.
+</item>
+<item>Elongation of both the lagging and the leading strand continues.
+</item>
+<item>RNA primers are removed by exonuclease activity.
+</item>
+<item>Gaps are filled by DNA pol by adding dNTPs.
+</item>
+<item>The gap between the two DNA fragments is sealed by DNA ligase, which helps in the formation of phosphodiester bonds.
+</item>
+</list>
+<para id="fs-id2235232">
+<newline/>
+<link target-id="tab-ch14_04_01" document=""/> summarizes the enzymes involved in prokaryotic DNA replication and the functions of each.
+</para>
+<table id="tab-ch14_04_01" class="  " summary="">    
+<tgroup cols="2">   
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="left">Prokaryotic DNA Replication: Enzymes and Their Function
+</entry>
+</row>
+<row>
+<entry>Enzyme/protein
+</entry>
+<entry>Specific Function
+</entry>
+</row>
+</thead>
+<tbody>            
+<row>
+<entry>DNA pol I
+</entry>
+<entry>Exonuclease activity removes RNA primer and replaces with newly synthesized DNA
+</entry>
+</row>
+<row>
+<entry>DNA pol II
+</entry>
+<entry>Repair function
+</entry>
+</row>
+<row>
+<entry>DNA pol III
+</entry>
+<entry>Main enzyme that adds nucleotides in the 5'-3' direction
+</entry>
+</row>
+<row>
+<entry>Helicase
+</entry>
+<entry>Opens the DNA helix by breaking hydrogen bonds between the nitrogenous bases
+</entry>
+</row>
+<row>
+<entry>Ligase
+</entry>
+<entry>Seals the gaps between the Okazaki fragments to create one continuous DNA strand
+</entry>
+</row>
+<row>
+<entry>Primase
+</entry>
+<entry>Synthesizes RNA primers needed to start replication
+</entry>
+</row>
+<row>
+<entry>Sliding Clamp
+</entry>
+<entry>Helps to hold the DNA polymerase in place when nucleotides are being added
+</entry>
+</row>
+<row>
+<entry>Topoisomerase
+</entry>
+<entry>Helps relieve the stress on DNA when unwinding by causing breaks and then resealing the DNA
+</entry>
+</row>
+<row>
+<entry>Single-strand binding proteins (SSB)
+</entry>
+<entry>Binds to single-stranded DNA to avoid DNA rewinding back.
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1672176" class="interactive">
+<label/>
+<title>Link to Learning
+</title>
+<media id="fs-id2914259" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/replication_DNA.png" width="120"/>
+</media>
+<para id="fs-id2010960">Review the full process of DNA replication 
+<link window="new" url="http://openstaxcollege.org/l/replication_DNA">here
+</link>.
+</para>
+</note>
+<para id="eip-726">The previous section has demonstrated how DNA replicates by breaking existing double-stranded pieces apart, then adding a new second strand to each existing one. This may seem very logical, but scientists weren't always so certain how the process worked. All they knew was somehow a cell started with one piece of double-stranded DNA and then later it ended up with two pieces of double-stranded DNA. Scientists hypothesized three possibilities, one of which was the model described above, called semi-conservative replication. The other models (conservative replication and discontinuous replication) were rejected based on multiple experiments.
+</para>
+<para id="eip-118">DNA replication is not a perfect process. The DNA polymerase sometimes makes mistakes. Cells have multiple ways to fix mistakes: DNA polymerase has a proof-reading ability to check its own work and different types of repair processes exist to fix different kinds of mutations. However, not every mistake is fixed. If a mistake is not fixed, we call it a mutation. Mutations are passed on because a cell can only fix a mistake as soon as it happens, so if it's not fixed right away, it stays in the cell's DNA permanently. 
+</para>
+<section id="fs-id00000029" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-029">DNA replication is required for cells to pass on their DNA when they divide into new cells. Multiple proteins are involved in replicating DNA, and it happens in a semi-conservative manner. The two strands are split apart, and a new, complementary copy of each strand is built. DNA polymerase can only build in the 5' to 3' direction, which means that each strand is replicated in different directions. Unfixed errors during DNA replication are mutations, and can be passed on when that cell divides.
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d6878653280797689776982658369">
+<term id="t6878653280797689776982658369">DNA polymerase
+</term>
+<meaning id="m6878653280797689776982658369">enzyme that replicates DNA 
+</meaning>
+</definition>
+<definition id="d687865328269807673676584737978">
+<term id="t687865328269807673676584737978">DNA replication
+</term>
+<meaning id="m687865328269807673676584737978">process of copying DNA 
+</meaning>
+</definition>
+<definition id="d7269767367658369">
+<term id="t7269767367658369">helicase
+</term> 
+<meaning id="m7269767367658369">during replication, this enzyme helps to open up the DNA helix by breaking the hydrogen bonds
+</meaning>
+</definition>
+<definition id="d7665717173787132838482657868">
+<term id="t7665717173787132838482657868">lagging strand
+</term> 
+<meaning id="m7665717173787132838482657868">during replication, the strand that is replicated in short fragments and away from the replication fork
+</meaning>
+</definition>
+<definition id="d7669656873787132838482657868">
+<term id="t7669656873787132838482657868">leading strand
+</term> 
+<meaning id="m7669656873787132838482657868">strand that is synthesized continuously in the 5'-3' direction which is synthesized in the direction of the replication fork
+</meaning>
+</definition>
+<definition id="d767371658369">
+<term id="t767371658369">ligase
+</term> 
+<meaning id="m767371658369">enzyme that catalyzes the formation of a phosphodiester linkage between the 3' OH and 5' phosphate ends of the DNA
+</meaning>
+</definition>
+<definition id="d7975659065757332708265717769788483">
+<term id="t7975659065757332708265717769788483">Okazaki fragments
+</term>
+<meaning id="m7975659065757332708265717769788483">DNA fragment synthesized in short stretches on the lagging strand 
+</meaning>
+</definition>
+<definition id="d80827377658369">
+<term id="t80827377658369">primase
+</term> 
+<meaning id="m80827377658369">enzyme that synthesizes the RNA primer; the primer is needed for DNA pol to start synthesis of a new DNA strand
+</meaning>
+</definition>
+<definition id="d808273776982">
+<term id="t808273776982">primer
+</term> 
+<meaning id="m808273776982">short stretch of nucleotides that is required to initiate replication; in the case of replication, the primer has RNA nucleotides
+</meaning>
+</definition>
+<definition id="d8269807673676584737978327079827583">
+<term id="t8269807673676584737978327079827583">replication forks
+</term>
+<meaning id="m8269807673676584737978327079827583">Y-shaped structure formed during initiation of replication 
+</meaning>
+</definition>
+<definition id="d8373787176694583848265786832667378687378">
+<term id="t8373787176694583848265786832667378687378">Single-strand binding proteins
+</term>
+<meaning id="m8373787176694583848265786832667378687378">during replication, protein that binds to the single-stranded DNA; his helps in keeping the two strands of DNA apart so they may serve as templates 
+</meaning>
+</definition>
+<definition id="d83767368737871326776657780">
+<term id="t83767368737871326776657780">sliding clamp
+</term> 
+<meaning id="m83767368737871326776657780">ring-shaped protein that holds the DNA pol on the DNA strand
+</meaning>
+</definition>
+<definition id="d84798079738379776982658369">
+<term id="t84798079738379776982658369">topoisomerase
+</term> 
+<meaning id="m84798079738379776982658369">enzyme that causes underwinding or overwinding of DNA when DNA replication is taking place
+</meaning>
+</definition>
+</glossary>
+</document>

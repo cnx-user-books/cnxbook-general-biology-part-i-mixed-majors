@@ -1,0 +1,133 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Control of the Cell Cycle</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52673</md:content-id>
+  <md:title>Control of the Cell Cycle</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Understand how the cell cycle is controlled by mechanisms both internal and external to the cell</item>
+<item>Explain how the three internal control checkpoints occur at the end of G<sub>1</sub>, at the G<sub>2</sub>/M transition, and during metaphase</item>
+<item>Describe the molecules that control the cell cycle through positive and negative regulation</item>
+</list></md:abstract>
+  <md:uuid>932957f4-cdc6-4221-a47b-da23d0443639</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1766306">The length of the cell cycle is highly variable, even within the cells of a single organism. In humans, the frequency of cell turnover ranges from a few hours in early embryonic development, to an average of two to five days for epithelial cells, and to an entire human lifetime spent in G
+<sub>0
+</sub> by specialized cells, such as cortical neurons or cardiac muscle cells. There is also variation in the time that a cell spends in each phase of the cell cycle. When fast-dividing mammalian cells are grown in culture (outside the body under optimal growing conditions), the length of the cycle is about 24 hours. In rapidly dividing human cells with a 24-hour cell cycle, the G
+<sub>1
+</sub> phase lasts approximately nine hours, the S phase lasts 10 hours, the G
+<sub>2
+</sub> phase lasts about four and one-half hours, and the M phase lasts approximately one-half hour. In early embryos of fruit flies, the cell cycle is completed in about eight minutes. The timing of events in the cell cycle is controlled by mechanisms that are both internal and external to the cell.
+</para>
+<section id="fs-id1408061">
+<title>14.2a Regulation of the Cell Cycle by External Events
+</title>
+<para id="fs-id2468588">Both the initiation and inhibition of cell division are triggered by events external to the cell when it is about to begin the replication process. An event may be as simple as the death of a nearby cell or as sweeping as the release of growth-promoting hormones, such as human growth hormone (HGH). A lack of HGH can inhibit cell division, resulting in dwarfism, whereas too much HGH can result in gigantism. Crowding of cells can also inhibit cell division. Another factor that can initiate cell division is the size of the cell; as a cell grows, it becomes inefficient due to its decreasing surface-to-volume ratio. The solution to this problem is to divide.
+</para>
+<para id="fs-id2118380">Whatever the source of the message, the cell receives the signal, and a series of events within the cell allows it to proceed into interphase. Moving forward from this initiation point, every parameter required during each cell cycle phase must be met or the cycle cannot progress.
+</para>
+</section>
+<section id="fs-id1731275">
+<title>14.2b Regulation at Internal Checkpoints
+</title>
+<para id="fs-id1484996">It is essential that the daughter cells are exact duplicates of the parent cell. Mistakes in the duplication or distribution of the chromosomes lead to mutations that may be passed forward to every new cell produced from an abnormal cell. To prevent a compromised cell from continuing to divide, there are internal control mechanisms that operate at three main 
+<link target-id="d67697676326789677669326772696775807973788483">
+<term id="c67697676326789677669326772696775807973788483">cell cycle checkpoints
+</term>
+</link>. A checkpoint is one of several points in the eukaryotic cell cycle at which the progression of a cell to the next stage in the cycle can be halted until conditions are favorable. These checkpoints occur near the end of G
+<sub>1
+</sub>, at the G
+<sub>2
+</sub>/M transition, and during metaphase (
+<link target-id="fig-ch10_03_01" document=""/>).
+</para>
+<figure id="fig-ch10_03_01" class="  ">
+<label>Figure 10.3
+</label>
+<media id="fs-id2164409" alt="This illustration shows the three major checkpoints of the cell cycle: G_{1}, G_{2}, and M.">
+<image mime-type="image/png" src="../../media/Figure_10_03_01.jpg" width="550"/>
+</media>
+<caption>The cell cycle is controlled at three checkpoints. The integrity of the DNA is assessed at the G
+<sub>1
+</sub> checkpoint. Proper chromosome duplication is assessed at the G
+<sub>2
+</sub> checkpoint. Attachment of each kinetochore to a spindle fiber is assessed at the M checkpoint.
+</caption>
+</figure>
+<section id="fs-id1270040">
+<title>The G
+<sub>1
+</sub> Checkpoint
+</title>
+<para id="fs-id2205570">The G
+<sub>1
+</sub> checkpoint determines whether all conditions are favorable for cell division to proceed. The G
+<sub>1
+</sub> checkpoint is a point at which the cell irreversibly commits to the cell division process. External influences, such as growth factors, play a large role in carrying the cell past the G
+<sub>1
+</sub> checkpoint. In addition to adequate reserves and cell size, there is a check for genomic DNA damage at the G
+<sub>1
+</sub> checkpoint. A cell that does not meet all the requirements will not be allowed to progress into the S phase. The cell can halt the cycle and attempt to remedy the problematic condition, or the cell can advance into G
+<sub>0
+</sub> and await further signals when conditions improve.
+</para>
+</section>
+<section id="fs-id2155647">
+<title>The G
+<sub>2
+</sub> Checkpoint
+</title>
+<para id="fs-id1847006">The G
+<sub>2
+</sub> checkpoint bars entry into the mitotic phase if certain conditions are not met. As at the G
+<sub>1
+</sub> checkpoint, cell size and protein reserves are assessed. However, the most important role of the G
+<sub>2
+</sub> checkpoint is to ensure that all of the chromosomes have been replicated and that the replicated DNA is not damaged. If the checkpoint mechanisms detect problems with the DNA, the cell cycle is halted, and the cell attempts to either complete DNA replication or repair the damaged DNA.
+</para>
+</section>
+<section id="fs-id2074463">
+<title>The M Checkpoint
+</title>
+<para id="fs-id2747604">The M checkpoint occurs near the end of the metaphase stage of karyokinesis. The M checkpoint is also known as the spindle checkpoint, because it determines whether all the sister chromatids are correctly attached to the spindle microtubules. Because the separation of the sister chromatids during anaphase is an irreversible step, the cycle will not proceed until the kinetochores of each pair of sister chromatids are firmly anchored to at least two spindle fibers arising from opposite poles of the cell.
+</para>
+<note id="fs-id1396394" class="interactive">
+<label/>
+<title>Link to Learning
+</title>
+<media id="fs-id2050875" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/cell_checkpnts.png" width="120"/>
+</media>
+<para id="fs-id1473369">Watch what occurs at the G
+<sub>1
+</sub>, G
+<sub>2
+</sub>, and M checkpoints by visiting this 
+<link window="new" url="http://openstaxcollege.org/l/cell_checkpnts">website
+</link> to see an animation of the cell cycle.
+</para>
+</note>
+</section>
+</section>
+<section id="fs-id00000044" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-044">Each step of the cell cycle is monitored by internal controls called checkpoints. There are three major checkpoints in the cell cycle: one near the end of G
+<sub>1
+</sub>, a second at the G
+<sub>2
+</sub>/M transition, and the third during metaphase. Positive regulator molecules allow the cell cycle to advance to the next stage. Negative regulator molecules monitor cellular conditions and can halt the cycle until specific requirements are met.
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d67697676326789677669326772696775807973788483">
+<term id="t67697676326789677669326772696775807973788483">cell cycle checkpoints
+</term>
+<meaning id="m67697676326789677669326772696775807973788483">mechanism that monitors the preparedness of a eukaryotic cell to advance through the various cell cycle stages 
+</meaning>
+</definition>
+</glossary>
+</document>

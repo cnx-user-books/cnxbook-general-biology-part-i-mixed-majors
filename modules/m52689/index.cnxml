@@ -1,0 +1,102 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Telomerase</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52689</md:content-id>
+  <md:title>Telomerase</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the similarities and differences between DNA replication in eukaryotes and prokaryotes</item>
+<item>State the role of telomerase in DNA replication</item>
+</list></md:abstract>
+  <md:uuid>63cdbc50-b053-42a9-b4f6-01832f6c2e08</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1975225">Eukaryotic genomes are much more complex and larger in size than prokaryotic genomes. The human genome has three billion base pairs per haploid set of chromosomes, and 6 billion base pairs are replicated during the S phase of the cell cycle. 
+</para>
+<section id="fs-id1272063">
+<title>14.4a Telomere replication
+</title>
+<para id="fs-id2030086">Unlike prokaryotic chromosomes, eukaryotic chromosomes are linear. As you’ve learned, the enzyme DNA pol can add nucleotides only in the 5' to 3' direction. In the leading strand, synthesis continues until the end of the chromosome is reached. On the lagging strand, DNA is synthesized in short stretches, each of which is initiated by a separate primer. When the replication fork reaches the end of the linear chromosome, there is no place for a primer to be made for the DNA fragment to be copied at the end of the chromosome. These ends thus remain unpaired, and over time these ends may get progressively shorter as cells continue to divide.
+</para>
+<para id="fs-id1318769">The ends of the linear chromosomes are known as 
+<link target-id="d846976797769826983">
+<term id="c846976797769826983">telomeres
+</term>
+</link>, which have repetitive sequences that code for no particular gene. In a way, these telomeres protect the genes from getting deleted as cells continue to divide. In humans, a six base pair sequence, TTAGGG, is repeated 100 to 1000 times. The discovery of the enzyme telomerase (
+<link target-id="fig-ch14_05_02" document=""/>) helped in the understanding of how chromosome ends are maintained. The 
+<link target-id="d84697679776982658369">
+<term id="c84697679776982658369">telomerase
+</term>
+</link> enzyme contains a catalytic part and a built-in RNA template. It attaches to the end of the chromosome, and complementary bases to the RNA template are added on the 3' end of the DNA strand. Once the 3' end of the lagging strand template is sufficiently elongated, DNA polymerase can add the nucleotides complementary to the ends of the chromosomes. Thus, the ends of the chromosomes are replicated.
+</para>
+<figure id="fig-ch14_05_01">
+<label>Figure 14.5
+</label>
+<media id="fs-id1986139" alt="Telomerase has an associated RNA that complements the 5' overhang at the end of the chromosome. The RNA template is used to synthesize the complementary strand. Telomerase then shifts, and the process is repeated. Next, primase and DNA polymerase synthesize the rest of the complementary strand.">
+<image mime-type="image/jpg" src="../../media/Figure_14_05_01.jpg" width="300"/>
+</media>
+<caption>The ends of linear chromosomes are maintained by the action of the telomerase enzyme.
+</caption>
+</figure>
+<para id="fs-id1721035">Telomerase is typically active in germ cells and adult stem cells. It is not active in adult somatic cells. For her discovery of telomerase and its action, Elizabeth Blackburn (
+<link target-id="fig-ch14_05_02" document=""/>) received the Nobel Prize for Medicine and Physiology in 2009.
+</para>
+<figure id="fig-ch14_05_02">
+<label>Figure 14.5
+</label>
+<media id="fs-id2318509" alt="Photo of Elizabeth Blackburn.">
+<image mime-type="image/jpg" src="../../media/Figure_14_05_02.jpg" width="320"/>
+</media>
+<caption>Elizabeth Blackburn, 2009 Nobel Laureate, is the scientist who discovered how telomerase works. (credit: US Embassy Sweden)
+</caption>
+</figure>
+<section id="fs-id2150202">
+<title>Telomerase and Aging
+</title>
+<para id="fs-id2199338">Cells that undergo cell division continue to have their telomeres shortened because most somatic cells do not make telomerase. This essentially means that telomere shortening is associated with aging. With the advent of modern medicine, preventative health care, and healthier lifestyles, the human life span has increased, and there is an increasing demand for people to look younger and have a better quality of life as they grow older.
+</para>
+<para id="fs-id2196973">In 2010, scientists found that telomerase can reverse some age-related conditions in mice. This may have potential in regenerative medicine.
+<sup>
+<footnote id="fs-id1477114">Jaskelioff et al., “Telomerase reactivation reverses tissue degeneration in aged telomerase-deficient mice,” 
+<emphasis effect="italics">Nature
+</emphasis> 469 (2011): 102-7.
+</footnote>
+</sup> Telomerase-deficient mice were used in these studies; these mice have tissue atrophy, stem cell depletion, organ system failure, and impaired tissue injury responses. Telomerase reactivation in these mice caused extension of telomeres, reduced DNA damage, reversed neurodegeneration, and improved the function of the testes, spleen, and intestines. Thus, telomere reactivation may have potential for treating age-related diseases in humans.
+</para>
+<para id="fs-id2370326">Cancer is characterized by uncontrolled cell division of abnormal cells. The cells accumulate mutations, proliferate uncontrollably, and can migrate to different parts of the body through a process called 
+<link target-id="d77698465838465837383">
+<term id="c77698465838465837383">metastasis
+</term>
+</link>. Scientists have observed that cancerous cells have considerably shortened telomeres and that telomerase is active in these cells. Interestingly, only after the telomeres were shortened in the cancer cells did the telomerase become active. If the action of telomerase in these cells can be inhibited by drugs during cancer therapy, then the cancerous cells could potentially be stopped from further division.
+</para>
+</section>
+</section>
+<section id="fs-id00000045" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-045">When cells divide, they need to first replicate their DNA. In earlier sections, we discussed how this happens in S phase of interphase. When the chromosomes replicate, one strand of each chromatid is a little shorter than it used to be. This happens because of the directionality of the DNA polymerase. Certain cells (stem cells, some cancer cells) produce an enzyme (telomerase) that can lengthen those shorter strands. However, most cells do not express telomerase, and therefore the DNA gets shorter and shorter with every S phase. Eventually, the strands get short enough to trigger the cell to undergo apoptosis. 
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d77698465838465837383">
+<term id="t77698465838465837383">metastasis
+</term>
+<meaning id="m77698465838465837383">the spread of cancer cells from an initial tumor to other parts of the body 
+</meaning>
+</definition>
+<definition id="d84697679776982658369">
+<term id="t84697679776982658369">telomerase
+</term> 
+<meaning id="m84697679776982658369">enzyme that contains a catalytic part and an inbuilt RNA template; it functions to maintain telomeres at chromosome ends
+</meaning>
+</definition>
+<definition id="d846976797769826983">
+<term id="t846976797769826983">telomeres
+</term>
+<meaning id="m846976797769826983">DNA at the end of linear chromosomes 
+</meaning>
+</definition>
+</glossary>
+</document>

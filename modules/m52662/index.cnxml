@@ -1,0 +1,260 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>The Light-Dependent Reactions of Photosynthesis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52662</md:content-id>
+  <md:title>The Light-Dependent Reactions of Photosynthesis</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how plants absorb energy from sunlight</item>
+<item>Describe short and long wavelengths of light</item>
+<item>Describe how and where photosynthesis takes place within a plant</item>
+</list></md:abstract>
+  <md:uuid>5e268863-5264-4dda-8c8b-3c98e4781ebc</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-idm30660704">
+<title>7.3a How Light-Dependent Reactions Work (The Non-Cyclic Pathway) </title><para id="fs-idm291419072">The overall function of light-dependent reactions is to convert solar energy into chemical energy in the form of NADPH and ATP. This chemical energy supports the light-independent reactions and fuels the assembly of sugar molecules. The light-dependent reactions are depicted in 
+<link target-id="fig-ch08_02_07" document=""/>. Protein complexes and pigment molecules work together to produce NADPH and ATP.
+</para>
+<figure id="fig-ch08_02_07">
+<label>Figure 8.2
+</label>
+<media id="fs-idm3490080" alt=" Illustration a shows the structure of PSII, which is embedded in the thylakoid membrane. At the core of PSII is the reaction center. The reaction center is surrounded by the light-harvesting complex, which contains antenna pigment molecules that shunt light energy toward a pair of chlorophyll a molecules in the reaction center. As a result, an electron is excited and transferred to the primary electron acceptor. A water molecule is split, releasing two electrons which are used to replace excited electrons. Illustration b shows the structure of PSI, which is similar in structure to PSII. However, PSII uses an electron from the chloroplast electron transport chain also embedded in the thylakoid membrane to replace the excited electron.">
+<image mime-type="image/png" src="../../media/Figure_08_02_07ab.png" width="320"/>
+</media>
+<caption>A photosystem consists of a light-harvesting complex and a reaction center. Pigments in the light-harvesting complex pass light energy to two special chlorophyll 
+<emphasis effect="italics">a
+</emphasis> molecules in the reaction center. The light excites an electron from the chlorophyll 
+<emphasis effect="italics">a
+</emphasis> pair, which passes to the primary electron acceptor. The excited electron must then be replaced. In (a) photosystem II, the electron comes from the splitting of water, which releases oxygen as a waste product. In (b) photosystem I, the electron comes from the chloroplast electron transport chain discussed below.
+</caption>
+</figure>
+<para id="fs-idm97436496">The actual step that converts light energy into chemical energy takes place in a multiprotein complex called a 
+<link target-id="d8072798479838983846977">
+<term id="c8072798479838983846977">photosystem
+</term>
+</link>, two types of which are found embedded in the thylakoid membrane, 
+<link target-id="d8072798479838983846977327373">
+<term id="c8072798479838983846977327373">photosystem II
+</term>
+</link> (PSII) and 
+<link target-id="d80727984798389838469773273">
+<term id="c80727984798389838469773273">photosystem I
+</term>
+</link> (PSI) (
+<link target-id="fig-ch08_02_08" document=""/>). The two complexes differ on the basis of what they oxidize (that is, the source of the low-energy electron supply) and what they reduce (the place to which they deliver their energized electrons).
+</para>
+<para id="fs-idm82968160">Both photosystems have the same basic structure; a number of 
+<link target-id="d65788469787865328082798469737883">
+<term id="c65788469787865328082798469737883">antenna proteins
+</term>
+</link> to which the chlorophyll molecules are bound surround the 
+<link target-id="d826965678473797832676978846982">
+<term id="c826965678473797832676978846982">reaction center
+</term>
+</link> where the photochemistry takes place. Each photosystem is serviced by the 
+<link target-id="d7673717284457265828669838473787132677977">
+<term id="c7673717284457265828669838473787132677977">light-harvesting complex
+</term>
+</link>, which passes energy from sunlight to the reaction center; it consists of multiple antenna proteins that contain a mixture of 300–400 chlorophyll 
+<emphasis effect="italics">a
+</emphasis> and 
+<emphasis effect="italics">b
+</emphasis> molecules as well as other pigments like carotenoids. The absorption of a single 
+<link target-id="d807279847978">
+<term id="c807279847978">photon
+</term>
+</link> or distinct quantity or “packet” of light by any of the chlorophylls pushes that molecule into an excited state. In short, the light energy has now been captured by biological molecules but is not stored in any useful form yet. The energy is transferred from chlorophyll to chlorophyll until eventually (after about a millionth of a second), it is delivered to the reaction center. Up to this point, only energy has been transferred between molecules, not electrons.
+</para>
+<note id="fs-idm100402144" class="art-connection">
+<label/>
+<title>Art Connection
+</title>
+<figure id="fig-ch08_02_08">
+<label>Figure 8.2
+</label>
+<media id="fs-idm130539056" alt="This illustration shows the components involved in the light reactions, which are all embedded in the thylakoid membrane. Photosystem II uses light energy to strip electrons from water, producing half an oxygen molecule and two protons in the process. The excited electron is then passed through the chloroplast electron transport chain to photosystem I. Photosystem I passes the electron to NADP+ reductase, which uses it to convert NADP+ and a proton to NADPH. As the electron transport chain moves electrons, it pumps protons into the thylakoid lumen. The splitting of water also adds electrons to the lumen, and the reduction of NADPH removes protons from the stroma. The net result is a low pH inside the thylakoid lumen, and a high pH outside, in the stroma. ATP synthase embedded the thylakoid  membrane moves protons down their electrochemical gradient, from the lumen to the stroma, and uses the energy from this gradient to make ATP.">
+<image mime-type="image/jpg" src="../../media/Figure_08_02_08.jpg" width="445"/>
+</media>
+<caption>In the photosystem II (PSII) reaction center, energy from sunlight is used to extract electrons from water. The electrons travel through the chloroplast electron transport chain to photosystem I (PSI), which reduces NADP
+<sup>+
+</sup> to NADPH. The electron transport chain moves protons across the thylakoid membrane into the lumen. At the same time, splitting of water adds protons to the lumen, and reduction of NADPH removes protons from the stroma. The net result is a low pH in the thylakoid lumen, and a high pH in the stroma. ATP synthase uses this electrochemical gradient to make ATP.
+</caption>
+</figure>
+<para id="fs-idm103121584">What is the initial source of electrons for the chloroplast electron transport chain?
+</para>
+<list id="fs-idm158722640" list-type="enumerated" number-style="lower-alpha">
+<item>water
+</item>
+<item>oxygen
+</item>
+<item>carbon dioxide
+</item>
+<item>NADPH
+</item>
+</list>
+<!-- <para><link target-id="fig-ch08_02_07" document=""/> A</para> -->
+</note>
+<para id="fs-idm135716528">The reaction center contains a pair of chlorophyll 
+<emphasis effect="italics">a
+</emphasis> molecules with a special property. Those two chlorophylls can undergo oxidation upon excitation; they can actually give up an electron in a process called a 
+<link target-id="d8072798479656784">
+<term id="c8072798479656784">photoact
+</term>
+</link>. It is at this step in the reaction center, this step in photosynthesis, that light energy is converted into an excited electron. All of the subsequent steps involve getting that electron onto the energy carrier NADPH for delivery to the Calvin cycle where the electron is deposited onto carbon for long-term storage in the form of a carbohydrate. PSII and PSI are two major components of the photosynthetic 
+<link target-id="d6976696784827978328482657883807982843267">
+<term id="c6976696784827978328482657883807982843267">electron transport chain
+</term>
+</link>, which also includes the 
+<link target-id="d678984796772827977693267797780766988">
+<term id="c678984796772827977693267797780766988">cytochrome complex
+</term>
+</link>. The cytochrome complex, an enzyme composed of two protein complexes, transfers the electrons from the carrier molecule plastoquinone (Pq) to the protein plastocyanin (Pc), thus enabling both the transfer of protons across the thylakoid membrane and the transfer of electrons from PSII to PSI.
+</para><para id="fs-idm101449600">The reaction center of PSII (called 
+<link target-id="d80545648">
+<term id="c80545648">P680
+</term>
+</link>) delivers its high-energy electrons, one at the time, to the 
+<link target-id="d8082737765828932697669678482797832656767">
+<term id="c8082737765828932697669678482797832656767">primary electron acceptor
+</term>
+</link>, and through the electron transport chain (Pq to cytochrome complex to plastocyanine) to PSI. P680’s missing electron is replaced by extracting a low-energy electron from water in a process called <term>photolysis</term>. During photolysis, water is split and PSII is re-reduced after every photoact. Splitting one H
+<sub>2
+</sub>O molecule releases two electrons, two hydrogen atoms, and one atom of oxygen. Splitting two molecules is required to form one molecule of diatomic O
+<sub>2
+</sub> gas. About 10 percent of the oxygen is used by mitochondria in the leaf to support oxidative phosphorylation. The remainder escapes to the atmosphere where it is used by aerobic organisms to support respiration.
+</para><para id="fs-idm16256512">As electrons move through the proteins that reside between PSII and PSI, they lose energy. That energy is used to move hydrogen atoms from the stromal side of the membrane to the thylakoid lumen. Those hydrogen atoms, plus the ones produced by splitting water, accumulate in the thylakoid lumen and will be used synthesize ATP in a later step. Because the electrons have lost energy prior to their arrival at PSI, they must be re-energized by PSI, hence, another photon is absorbed by the PSI antenna. That energy is relayed to the PSI reaction center (called 
+<link target-id="d80554848">
+<term id="c80554848">P700
+</term>
+</link>). P700 is oxidized and sends a high-energy electron to NADP
+<sup>+
+</sup> to form NADPH. Thus, PSII captures the energy to create proton gradients to make ATP, and PSI captures the energy to reduce NADP
+<sup>+
+</sup> into NADPH. The two photosystems work in concert, in part, to guarantee that the production of NADPH will roughly equal the production of ATP. Other mechanisms exist to fine tune that ratio to exactly match the chloroplast’s constantly changing energy needs.
+</para>
+<section id="fs-idm202200336">
+<title>Generating an Energy Carrier: ATP
+</title>
+<para id="fs-idm53562256">The buildup of hydrogen ions inside the thylakoid lumen creates a concentration gradient. The passive diffusion of hydrogen ions from high concentration (in the thylakoid lumen) to low concentration (in the stroma) is harnessed to create ATP. The ions build up energy because of diffusion and because they all have the same electrical charge, repelling each other.
+</para><para id="fs-idm115415664">To release this energy, hydrogen ions will rush through any opening, similar to water jetting through a hole in a dam. In the thylakoid, that opening is a passage through a specialized protein channel called the ATP synthase. The energy released by the hydrogen ion stream allows ATP synthase to attach a third phosphate group to ADP, which forms a molecule of ATP (
+<link target-id="fig-ch08_02_08" document=""/>). The flow of hydrogen ions through ATP synthase is called chemiosmosis because the ions move from an area of high to an area of low concentration through a semi-permeable structure.
+</para>
+<note id="fs-idm66463072" class="interactive">
+<label/>
+<title>Link to Learning
+</title>
+<media id="fs-idm120938560" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/light_reactions.png" width="120"/>
+</media>
+<para id="fs-idm54765440">Visit this 
+<link window="new" url="http://openstaxcollege.org/l/light_reactions">site
+</link> and click through the animation to view the process of photosynthesis within a leaf.
+</para>
+</note>
+</section>
+</section>
+<section id="fs-id00000023" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-023">The pigments of the first part of photosynthesis, the light-dependent reactions, absorb energy from sunlight. A photon strikes the antenna pigments of photosystem II to initiate photosynthesis. The energy travels to the reaction center that contains chlorophyll 
+<emphasis effect="italics">a
+</emphasis> to the electron transport chain, which pumps hydrogen ions into the thylakoid interior. This action builds up a high concentration of ions. The ions flow through ATP synthase via chemiosmosis to form molecules of ATP, which are used for the formation of sugar molecules in the second stage of photosynthesis. Photosystem I absorbs a second photon, which results in the formation of an NADPH molecule, another energy and reducing power carrier for the light-independent reactions. 
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d65788469787865328082798469737883">
+<term id="t65788469787865328082798469737883">antenna proteins
+</term>
+<meaning id="m65788469787865328082798469737883">pigment molecule that directly absorbs light and transfers the energy absorbed to other pigment molecules 
+</meaning>
+</definition>
+
+<definition id="d678984796772827977693267797780766988">
+<term id="t678984796772827977693267797780766988">cytochrome complex
+</term> 
+<meaning id="m678984796772827977693267797780766988">group of reversibly oxidizable and reducible proteins that forms part of the electron transport chain between photosystem II and photosystem I
+</meaning>
+</definition>
+
+<definition id="d6976696784827978328482657883807982843267">
+<term id="t6976696784827978328482657883807982843267">electron transport chain
+</term> 
+<meaning id="m6976696784827978328482657883807982843267">group of proteins between PSII and PSI that pass energized electrons and use the energy released by the electrons to move hydrogen ions against their concentration gradient into the thylakoid lumen
+</meaning>
+</definition>
+<definition id="d7673717284457265828669838473787132677977">
+<term id="t7673717284457265828669838473787132677977">light-harvesting complex
+</term>
+<meaning id="m7673717284457265828669838473787132677977">complex that passes energy from sunlight to the reaction center in each photosystem; it consists of multiple antenna proteins thst contain a mixture of 300-400 chlorophyll a and b molecules as well as other pigments like carotenoids 
+</meaning>
+</definition>
+<definition id="d80545648">
+<term id="t80545648">P680
+</term> 
+<meaning id="m80545648">reaction center of photosystem II
+</meaning>
+</definition>
+<definition id="d80554848">
+<term id="t80554848">P700
+</term> 
+<meaning id="m80554848">reaction center of photosystem I
+</meaning>
+</definition>
+<definition id="d8072798479656784">
+<term id="t8072798479656784">photoact
+</term> 
+<meaning id="m8072798479656784">ejection of an electron from a reaction center using the energy of an absorbed photon
+</meaning>
+</definition>
+
+<definition id="d87658669766444718472">
+<term id="t87658669766444718472">photolysis
+</term> 
+<meaning id="m87658669766444718472">process of splitting water to release electrons that will reduce the oxidized PSII
+</meaning>
+</definition>
+
+<definition id="d807279847978">
+<term id="t807279847978">photon
+</term> 
+<meaning id="m807279847978">distinct quantity or “packet” of light energy
+</meaning>
+</definition>
+<definition id="d8072798479838983846977">
+<term id="t8072798479838983846977">photosystem
+</term> 
+<meaning id="m8072798479838983846977">group of proteins, chlorophyll, and other pigments that are used in the light-dependent reactions of photosynthesis to absorb light energy and convert it into chemical energy
+</meaning>
+</definition>
+<definition id="d80727984798389838469773273">
+<term id="t80727984798389838469773273">photosystem I
+</term> 
+<meaning id="m80727984798389838469773273"> integral pigment and protein complex in thylakoid membranes that uses light energy to transport electrons from plastocyanin to NADP
+<sup>+
+</sup> (which becomes reduced to NADPH in the process)
+</meaning>
+</definition>
+<definition id="d8072798479838983846977327373">
+<term id="t8072798479838983846977327373">photosystem II
+</term> 
+<meaning id="m8072798479838983846977327373">integral protein and pigment complex in thylakoid membranes that transports electrons from water to the electron transport chain; oxygen is a product of PSII
+</meaning>
+</definition>
+<definition id="d8082737765828932697669678482797832656767">
+<term id="t8082737765828932697669678482797832656767">primary electron acceptor
+</term> 
+<meaning id="m8082737765828932697669678482797832656767">pigment or other organic molecule in the reaction center that accepts an energized electron from the reaction center
+</meaning>
+</definition>
+<definition id="d826965678473797832676978846982">
+<term id="t826965678473797832676978846982">reaction center
+</term> 
+<meaning id="m826965678473797832676978846982">complex of chlorophyll molecules and other organic molecules that is assembled around a special pair of chlorophyll molecules and a primary electron acceptor; capable of undergoing oxidation and reduction
+</meaning>
+</definition>
+
+</glossary>
+</document>

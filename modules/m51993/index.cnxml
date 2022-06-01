@@ -1,0 +1,576 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>The Science of Biology</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m51993</md:content-id>
+  <md:title>The Science of Biology</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Identify the shared characteristics of the natural sciences</item>
+<item>Summarize the steps of the scientific method</item>
+<item>Compare inductive reasoning with deductive reasoning</item>
+<item>Describe the goals of basic science and applied science</item>
+</list></md:abstract>
+  <md:uuid>ea9c72a2-e533-440b-b586-e788bcf2badc</md:uuid>
+</metadata>
+
+<content>
+<figure id="fig-ch01_01_01">
+<label>Figure 1.2
+</label>
+<subfigure id="fig-ch01_01_01a">
+<media id="fig-ch01-01_01a" alt="Photo A depicts round colonies of blue-green algae. Each algae cell is about 5 microns across.">
+<image mime-type="image/jpg" src="../../media/Figure_01_01_01a.jpg" width="250"/>
+</media>
+</subfigure>
+<subfigure id="fig-ch01_01_01b">
+<media id="fig-ch01-01_01b" alt="Photo B depicts round fossil structures called stromatalites along a watery shoreline.">
+<image mime-type="image/jpg" src="../../media/Figure_01_01_01b.jpg" width="250"/>
+</media>
+</subfigure>
+<caption>Formerly called blue-green algae, these (a) cyanobacteria, shown here at 300x magnification under a light microscope, are some of Earth’s oldest life forms. These (b) stromatolites along the shores of Lake Thetis in Western Australia are ancient structures formed by the layering of cyanobacteria in shallow waters. (credit a: modification of work by NASA; credit b: modification of work by Ruth Ellison; scale-bar data from Matt Russell)
+</caption>
+</figure>
+<para id="fs-id2299671">What is biology? In simple terms, 
+<link target-id="d6673797679718910">
+<term id="c6673797679718910">biology
+</term>
+</link> is the study of living organisms and their interactions with one another and their environments. This is a very broad definition because the scope of biology is vast. Biologists may study anything from the microscopic or submicroscopic view of a cell to ecosystems and the whole living planet (
+<link target-id="fig-ch01_01_01" document=""/>). Listening to the daily news, you will quickly realize how many aspects of biology are discussed every day. For example, recent news topics include 
+<emphasis effect="italics">Escherichia coli
+</emphasis> (
+<link target-id="fig-ch01_01_02" document=""/>) outbreaks in spinach and 
+<emphasis effect="italics">Salmonella
+</emphasis> contamination in peanut butter. Other subjects include efforts toward finding a cure for AIDS, Alzheimer’s disease, and cancer. On a global scale, many researchers are committed to finding ways to protect the planet, solve environmental issues, and reduce the effects of climate change. All of these diverse endeavors are related to different facets of the discipline of biology.
+</para>
+<figure id="fig-ch01_01_02">
+<label>Figure 1.2
+</label>
+<media id="fs-id2054143" alt="Photo depicts E. coli bacteria aggregated together.">
+<image mime-type="image/jpg" src="../../media/Figure_01_01_02.jpg" width="320"/>
+</media>
+<caption>
+<emphasis effect="italics">Escherichia coli
+</emphasis> (
+<emphasis effect="italics">E. coli
+</emphasis>) bacteria, seen in this scanning electron micrograph, are normal residents of our digestive tracts that aid in the absorption of vitamin K and other nutrients. However, virulent strains are sometimes responsible for disease outbreaks. (credit: Eric Erbe, digital colorization by Christopher Pooley, both of USDA, ARS, EMU)
+</caption>
+</figure>
+<section id="fs-id932855">
+<title>1.2a The Process of Science
+</title>
+<para id="fs-id2739621">Biology is a science, but what exactly is science? What does the study of biology share with other scientific disciplines? 
+<link target-id="d8367736978676910">
+<term id="c8367736978676910">Science
+</term>
+</link> (from the Latin 
+<emphasis effect="italics">scientia
+</emphasis>, meaning “knowledge”) can be defined as knowledge that covers general truths or the operation of general laws, especially when acquired and tested by the scientific method. It becomes clear from this definition that the application of the scientific method plays a major role in science. The 
+<link target-id="d836773697884737073673277698472796810">
+<term id="c836773697884737073673277698472796810">scientific method
+</term>
+</link> is a method of research with defined steps that include experiments and careful observation.
+</para>
+<para id="fs-id1787324">The steps of the scientific method will be examined in detail later, but one of the most important aspects of this method is the testing of hypotheses by means of repeatable experiments. A 
+<link target-id="d7289807984726983738310">
+<term id="c7289807984726983738310">hypothesis
+</term>
+</link> is a suggested explanation for an event, which can be tested. Although using the scientific method is inherent to science, it is inadequate in determining what science is. This is because it is relatively easy to apply the scientific method to disciplines such as physics and chemistry, but when it comes to disciplines like archaeology, psychology, and geology, the scientific method becomes less applicable as it becomes more difficult to repeat experiments.
+</para>
+<para id="fs-id2186987">These areas of study are still sciences, however. Consider archeology—even though one cannot perform repeatable experiments, hypotheses may still be supported. For instance, an archeologist can hypothesize that an ancient culture existed based on finding a piece of pottery. Further hypotheses could be made about various characteristics of this culture, and these hypotheses may be found to be correct or false through continued support or contradictions from other findings. A hypothesis may become a verified theory. A 
+<link target-id="d84726979828910">
+<term id="c84726979828910">theory
+</term>
+</link> is a tested and confirmed explanation for observations or phenomena. Science may be better defined as fields of study that attempt to comprehend the nature of the universe.
+</para>
+<section id="fs-id1470518">
+<title>Scientific Reasoning
+</title>
+<para id="fs-id1422041">One thing is common to all forms of science: an ultimate goal “to know.” Curiosity and inquiry are the driving forces for the development of science. Scientists seek to understand the world and the way it operates. To do this, they use two methods of logical thinking: inductive reasoning and deductive reasoning.
+</para>
+<para id="fs-id1727981">
+<link target-id="d7378688567847386693282696583797873787110">
+<term id="c7378688567847386693282696583797873787110">Inductive reasoning
+</term>
+</link> is a form of logical thinking that uses related observations to arrive at a general conclusion. This type of reasoning is common in descriptive science. A life scientist such as a biologist makes observations and records them. These data can be qualitative or quantitative, and the raw data can be supplemented with drawings, pictures, photos, or videos. From many observations, the scientist can infer conclusions (inductions) based on evidence. Inductive reasoning involves formulating generalizations inferred from careful observation and the analysis of a large amount of data. Brain studies provide an example. In this type of research, many live brains are observed while people are doing a specific activity, such as viewing images of food. The part of the brain that “lights up” during this activity is then predicted to be the part controlling the response to the selected stimulus, in this case, images of food. The “lighting up” of the various areas of the brain is caused by excess absorption of radioactive sugar derivatives by active areas of the brain. The resultant increase in radioactivity is observed by a scanner. Then, researchers can stimulate that part of the brain to see if similar responses result.
+</para>
+<para id="fs-id2979121">Deductive reasoning or deduction is the type of logic used in hypothesis-based science. In deductive reason, the pattern of thinking moves in the opposite direction as compared to inductive reasoning. 
+<link target-id="d6869688567847386693282696583797873787110">
+<term id="c6869688567847386693282696583797873787110">Deductive reasoning
+</term>
+</link> is a form of logical thinking that uses a general principle or law to forecast specific results. From those general principles, a scientist can extrapolate and predict the specific results that would be valid as long as the general principles are valid. Studies in climate change can illustrate this type of reasoning. For example, scientists may predict that if the climate becomes warmer in a particular region, then the distribution of plants and animals should change. These predictions have been made and tested, and many such changes have been found, such as the modification of arable areas for agriculture, with change based on temperature averages.
+</para>
+<para id="fs-id1786661">Both types of logical thinking are related to the two main pathways of scientific study: descriptive science and hypothesis-based science. 
+<link target-id="d6869836782738084738669324079823268738367">
+<term id="c6869836782738084738669324079823268738367">Descriptive (or discovery) science
+</term>
+</link>, which is usually inductive, aims to observe, explore, and discover, while 
+<link target-id="d7289807984726983738345666583696832836773">
+<term id="c7289807984726983738345666583696832836773">hypothesis-based science
+</term>
+</link>, which is usually deductive, begins with a specific question or problem and a potential answer or solution that can be tested. The boundary between these two forms of study is often blurred, and most scientific endeavors combine both approaches. The fuzzy boundary becomes apparent when thinking about how easily observation can lead to specific questions. For example, a gentleman in the 1940s observed that the burr seeds that stuck to his clothes and his dog’s fur had a tiny hook structure. On closer inspection, he discovered that the burrs’ gripping device was more reliable than a zipper. He eventually developed a company and produced the hook-and-loop fastener popularly known today as Velcro. Descriptive science and hypothesis-based science are in continuous dialogue.
+</para>
+</section>
+
+<note id="fs-id2215786" class="art-connection"><label/><title>Art Connection</title>
+
+<para id="fs-id1511076">
+<figure id="fig-ch01_01_06">
+<label>Figure 1.2
+</label>
+<media id="fs-id1712432" alt="Diagram defines two types of reasoning. In inductive reasoning, a general conclusion is drawn from a number of observations. In deductive reasoning, specific results are predicted from a general premise. An example of inductive reasoning is given. In this example, three observations are made: (1) Members of a species are not all the same. (2) Individuals compete for resources. (3) Species are generally adapted to their environment. From these observations, the following conclusion is drawn: Individuals most adapted to their environment are more likely to survive and pass their traits on to the next generation. An example of deductive reasoning is also given. In this example, the general premise is that individuals most adapted to their environment are more likely to survive and pass their traits on to the next generation. From this premise, it is predicted that, if global climate change causes the temperature in an ecosystem to increase, those individuals better adapted to a warmer climate will outcompete those that are not.">
+<image mime-type="image/png" src="../../media/Figure_01_01_09new.png" width="300"/>
+</media>
+<caption>Scientists use two types of reasoning, inductive and deductive reasoning, to advance scientific knowledge. As is the case in this example, the conclusion from inductive reasoning can often become the premise for inductive reasoning.
+</caption>
+</figure>
+</para>
+<para id="fs-id1596510">Decide if each of the following is an example of inductive or deductive reasoning.
+</para>
+<list id="fs-id2073222" list-type="enumerated">
+<item> All flying birds and insects have wings. Birds and insects flap their wings as they move through the air. Therefore, wings enable flight.
+</item>
+<item>Insects generally survive mild winters better than harsh ones. Therefore, insect pests will become more problematic if global temperatures increase.
+</item>
+<item>Chromosomes, the carriers of DNA, separate into daughter cells during cell division. Therefore, DNA is the genetic material.
+</item>
+<item>Animals as diverse as humans, insects, and wolves all exhibit social behavior. Therefore, social behavior must have an evolutionary advantage.
+</item>
+</list>
+</note>
+</section>
+<section id="fs-id2318184">
+<title>1.2b The Scientific Method
+</title>
+<para id="fs-id1870503">Biologists study the living world by posing questions about it and seeking science-based responses. This approach is common to other sciences as well and is often referred to as the scientific method. The scientific method was used even in ancient times, but it was first documented by England’s Sir Francis Bacon (1561–1626) (
+<link target-id="fig-ch01_01_04" document=""/>), who set up inductive methods for scientific inquiry. The scientific method is not exclusively used by biologists but can be applied to almost all fields of study as a logical, rational problem-solving method.
+</para>
+<figure id="fig-ch01_01_04">
+<label>Figure 1.2
+</label>
+<media id="fs-id2569068" alt="Painting depicts Sir Francis Bacon in a long robe.">
+<image mime-type="image/jpg" src="../../media/Figure_01_01_04.jpg" width="200"/>
+</media>
+<caption>Sir Francis Bacon (1561–1626) is credited with being the first to define the scientific method. (credit: Paul van Somer)
+</caption>
+</figure>
+<para id="fs-id1695658">The scientific process typically starts with an observation (often a problem to be solved) that leads to a question. Let’s think about a simple problem that starts with an observation and apply the scientific method to solve the problem. One Monday morning, a student arrives at class and quickly discovers that the classroom is too warm. That is an observation that also describes a problem: the classroom is too warm. The student then asks a question: “Why is the classroom so warm?”
+</para>
+<section id="fs-id1568706">
+<title>Proposing a Hypothesis
+</title>
+<para id="fs-id1812636">Recall that a hypothesis is a suggested explanation that can be tested. To solve a problem, several hypotheses may be proposed. For example, one hypothesis might be, “The classroom is warm because no one turned on the air conditioning.” But there could be other responses to the question, and therefore other hypotheses may be proposed. A second hypothesis might be, “The classroom is warm because there is a power failure, and so the air conditioning doesn’t work.”
+</para>
+<para id="fs-id1966007">Once a hypothesis has been selected, the student can make a prediction. A prediction is similar to a hypothesis but it typically has the format “If . . . then . . . .” For example, the prediction for the first hypothesis might be, “
+<emphasis effect="italics">If
+</emphasis> the student turns on the air conditioning, 
+<emphasis effect="italics">then
+</emphasis> the classroom will no longer be too warm.”
+</para>
+</section>
+<section id="fs-id2186799">
+<title>Testing a Hypothesis
+</title>
+<para id="fs-id1428118">A valid hypothesis must be testable. It should also be 
+<link target-id="d706576837370736566766910">
+<term id="c706576837370736566766910">falsifiable
+</term>
+</link>, meaning that it can be disproven by experimental results. Importantly, science does not claim to “prove” anything because scientific understandings are always subject to modification with further information. This step—openness to disproving ideas—is what distinguishes sciences from non-sciences. The presence of the supernatural, for instance, is neither testable nor falsifiable. 
+</para>
+<para id="eip-25">To test a hypothesis, a researcher will conduct one or more experiments designed to eliminate one or more of the hypotheses. Each experiment will have one or more variables and one or more controls. A 
+<link target-id="d866582736566766910">
+<term id="c866582736566766910">variable
+</term>
+</link> is any part of the experiment that can vary or change during the experiment. 
+</para>
+<para id="eip-798">To test a hypothesis, a researcher will conduct one or more experiments designed to eliminate one or more of the hypotheses. Experiments typically have a 
+<link target-id="d68698069786869788432866582736566766910">
+<term id="c68698069786869788432866582736566766910">dependent variable
+</term>
+</link>, 
+<link target-id="d7378686980697868697884328665827365667669">
+<term id="c7378686980697868697884328665827365667669">independent variable
+</term>
+</link>, and several 
+<link target-id="d6779788482797676696832866582736566766983">
+<term id="c6779788482797676696832866582736566766983">controlled variables
+</term>
+</link>. The dependent variable is some changing aspect of the experiment that you want to find out. For example, if you're testing how a particular drug dosage fights cancer, your dependent variable could be how many cancer cells died. Your independent variable is what 
+<emphasis>you
+</emphasis> changed to get that result. So in this example, your independent variable would be the different dosages of the drug. A controlled variable is any part of the experimental setup that you kept the same. The more controlled variables you have, the more accurate your data is likely to be. For example, in the drug dosage experiment, maybe you only tested pancreatic cancer patients, who were 60-70 years old, and had an early-stage diagnosis. If you had NO controlled variables, you couldn't be sure whether your results are due to the different drug dosage or something else.
+</para>
+<para id="eip-266">The 
+<link target-id="d6779788482797632718279858010">
+<term id="c6779788482797632718279858010">control group
+</term>
+</link> contains every feature of the experimental group except it is not given the manipulation that is hypothesized about. Therefore, if the results of the experimental group differ from the control group, the difference must be due to the hypothesized manipulation, rather than some outside factor. To go back to our previous example, if you had a collection of patients who all received a certain dosage of the drug, and another group who did not receive the drug at all, the latter group is the control group. It's important to use control groups to know whether your experiment results are real. For example, if you saw no difference in cancer cell death between the group who received the drug versus those who did not, that is a clear result indicating the drug at that particular dosage is ineffective. The group who received no treatment is called a 
+<link target-id="d7869716584738669326779788482797610">
+<term id="c7869716584738669326779788482797610">negative control
+</term>
+</link>, and in drug studies, these groups often receive a 
+<link target-id="d8076656769667910">
+<term id="c8076656769667910">placebo
+</term>
+</link>, which is a pill/liquid that looks like the drug, but does not actually contain the drug. It contains nothing, or maybe a sugar solution that has no effect on the body. A 
+<link target-id="d8079837384738669326779788482797610">
+<term id="c8079837384738669326779788482797610">positive control
+</term>
+</link> is a sample/individual or group of samples/individuals who you know will actually demonstrate a difference from the negative control. For example, if you were comparing a new cancer drug to a known drug that works, the individuals receiving the known drug would be the positive control group. 
+</para>
+<para id="eip-625">Again, the point of science is to test a hypothesis, and using that data, generate and test another one, until you have a particular answer. Sometimes this takes years and years to get a full understanding of how or why something works. To go back to the air conditioning hypothesis, the student would find out if the air conditioning is on. If the air conditioning is turned on but does not work, there should be another reason, and this hypothesis should be rejected. To test the second hypothesis, the student could check if the lights in the classroom are functional. If so, there is no power failure and this hypothesis should be rejected. Each hypothesis should be tested by carrying out appropriate experiments. Be aware that rejecting one hypothesis does not determine whether or not the other hypotheses can be accepted; it simply eliminates one hypothesis that is not valid (
+<link target-id="fig-ch01_01_05" document=""/>). Using the scientific method, the hypotheses that are inconsistent with experimental data are rejected.
+</para>
+<para id="fs-id2000920">While this “warm classroom” example is based on observational results, other hypotheses and experiments might have clearer controls. For instance, a student might attend class on Monday and realize she had difficulty concentrating on the lecture. One observation to explain this occurrence might be, “When I eat breakfast before class, I am better able to pay attention.” The student could then design an experiment with a control to test this hypothesis.
+</para>
+<para id="fs-id1473946">In hypothesis-based science, specific results are predicted from a general premise. This type of reasoning is called deductive reasoning: deduction proceeds from the general to the particular. But the reverse of the process is also possible: sometimes, scientists reach a general conclusion from a number of specific observations. This type of reasoning is called inductive reasoning, and it proceeds from the particular to the general. Inductive and deductive reasoning are often used in tandem to advance scientific knowledge (
+<link target-id="fig-ch01_01_06" document=""/>).
+</para>
+<note id="fs-id2215787" class="art-connection">
+<label/>
+<title>Art Connection
+</title>
+<para id="fs-id2862440">
+<figure id="fig-ch01_01_05"><label>Figure 1.2
+</label>
+<media id="fs-id1454763" alt="A flow chart shows the steps in the scientific method. In step 1, an observation is made. In step 2, a question is asked about the observation. In step 3, an answer to the question, called a hypothesis, is proposed. In step 4, a prediction is made based on the hypothesis. In step 5, an experiment is done to test the prediction. In step 6, the results are analyzed to determine whether or not the hypothesis is correct. If the hypothesis is incorrect, another hypothesis is made. In either case, the results are reported.">
+<image mime-type="image/jpg" src="../../media/Figure_01_01_05.jpg" width="300"/>
+</media>
+
+<caption>The scientific method consists of a series of well-defined steps. If a hypothesis is not supported by experimental data, a new hypothesis can be proposed.
+</caption></figure></para>
+<para id="fs-id2012342">In the example below, the scientific method is used to solve an everyday problem. Order the scientific method steps (numbered items) with the process of solving the everyday problem (lettered items). Based on the results of the experiment, is the hypothesis supported? If it is not supported, propose some alternative hypotheses.
+</para><list id="fs-id1770098" list-type="enumerated">
+<item>Observation
+</item>
+<item>Question
+</item>
+<item>Hypothesis (answer)
+</item>
+<item>Prediction
+</item>
+<item>Experiment
+</item>
+<item>Result
+</item>
+</list>
+<list id="fs-id1813318" list-type="enumerated" number-style="lower-alpha">
+<item>There is something wrong with the electrical outlet.
+</item>
+<item>If something is wrong with the outlet, my coffeemaker also won’t work when plugged into it.
+</item>
+<item>My toaster doesn’t toast my bread.
+</item>
+<item>I plug my coffee maker into the outlet.
+</item>
+<item>My coffeemaker works.
+</item>
+<item>Why doesn’t my toaster work?
+</item>
+</list>
+</note>
+<para id="fs-id1386450">The scientific method may seem too rigid and structured. It is important to keep in mind that, although scientists often follow this sequence, there is flexibility. Sometimes an experiment leads to conclusions that favor a change in approach; often, an experiment brings entirely new scientific questions to the puzzle. Many times, science does not operate in a linear fashion; instead, scientists continually draw inferences and make generalizations, finding patterns as their research proceeds. Scientific reasoning is more complex than the scientific method alone suggests. Notice, too, that the scientific method can be applied to solving problems that aren’t necessarily scientific in nature.
+</para>
+</section>
+</section>
+<section id="fs-id2984399">
+<title>1.2c Two Types of Science: Basic Science and Applied Science
+</title>
+<para id="fs-id1983427">The scientific community has been debating for the last few decades about the value of different types of science. Is it valuable to pursue science for the sake of simply gaining knowledge, or does scientific knowledge only have worth if we can apply it to solving a specific problem or to bettering our lives? This question focuses on the differences between two types of science: basic science and applied science.
+</para>
+<para id="fs-id1980540">
+<link target-id="d6665837367328367736978676910">
+<term id="c6665837367328367736978676910">Basic science
+</term>
+</link> or “pure” science seeks to expand knowledge regardless of the short-term application of that knowledge. It is not focused on developing a product or a service of immediate public or commercial value. The immediate goal of basic science is knowledge for knowledge’s sake, though this does not mean that, in the end, it may not result in a practical application.
+</para>
+<para id="fs-id2164078">In contrast, 
+<link target-id="d65808076736968328367736978676910">
+<term id="c65808076736968328367736978676910">applied science
+</term>
+</link> or “technology,” aims to use science to solve real-world problems, making it possible, for example, to improve a crop yield, find a cure for a particular disease, or save animals threatened by a natural disaster (
+<link target-id="fig-ch01_01_07" document=""/>). In applied science, the problem is usually defined for the researcher.
+</para>
+<figure id="fig-ch01_01_07"><label>Figure 1.2
+</label>
+<media id="fs-id2317257" alt="Image shows a squirrel being held by a person.">
+<image mime-type="image/png" src="../../media/Figure_01_01_08.png" width="320"/>
+</media>
+
+<caption>After Hurricane Irma struck the Caribbean and Florida in 2017, thousands of baby squirrels like this one were thrown from their nests. Thanks to applied science, scientists knew how to rehabilitate the squirrel. (credit: audreyjm529, Flickr)
+</caption></figure><para id="fs-id3662284">Some individuals may perceive applied science as “useful” and basic science as “useless.” A question these people might pose to a scientist advocating knowledge acquisition would be, “What for?” A careful look at the history of science, however, reveals that basic knowledge has resulted in many remarkable applications of great value. Many scientists think that a basic understanding of science is necessary before an application is developed; therefore, applied science relies on the results generated through basic science. Other scientists think that it is time to move on from basic science and instead to find solutions to actual problems. Both approaches are valid. It is true that there are problems that demand immediate attention; however, few solutions would be found without the help of the wide knowledge foundation generated through basic science.
+</para>
+<para id="fs-id1803917">One example of how basic and applied science can work together to solve practical problems occurred after the discovery of DNA structure led to an understanding of the molecular mechanisms governing DNA replication. Strands of DNA, unique in every human, are found in our cells, where they provide the instructions necessary for life. During DNA replication, DNA makes new copies of itself, shortly before a cell divides. Understanding the mechanisms of DNA replication enabled scientists to develop laboratory techniques that are now used to identify genetic diseases, pinpoint individuals who were at a crime scene, and determine paternity. Without basic science, it is unlikely that applied science would exist.
+</para>
+<para id="fs-id2690084">Another example of the link between basic and applied research is the Human Genome Project, a study in which each human chromosome was analyzed and mapped to determine the precise sequence of DNA subunits and the exact location of each gene. (The gene is the basic unit of heredity; an individual’s complete collection of genes is his or her genome.) Other less complex organisms have also been studied as part of this project in order to gain a better understanding of human chromosomes. The Human Genome Project (
+<link target-id="fig-ch01_01_08" document=""/>) relied on basic research carried out with simple organisms and, later, with the human genome. An important end goal eventually became using the data for applied research, seeking cures and early diagnoses for genetically related diseases.
+</para>
+<figure id="fig-ch01_01_08">
+<label>Figure 1.2
+</label>
+<media id="fs-id1396854" alt="The human genome project’s logo is shown, depicting a human being inside a DNA double helix. The words chemistry, biology, physics, ethics, informatics, and engineering surround the circular image.">
+<image mime-type="image/jpg" src="../../media/Figure_01_01_07.jpg" width="300"/>
+</media>
+<caption>The Human Genome Project was a 13-year collaborative effort among researchers working in several different fields of science. The project, which sequenced the entire human genome, was completed in 2003. (credit: the U.S. Department of Energy Genome Programs (http://genomics.energy.gov))
+</caption>
+</figure>
+<para id="fs-id3241178">While research efforts in both basic science and applied science are usually carefully planned, it is important to note that some discoveries are made by 
+<link target-id="d836982697868738073848910">
+<term id="c836982697868738073848910">serendipity
+</term>
+</link>, that is, by means of a fortunate accident or a lucky surprise. Penicillin was discovered when biologist Alexander Fleming accidentally left a petri dish of 
+<emphasis effect="italics">Staphylococcus
+</emphasis> bacteria open. An unwanted mold grew on the dish, killing the bacteria. The mold turned out to be 
+<emphasis effect="italics">Penicillium
+</emphasis>, and a new antibiotic was discovered. Even in the highly organized world of science, luck—when combined with an observant, curious mind—can lead to unexpected breakthroughs.
+</para>
+</section>
+<section id="fs-id1467930">
+<title>1.2d Reporting Scientific Work
+</title>
+<para id="fs-id3019610">Whether scientific research is basic science or applied science, scientists must share their findings in order for other researchers to expand and build upon their discoveries. Collaboration with other scientists—when planning, conducting, and analyzing results—are all important for scientific research. For this reason, important aspects of a scientist’s work are communicating with peers and disseminating results to peers. Scientists can share results by presenting them at a scientific meeting or conference, but this approach can reach only the select few who are present. Instead, most scientists present their results in peer-reviewed manuscripts that are published in scientific journals. 
+<link target-id="d8069698245826986736987696832776578858367">
+<term id="c8069698245826986736987696832776578858367">Peer-reviewed manuscripts
+</term>
+</link> are scientific papers that are reviewed by a scientist’s colleagues, or peers. These colleagues are qualified individuals, often experts in the same research area, who judge whether or not the scientist’s work is suitable for publication. The process of peer review helps to ensure that the research described in a scientific paper or grant proposal is original, significant, logical, and thorough. Grant proposals, which are requests for research funding, are also subject to peer review. Scientists publish their work so other scientists can reproduce their experiments under similar or different conditions to expand on the findings. The experimental results must be consistent with the findings of other scientists.
+</para>
+<para id="fs-id2979084">A scientific paper is very different from creative writing. Although creativity is required to design experiments, there are fixed guidelines when it comes to presenting scientific results. First, scientific writing must be brief, concise, and accurate. A scientific paper needs to be succinct but detailed enough to allow peers to reproduce the experiments.
+</para>
+<para id="fs-id2954730">The scientific paper consists of several specific sections—introduction, materials and methods, results, and discussion. This structure is sometimes called the “IMRaD” format. There are usually acknowledgment and reference sections as well as an 
+<link target-id="d656683848265678410">
+<term id="c656683848265678410">abstract
+</term>
+</link> (a concise summary) at the beginning of the paper. There might be additional sections depending on the type of paper and the journal where it will be published; for example, some review papers require an outline.
+</para>
+<para id="fs-id1292278">The 
+<link target-id="d73788482796885678473797810">
+<term id="c73788482796885678473797810">introduction
+</term>
+</link> starts with brief, but broad, background information about what is known in the field. A good introduction also gives the rationale of the work; it justifies the work carried out and also briefly mentions the end of the paper, where the hypothesis or research question driving the research will be presented. The introduction refers to the published scientific work of others and therefore requires citations following the style of the journal. Using the work or ideas of others without proper citation is considered 
+<link target-id="d8076657173658273837710">
+<term id="c8076657173658273837710">plagiarism
+</term>
+</link>.
+</para>
+<para id="fs-id2279649">The 
+<link target-id="d7765846982736576833265786832776984727968">
+<term id="c7765846982736576833265786832776984727968">materials and methods
+</term>
+</link> section includes a complete and accurate description of the substances used, and the method and techniques used by the researchers to gather data. The description should be thorough enough to allow another researcher to repeat the experiment and obtain similar results, but it does not have to be verbose. This section will also include information on how measurements were made and what types of calculations and statistical analyses were used to examine raw data. Although the materials and methods section gives an accurate description of the experiments, it does not discuss them.
+</para>
+<para id="fs-id1790931">Some journals require a results section followed by a discussion section, but it is more common to combine both. If the journal does not allow the combination of both sections, the 
+<link target-id="d8269838576848310">
+<term id="c8269838576848310">results
+</term>
+</link> section simply narrates the findings without any further interpretation. The results are presented by means of tables or graphs, but no duplicate information should be presented. In the 
+<link target-id="d6873836785838373797810">
+<term id="c6873836785838373797810">discussion
+</term>
+</link> section, the researcher will interpret the results, describe how variables may be related, and attempt to explain the observations. It is indispensable to conduct an extensive literature search to put the results in the context of previously published scientific research. Therefore, proper citations are included in this section as well.
+</para>
+<para id="fs-id2967146">Finally, the 
+<link target-id="d6779786776858373797810">
+<term id="c6779786776858373797810">conclusion
+</term>
+</link> section summarizes the importance of the experimental findings. While the scientific paper almost certainly answered one or more scientific questions that were stated, any good research should lead to more questions. Therefore, a well-done scientific paper leaves doors open for the researcher and others to continue and expand on the findings.
+</para>
+<para id="fs-id1318474">
+<link target-id="d82698673698732658284736776698310">
+<term id="c82698673698732658284736776698310">Review articles
+</term>
+</link> do not follow the IMRAD format because they do not present original scientific findings, or primary literature; instead, they summarize and comment on findings that were published as primary literature and typically include extensive reference sections.
+</para>
+</section>
+<section id="fs-id2433529" class="summary">
+<title>Chapter Summary
+</title>
+<para id="eip-937">Biology is the science that studies living organisms and their interactions with one another and their environments. Science attempts to describe and understand the nature of the universe in whole or in part by rational means. Science has many fields; those fields related to the physical world and its phenomena are considered natural sciences.
+</para>
+<para id="fs-id1836512">Science can be basic or applied. The main goal of basic science is to expand knowledge without any expectation of short-term practical application of that knowledge. The primary goal of applied research, however, is to solve practical problems.
+</para>
+<para id="fs-id2909561">Two types of logical reasoning are used in science. Inductive reasoning uses particular results to produce general scientific principles. Deductive reasoning is a form of logical thinking that predicts results by applying general principles. The common thread throughout scientific research is the use of the scientific method, a step-based process that consists of making observations, defining a problem, posing hypotheses, testing these hypotheses, and drawing one or more conclusions. The testing uses proper controls. Scientists present their results in peer-reviewed scientific papers published in scientific journals. A scientific research paper consists of several well-defined sections: introduction, materials and methods, results, and, finally, a concluding discussion. Review papers summarize the research done in a particular field over a period of time.
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d656683848265678410">
+<term id="t656683848265678410">abstract
+</term>
+<meaning id="m656683848265678410">opening section of a scientific paper that summarizes the research and conclusions
+</meaning>
+</definition>
+<definition id="d65808076736968328367736978676910">
+<term id="t65808076736968328367736978676910">applied science
+</term>
+<meaning id="m65808076736968328367736978676910">form of science that aims to solve real-world problems
+</meaning>
+</definition>
+<definition id="d6665837367328367736978676910">
+<term id="t6665837367328367736978676910">basic science
+</term>
+<meaning id="m6665837367328367736978676910">science that seeks to expand knowledge and understanding regardless of the short-term application of that knowledge
+</meaning>
+</definition>
+<definition id="d6673797679718910">
+<term id="t6673797679718910">biology
+</term>
+<meaning id="m6673797679718910">the study of living organisms and their interactions with one another and their environments
+</meaning>
+</definition>
+<definition id="d6779786776858373797810">
+<term id="t6779786776858373797810">conclusion
+</term>
+<meaning id="m6779786776858373797810">section of a scientific paper that summarizes the importance of the experimental findings
+</meaning>
+</definition>
+<definition id="d6779788482797632718279858010">
+<term id="t6779788482797632718279858010">control group
+</term>
+<meaning id="m6779788482797632718279858010">one or more samples/individuals whose outcome is known; used to compare the other samples/individuals to 
+</meaning>
+</definition>
+<definition id="d6779788482797676696832866582736566766983">
+<term id="t6779788482797676696832866582736566766983">controlled variables
+</term>
+<meaning id="m6779788482797676696832866582736566766983">part of an experiment that is unchanged for all samples/individuals 
+</meaning>
+</definition>
+<definition id="d6869688567847386693282696583797873787110">
+<term id="t6869688567847386693282696583797873787110">deductive reasoning
+</term>
+<meaning id="m6869688567847386693282696583797873787110">form of logical thinking that uses a general inclusive statement to forecast specific results
+</meaning>
+</definition>
+<definition id="d68698069786869788432866582736566766910">
+<term id="t68698069786869788432866582736566766910">dependent variable
+</term>
+<meaning id="m68698069786869788432866582736566766910">the part of an experiment that you want to find out 
+</meaning>
+</definition>
+<definition id="d6869836782738084738669324079823268738367">
+<term id="t6869836782738084738669324079823268738367">Descriptive (or discovery) science
+</term>
+<meaning id="m6869836782738084738669324079823268738367">form of science that aims to observe, explore, and investigate 
+</meaning>
+</definition>
+<definition id="d6873836785838373797810">
+<term id="t6873836785838373797810">discussion
+</term>
+<meaning id="m6873836785838373797810">section of a scientific paper in which the author interprets experimental results, describes how variables may be related, and attempts to explain the phenomenon in question
+</meaning>
+</definition>
+<definition id="d706576837370736566766910">
+<term id="t706576837370736566766910">falsifiable
+</term>
+<meaning id="m706576837370736566766910">able to be disproven by experimental results
+</meaning>
+</definition>
+<definition id="d7289807984726983738310">
+<term id="t7289807984726983738310">hypothesis
+</term>
+<meaning id="m7289807984726983738310">suggested explanation for an observation, which can be tested
+</meaning>
+</definition>
+<definition id="d7289807984726983738345666583696832836773">
+<term id="t7289807984726983738345666583696832836773">hypothesis-based science
+</term>
+<meaning id="m7289807984726983738345666583696832836773">form of science that begins with a specific question and potential testable answers
+</meaning>
+</definition>
+<definition id="d7378686980697868697884328665827365667669">
+<term id="t7378686980697868697884328665827365667669">independent variable
+</term>
+<meaning id="m7378686980697868697884328665827365667669">the part of an experiment that you change to determine its effect on the dependent variable 
+</meaning>
+</definition>
+<definition id="d7378688567847386693282696583797873787110">
+<term id="t7378688567847386693282696583797873787110">inductive reasoning
+</term>
+<meaning id="m7378688567847386693282696583797873787110">form of logical thinking that uses related observations to arrive at a general conclusion
+</meaning>
+</definition>
+<definition id="d73788482796885678473797810">
+<term id="t73788482796885678473797810">introduction
+</term>
+<meaning id="m73788482796885678473797810">opening section of a scientific paper, which provides background information about what was known in the field prior to the research reported in the paper
+</meaning>
+</definition>
+<definition id="d7765846982736576833265786832776984727968">
+<term id="t7765846982736576833265786832776984727968">materials and methods
+</term>
+<meaning id="m7765846982736576833265786832776984727968">section of a scientific paper that includes a complete description of the substances, methods, and techniques used by the researchers to gather data
+</meaning>
+</definition>
+<definition id="d7869716584738669326779788482797610">
+<term id="t7869716584738669326779788482797610">negative control
+</term>
+<meaning id="m7869716584738669326779788482797610">one or more samples/individuals who are known in advance to demonstrate a negative result 
+</meaning>
+</definition>
+<definition id="d8069698245826986736987696832776578858367">
+<term id="t8069698245826986736987696832776578858367">Peer-reviewed manuscripts
+</term>
+<meaning id="m8069698245826986736987696832776578858367">scientific paper that is reviewed by a scientist's colleagues who are experts in the field of study 
+</meaning>
+</definition>
+<definition id="d8076656769667910">
+<term id="t8076656769667910">placebo
+</term>
+<meaning id="m8076656769667910">a pill that looks like a drug, but doesn't actually contain the drug; used as negative controls in blind-studies where the participants don't know whether they're getting a treatment or not 
+</meaning>
+</definition>
+<definition id="d8076657173658273837710">
+<term id="t8076657173658273837710">plagiarism
+</term>
+<meaning id="m8076657173658273837710">using other people’s work or ideas without proper citation, creating the false impression that those are the author’s original ideas
+</meaning>
+</definition>
+<definition id="d8079837384738669326779788482797610">
+<term id="t8079837384738669326779788482797610">positive control
+</term>
+<meaning id="m8079837384738669326779788482797610">one or more samples/individuals who are known in advance to demonstrate a positive result 
+</meaning>
+</definition>
+<definition id="d8269838576848310">
+<term id="t8269838576848310">results
+</term>
+<meaning id="m8269838576848310">section of a scientific paper in which the author narrates the experimental findings and presents relevant figures, pictures, diagrams, graphs, and tables, without any further interpretation
+</meaning>
+</definition>
+<definition id="d82698673698732658284736776698310">
+<term id="t82698673698732658284736776698310">Review articles
+</term>
+<meaning id="m82698673698732658284736776698310">paper that summarizes and comments on findings that were published as primary literature 
+</meaning>
+</definition>
+<definition id="d8367736978676910">
+<term id="t8367736978676910">science
+</term>
+<meaning id="m8367736978676910">knowledge that covers general truths or the operation of general laws, especially when acquired and tested by the scientific method
+</meaning>
+</definition>
+<definition id="d836773697884737073673277698472796810">
+<term id="t836773697884737073673277698472796810">scientific method
+</term>
+<meaning id="m836773697884737073673277698472796810">method of research with defined steps that include observation, formulation of a hypothesis, testing, and confirming or falsifying the hypothesis
+</meaning>
+</definition>
+<definition id="d836982697868738073848910">
+<term id="t836982697868738073848910">serendipity
+</term>
+<meaning id="m836982697868738073848910">fortunate accident or a lucky surprise
+</meaning>
+</definition>
+<definition id="d84726979828910">
+<term id="t84726979828910">theory
+</term>
+<meaning id="m84726979828910">tested and confirmed explanation for observations or
+phenomena
+</meaning>
+</definition>
+<definition id="d866582736566766910">
+<term id="t866582736566766910">variable
+</term>
+<meaning id="m866582736566766910">part of an experiment that the experimenter can vary or change
+</meaning>
+</definition>
+</glossary>
+</document>

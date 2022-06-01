@@ -1,0 +1,323 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Biotechnology</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52709</md:content-id>
+  <md:title>Biotechnology</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe gel electrophoresis</item>
+<item>Explain molecular and reproductive cloning</item>
+<item>Describe uses of biotechnology in medicine and agriculture</item>
+</list></md:abstract>
+  <md:uuid>7f0db22d-5890-4030-9526-8e4c04631bda</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2989163">
+<link target-id="d66737984696772787976797189">
+<term id="c66737984696772787976797189">Biotechnology
+</term>
+</link> is the use of biological agents for technological advancement. Biotechnology was used for breeding livestock and crops long before the scientific basis of these techniques was understood. Since the discovery of the structure of DNA in 1953, the field of biotechnology has grown rapidly through both academic research and private companies. The primary applications of this technology are in medicine (production of vaccines and antibiotics) and agriculture (genetic modification of crops, such as to increase yields). Biotechnology also has many industrial applications, such as fermentation, the treatment of oil spills, and the production of biofuels (
+<link target-id="fig-ch17_01_01ab" document=""/>).
+</para>
+<figure id="fig-ch17_01_01ab">
+<label>Figure 17.1
+</label>
+<media id="fs-id2726785" alt="The left side of this image is an old black and white photo of a mailbox plastered with an advertisement reading “Penicillin cures gonorrhea in four hours. See your doctor today.” The right side of the image shows a petri dish streaked with bacteria. Bacteria grow everywhere on the plate except where discs containing antibiotic have been placed. These areas are completely devoid of bacterial growth">
+<image mime-type="image/jpg" src="../../media/Figure_B17_01_01ab.jpg" width="450"/>
+</media>
+<caption>Antibiotics are chemicals produced by fungi, bacteria, and other organisms that have antimicrobial properties. The first antibiotic discovered was penicillin. Antibiotics are now commercially produced and tested for their potential to inhibit bacterial growth. (credit "advertisement": modification of work by NIH; credit "test plate": modification of work by Don Stalons/CDC; scale-bar data from Matt Russell)
+</caption>
+</figure>
+<section id="fs-id1799634">
+<title>16.1a Basic Techniques to Manipulate Genetic Material (DNA and RNA)
+</title>
+<section id="fs-id2274690">
+<title>DNA and RNA Extraction
+</title>
+<para id="fs-id2415311">To study or manipulate nucleic acids, the DNA or RNA must first be isolated (extracted) from the cells. Various techniques are used to extract different types of DNA (
+<link target-id="fig-ch17_01_02" document=""/>). Most nucleic acid extraction techniques involve steps to break open the cell and use enzymatic reactions to destroy all macromolecules that are not desired (such as degradation of unwanted molecules and separation from the DNA sample). Cells are broken using a 
+<link target-id="d768983738332668570706982">
+<term id="c768983738332668570706982">lysis buffer
+</term>
+</link> (a solution which is mostly a detergent); lysis means “to split.” These enzymes break apart lipid molecules in the cell membranes and nuclear membranes. Macromolecules are inactivated using enzymes such as 
+<link target-id="d808279846965836983">
+<term id="c808279846965836983">proteases
+</term>
+</link> that break down proteins, and 
+<link target-id="d82736679788567766965836983">
+<term id="c82736679788567766965836983">ribonucleases
+</term>
+</link> (RNAses) that break down RNA. The DNA is then precipitated using alcohol. Human genomic DNA is usually visible as a gelatinous, white mass. The DNA samples can be stored frozen at –80°C for several years.
+</para>
+<figure id="fig-ch17_01_02">
+<label>Figure 17.1
+</label>
+<media id="fs-id2318009" alt="This illustration shows the four main steps of DNA extraction. In the first step, cells in a test tube are lysed using a detergent that disrupts the plasma membrane. In the second step, cell contents are treated with protease to destroy protein, and RNAase to destroy RNA. The resulting slurry is centrifuged to pellet the cell debris. The supernatant, or liquid, containing the DNA is then transferred to a clean test tube. The DNA is precipitated with ethanol. It forms viscous, mucous-like strands that can be spooled on a glass rod">
+<image mime-type="image/jpg" src="../../media/Figure_17_01_02.jpg" width="450"/>
+</media>
+<caption>This diagram shows the basic method used for extraction of DNA.
+</caption>
+</figure>
+</section>
+<section id="fs-id2645776">
+<title>Amplification of Nucleic Acid Fragments by Polymerase Chain Reaction
+</title>
+<para id="fs-id2075973">Although genomic DNA is visible to the naked eye when it is extracted in bulk, DNA analysis often requires focusing on one or more specific regions of the genome. 
+<emphasis effect="bold">Polymerase chain reaction
+</emphasis> (
+<emphasis effect="bold">PCR
+</emphasis>) is a technique used to amplify specific regions of DNA for further analysis (
+<link target-id="fig-ch17_01_04" document=""/>). PCR is used for many purposes in laboratories, such as the cloning of gene fragments to analyze genetic diseases, identification of contaminant foreign DNA in a sample, and the amplification of DNA for sequencing. More practical applications include the determination of paternity and detection of genetic diseases.
+</para>
+<figure id="fig-ch17_01_04">
+<label>Figure 17.1
+</label>
+<media id="fs-id2626001" alt="Illustration shows the amplification of a DNA sequence by the polymerase chain reaction. PCR consists of three steps—denaturation, annealing, and DNA synthesis—that occur at high, low, and intermediate temperatures. In step 1, the denaturation step, the sample is heated to a high temperature so the DNA strands separate. In step 2, annealing, the sample is cooled so two primers can anneal to the two strands of DNA. The primers are spaced such that the sequence of interest between them will be amplified. In step 3, DNA synthesis, the sample is warmed to the optimal temperature for Taq polymerase, which synthesizes the complementary strand from the primer to the 3' end of the molecule. This cycle is repeated again and again. Each time, the newly synthesized strands serve as templates so that the amount of DNA doubles with each cycle. As the cycles continue, more and more strands are the size of the distance between the two primers; in the end, the vast majority of strands are this size.">
+<image mime-type="image/jpg" src="../../media/Figure_17_01_04.jpg" width="520"/>
+</media>
+<caption>Polymerase chain reaction, or PCR, is used to amplify a specific sequence of DNA.  Primers—short pieces of DNA complementary to each end of the target sequence—are combined with genomic DNA, Taq polymerase, and deoxynucleotides. Taq polymerase is a DNA polymerase isolated from the thermostable bacterium 
+<emphasis effect="italics">Thermus aquaticus
+</emphasis> that is able to withstand the high temperatures used in PCR. 
+<emphasis effect="italics">Thermus aquaticus
+</emphasis> grows in the Lower Geyser Basin of Yellowstone National Park. Reverse transcriptase PCR (RT-PCR) is similar to PCR, but cDNA is made from an RNA template before PCR begins.
+</caption>
+</figure>
+<note id="fs-id2065865" class="interactive">
+<label/>
+<title>Link to Learning
+</title>
+<media id="fs-id1361209" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/PCR.png" width="120"/> 
+</media> 
+<para id="fs-id2200084">Deepen your understanding of the polymerase chain reaction by clicking through 
+<link window="new" url="http://openstaxcollege.org/l/PCR">this interactive exercise
+</link>.
+</para>
+</note>
+</section>
+</section>
+<section id="fs-id1285376">
+<title>16.1b Genetic Engineering
+</title>
+<para id="fs-id1277417">
+<link target-id="d71697869847367326978717378696982737871">
+<term id="c71697869847367326978717378696982737871">Genetic engineering
+</term>
+</link> is the alteration of an organism’s genotype using recombinant DNA technology to modify an organism’s DNA to achieve desirable traits. The addition of foreign DNA is the most common method of genetic engineering. The organism that receives the recombinant DNA is called a 
+<link target-id="d71697869847367657676893277796873707369683279827165">
+<term id="c71697869847367657676893277796873707369683279827165">genetically modified organism
+</term>
+</link> (GMO). If the foreign DNA that is introduced comes from a different species, the host organism is called 
+<link target-id="d84826578837169787367">
+<term id="c84826578837169787367">transgenic
+</term>
+</link>. Bacteria, plants, and animals have been genetically modified since the early 1970s for academic, medical, agricultural, and industrial purposes. In the US, GMOs such as Roundup-ready soybeans and borer-resistant corn are part of many common processed foods.
+</para>
+<section id="fs-id1058434">
+<title>Gene Targeting
+</title>
+<para id="fs-id1082309">Although classical methods of studying the function of genes began with a given trait and determined the genetic basis of that trait, modern techniques allow researchers to start at the DNA sequence level and ask: "What does this gene or DNA element do?" This technique, called reverse genetics, has resulted in reversing the classic genetic methodology.  This method would be similar to damaging a body part to determine its function. An insect that loses a wing cannot fly, which means that the function of the wing is flight. The classical genetic method would compare insects that cannot fly with insects that can fly, and observe that the non-flying insects have lost wings. Similarly, mutating or deleting genes provides researchers with clues about gene function. The methods used to disable gene function are collectively called gene targeting. 
+<link target-id="d7169786932846582716984737871">
+<term id="c7169786932846582716984737871">Gene targeting
+</term>
+</link> is the use of recombinant DNA vectors to alter the expression of a particular gene, either by introducing mutations in a gene, or by eliminating the expression of a certain gene by deleting a part or all of the gene sequence from the genome of an organism.
+</para>
+</section><section id="eip-923"><title>Gene Targeting and Editing Using CRISPR</title><para id="eip-210">
+We get sick because foreign particles, like viruses, get into our body, and our body defends itself. Our body is also proactively defensive, creating millions of different antibodies against foreign particles you may or may not encounter in the future. Many organisms’ immune systems function proactively like ours. Nearly all Archaea, and many bacteria have a system, called Clustered Regularly Interspersed Short Palindromic Repeats (CRISPR). The name refers to what the system looks like in the DNA: short, palindromic sequences that repeat themselves in certain regions of the bacterial genome. Just like viruses attack our cells, certain types of viruses also attack bacterial cells, and the bacteria use CRISPR to defend themselves. Every time a virus attacks a bacterial cell, the bacterial cell uses enzymes encoded in the CRISPR region to cut bits of the viruses’ DNA out and paste those bits into the bacterial genome. The bacteria can use the inserted DNA as an identification system, such that descendants of that cell would be able to recognize that virus in the future, and would be better able to defend themselves.
+</para><para id="eip-11">Scientists who studied CRISPR realized that they could use this system in other organisms to make specific changes to the DNA. Two parts are required: an enzyme encoded by part of the CRISPR DNA to make the changes, and small sequences of RNA that tell the enzyme where to make the change. For example, scientists studying sickle cell anemia may soon be able to generate RNAs that match the unmutated hemoglobin gene. Then, using an enzyme from the CRISPR system, the mutated sickle cell gene can be swapped for the unmutated one. The issue here is that a certain percentage of cells need to be changed for the person to be cured, and it is still difficult to change that many cells in an adult. These genetic changes can easily be done in an embryo, but that can raise ethical concerns.</para><para id="eip-376">Using CRISPR has made studying genetics much easier.  Technologies like this existed before CRISPR, but they were far from perfect. A specific change was often not possible, and making the change in a specific region required many attempts, which meant the process took a long time and required many resources. However, because CRISPR allows for such a high level of specificity, the process of gene editing became much quicker, cheaper, and cleaner.</para><para id="eip-532">CRISPR has many different applications, including generation of animal models for certain genetic diseases, altering inheritance patterns to reduce the spread of vector-borne diseases, gene therapy (described in the next section), genetic modification of crops, as well as basic genetics research. </para></section>
+</section>
+<section id="fs-id1466536">
+<title>16.1c Biotechnology in Medicine and Agriculture
+</title>
+<para id="fs-id1232227">It is easy to see how biotechnology can be used for medicinal purposes. Knowledge of the genetic makeup of our species, the genetic basis of heritable diseases, and the invention of technology to manipulate and fix mutant genes provides methods to treat the disease. Biotechnology in agriculture can enhance resistance to disease, pest, and environmental stress, and improve both crop yield and quality.
+</para>
+<section id="fs-id1424991">
+<title>Genetic Diagnosis and Gene Therapy
+</title>
+<para id="fs-id2065754">The process of testing for suspected genetic defects before administering treatment is called 
+<link target-id="d7169786984736732687365717879837383">
+<term id="c7169786984736732687365717879837383">genetic diagnosis
+</term>
+</link> by 
+<link target-id="d716978698473673284698384737871">
+<term id="c716978698473673284698384737871">genetic testing
+</term>
+</link>. Depending on the inheritance patterns of a disease-causing gene, family members are advised to undergo genetic testing. For example, women diagnosed with breast cancer are usually advised to have a biopsy so that the medical team can determine the genetic basis of cancer development. Treatment plans are based on the findings of genetic tests that determine the type of cancer. If the cancer is caused by inherited gene mutations, other female relatives are also advised to undergo genetic testing and periodic screening for breast cancer. Genetic testing is also offered for fetuses (or embryos with in vitro fertilization) to determine the presence or absence of disease-causing genes in families with specific debilitating diseases.
+</para>
+<para id="fs-id3059726">
+<link target-id="d716978693284726982658089">
+<term id="c716978693284726982658089">Gene therapy
+</term>
+</link> is a genetic engineering technique used to cure diseases caused by mutated genes. In its simplest form, it involves the introduction of a non-mutated form of a gene at a random location in the genome. The non-mutated gene is usually introduced into diseased cells as part of a vector transmitted by a virus that can infect the host cell and deliver the foreign DNA (
+<link target-id="fig-ch17_01_08" document=""/>). More advanced forms of gene therapy try to correct the mutation at the original site in the genome, such as is the case with treatment of severe combined immunodeficiency (SCID).
+</para>
+<figure id="fig-ch17_01_08">
+<label>Figure 17.1
+</label>
+<media id="fs-id1244033" alt="To cure disease using an adenovirus vector, a new gene intended to replace a defective one is packaged with the adenovirus genome. The genes that make the virus pathogenic are removed. The modified DNA is put inside the virus’ capsid, or protein coat. The person to be cured is infected with the modified virus. Viral DNA enters the nucleus, where the modified gene can replace the defective one.">
+<image mime-type="image/jpg" src="../../media/Figure_17_01_08.jpg" width="500"/>
+</media>
+<caption>Gene therapy using an adenovirus vector can be used to cure certain genetic diseases in which a person has a defective gene. (credit: NIH)
+</caption>
+</figure>
+</section>
+</section>
+<section id="fs-id1209293">
+<title>16.1d Production of Vaccines, Antibiotics, and Hormones
+</title>
+<para id="fs-id2016556">Traditional vaccination strategies use weakened or inactive forms of microorganisms to mount the initial immune response. Modern techniques use the genes of microorganisms cloned into vectors to mass produce the desired antigen. The antigen is then introduced into the body to stimulate the primary immune response and trigger immune memory. Genes cloned from the influenza virus have been used to combat the constantly changing strains of this virus.
+</para>
+<para id="fs-id944574">Antibiotics are a biotechnological product. They are naturally produced by microorganisms, such as fungi, to attain an advantage over bacterial populations. Antibiotics are produced on a large scale by cultivating and manipulating fungal cells.
+</para>
+<para id="fs-id1942719">Recombinant DNA technology was used to produce large-scale quantities of human insulin in 
+<emphasis effect="italics">E. coli
+</emphasis> as early as 1978. Previously, it was only possible to treat diabetes with pig insulin, which caused allergic reactions in humans because of differences in the gene product. In addition, human growth hormone (HGH) is used to treat growth disorders in children. The HGH gene was cloned from a cDNA library and inserted into 
+<emphasis effect="italics">E. coli
+</emphasis> cells by cloning it into a bacterial vector.
+</para>
+</section>
+<section id="fs-id1237723">
+<title>16.1e Transgenic Animals
+</title>
+<para id="fs-id1269902">Although several recombinant proteins used in medicine are successfully produced in bacteria, some proteins require a eukaryotic animal host for proper processing. For this reason, the desired genes are cloned and expressed in animals, such as sheep, goats, chickens, and mice. Animals that have been modified to express recombinant DNA are called transgenic animals. Several human proteins are expressed in the milk of transgenic sheep and goats, and some are expressed in the eggs of chickens. Mice have been used extensively for expressing and studying the effects of recombinant genes and mutations.
+</para>
+</section>
+<section id="fs-id1961722">
+<title>16.1f Transgenic Plants
+</title>
+<para id="fs-id1519760">Manipulating the DNA of plants (i.e., creating GMOs) has helped to create desirable traits, such as disease resistance, herbicide and pesticide resistance, better nutritional value, and better shelf-life (
+<link target-id="fig-ch17_01_09" document=""/>). Plants are the most important source of food for the human population. Farmers developed ways to select for plant varieties with desirable traits long before modern-day biotechnology practices were established.
+</para>
+<figure id="fig-ch17_01_09">
+<label>Figure 17.1
+</label>
+<media id="fs-id1911662" alt="Photo shows corn cobs with different colors, including yellow, white, red, and a mixture of these colors.">
+<image mime-type="image/jpg" src="../../media/Figure_17_01_09.jpg" width="250"/>
+</media>
+<caption>Corn, a major agricultural crop used to create products for a variety of industries, is often modified through plant biotechnology. (credit: Keith Weller, USDA)
+</caption>
+</figure>
+<para id="fs-id1280075">Plants that have received recombinant DNA from other species are called transgenic plants. Because they are not natural, transgenic plants and other GMOs are closely monitored by government agencies to ensure that they are fit for human consumption and do not endanger other plant and animal life. Because foreign genes can spread to other species in the environment, extensive testing is required to ensure ecological stability. Staples like corn, potatoes, and tomatoes were the first crop plants to be genetically engineered.
+</para>
+<section id="fs-id1280120">
+<title>Transformation of Plants Using 
+<emphasis effect="italics">Agrobacterium tumefaciens
+</emphasis>
+</title>
+<para id="fs-id1812768">Gene transfer occurs naturally between species in microbial populations. Many viruses that cause human diseases, such as cancer, act by incorporating their DNA into the human genome. In plants, tumors caused by the bacterium 
+<emphasis effect="italics">Agrobacterium tumefaciens
+</emphasis> occur by transfer of DNA from the bacterium to the plant. Although the tumors do not kill the plants, they make the plants stunted and more susceptible to harsh environmental conditions. Many plants, such as walnuts, grapes, nut trees, and beets, are affected by 
+<emphasis effect="italics">A. tumefaciens
+</emphasis>. The artificial introduction of DNA into plant cells is more challenging than in animal cells because of the thick plant cell wall.
+</para>
+<para id="fs-id3332735">Researchers used the natural transfer of DNA from 
+<emphasis effect="italics">Agrobacterium
+</emphasis> to a plant host to introduce DNA fragments of their choice into plant hosts. In nature, the disease-causing 
+<emphasis effect="italics">A. tumefaciens
+</emphasis> have a set of plasmids, called the 
+<link target-id="d8473328076658377736883">
+<term id="c8473328076658377736883">Ti plasmids
+</term>
+</link> (tumor-inducing plasmids), that contain genes for the production of tumors in plants. DNA from the Ti plasmid integrates into the infected plant cell’s genome. Researchers manipulate the Ti plasmids to remove the tumor-causing genes and insert the desired DNA fragment for transfer into the plant genome.  
+</para>
+</section>
+<section id="fs-id1384948">
+<title>The Organic Insecticide 
+<emphasis effect="italics">Bacillus thuringiensis
+</emphasis>
+</title>
+<para id="fs-id1270917">
+<emphasis effect="italics">Bacillus thuringiensis
+</emphasis> (Bt) is a bacterium that produces protein crystals during sporulation that are toxic to many insect species that affect plants. Bt toxin has to be ingested by insects for the toxin to be activated. Insects that have eaten Bt toxin stop feeding on the plants within a few hours. After the toxin is activated in the intestines of the insects, death occurs within a couple of days. Modern biotechnology has allowed plants to encode their own crystal Bt toxin that acts against insects. The crystal toxin genes have been cloned from Bt and introduced into plants. Bt toxin has been found to be safe for the environment, non-toxic to humans and other mammals, and is approved for use by organic farmers as a natural insecticide.
+</para>
+</section>
+<section id="fs-id1386358">
+<title>Flavr Savr Tomato
+</title>
+<para id="fs-id1453957">The first GM crop to be introduced into the market was the Flavr Savr Tomato produced in 1994. Genetic engineering was used to slow down the process of softening and rotting caused by fungal infections, which led to increased shelf life of the GM tomatoes. Additional genetic modification improved the flavor of this tomato. The Flavr Savr tomato did not successfully stay in the market because of problems maintaining and shipping the crop.
+</para>
+</section>
+</section>
+<section id="fs-id00000047" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-047">Biotechnology is using DNA. RNA, or protein to advance technology in some way. Biotechnology has been used in medicine, agriculture by the production of genetics tests, vaccines, antibiotics, treatments, and to develop new plant varieties. 
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d66737984696772787976797189">
+<term id="t66737984696772787976797189">biotechnology
+</term> 
+<meaning id="m66737984696772787976797189">use of biological agents for technological advancement
+</meaning>
+</definition>
+<definition id="d7169786932846582716984737871">
+<term id="t7169786932846582716984737871">gene targeting
+</term> 
+<meaning id="m7169786932846582716984737871">method for altering the sequence of a specific gene by introducing the modified version on a vector
+</meaning>
+</definition>
+<definition id="d716978693284726982658089">
+<term id="t716978693284726982658089">gene therapy
+</term> 
+<meaning id="m716978693284726982658089">technique used to cure inheritable diseases by replacing mutant genes with good genes
+</meaning>
+</definition>
+<definition id="d7169786984736732687365717879837383">
+<term id="t7169786984736732687365717879837383">genetic diagnosis
+</term> 
+<meaning id="m7169786984736732687365717879837383">diagnosis of the potential for disease development by analyzing disease-causing genes
+</meaning>
+</definition>
+<definition id="d71697869847367326978717378696982737871">
+<term id="t71697869847367326978717378696982737871">genetic engineering
+</term> 
+<meaning id="m71697869847367326978717378696982737871">alteration of the genetic makeup of an organism
+</meaning>
+</definition>
+<definition id="d716978698473673284698384737871">
+<term id="t716978698473673284698384737871">genetic testing
+</term> 
+<meaning id="m716978698473673284698384737871">process of testing for the presence of disease-causing genes
+</meaning>
+</definition>
+<definition id="d71697869847367657676893277796873707369683279827165">
+<term id="t71697869847367657676893277796873707369683279827165">genetically modified organism
+</term>
+<meaning id="m71697869847367657676893277796873707369683279827165"> 
+</meaning>
+</definition>
+<definition id="d768983738332668570706982">
+<term id="t768983738332668570706982">lysis buffer
+</term> 
+<meaning id="m768983738332668570706982">solution used to break the cell membrane and release cell contents
+</meaning>
+</definition>
+<definition id="d808279846965836983">
+<term id="t808279846965836983">proteases
+</term>
+<meaning id="m808279846965836983">enzyme that breaks down proteins 
+</meaning>
+</definition>
+<definition id="d82736679788567766965836983">
+<term id="t82736679788567766965836983">ribonucleases
+</term>
+<meaning id="m82736679788567766965836983">enzyme that breaks down RNA 
+</meaning>
+</definition>
+<definition id="d8473328076658377736883">
+<term id="t8473328076658377736883">Ti plasmids
+</term>
+<meaning id="m8473328076658377736883">plasmid system derived from <emphasis effect="italics">Agrobacterium tumefaciens</emphasis> that has been used by scientists to introduce foreign DNA into plant cells 
+</meaning>
+</definition>
+<definition id="d84826578837169787367">
+<term id="t84826578837169787367">transgenic
+</term> 
+<meaning id="m84826578837169787367">organism that receives DNA from a different species
+</meaning>
+</definition>
+</glossary>
+</document>

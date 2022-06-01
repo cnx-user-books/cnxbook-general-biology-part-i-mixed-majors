@@ -1,0 +1,186 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Using Light Energy to Make Organic Molecules</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52663</md:content-id>
+  <md:title>Using Light Energy to Make Organic Molecules</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the Calvin cycle</item>
+<item>Define carbon fixation</item>
+<item>Explain how photosynthesis works in the energy cycle of all living organisms</item>
+</list></md:abstract>
+  <md:uuid>5520ffe3-aafe-4197-9728-e88c7d45b70a</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp47951280">After the energy from the sun is converted into chemical energy and temporarily stored in ATP and NADPH molecules, the cell has the fuel needed to build carbohydrate molecules for long-term energy storage. The products of the light-dependent reactions, ATP and NADPH, have lifespans in the range of millionths of seconds, whereas the products of the light-independent reactions (carbohydrates and other forms of reduced carbon) can survive for hundreds of millions of years. The carbohydrate molecules made will have a backbone of carbon atoms. Where does the carbon come from? It comes from carbon dioxide, the gas that is a waste product of respiration in microbes, fungi, plants, and animals.
+</para>
+<section id="fs-idm160767200">
+<title>7.5a The Calvin Cycle </title><para id="fs-idm22256">In plants, carbon dioxide (CO
+<sub>2
+</sub>) enters the leaves through stomata, where it diffuses over short distances through intercellular spaces until it reaches the mesophyll cells. Once in the mesophyll cells, CO
+<sub>2
+</sub> diffuses into the stroma of the chloroplast—the site of light-independent reactions of photosynthesis (
+<link target-id="fig-ch08_03_01" document=""/>). These reactions actually have several names associated with them. Another term, the 
+<link target-id="d67657686737832678967766910">
+<term id="c67657686737832678967766910">Calvin cycle
+</term>
+</link>, is named for the man who discovered it, and because these reactions function as a cycle. Others call it the Calvin-Benson cycle to include the name of another scientist involved in its discovery.
+</para>
+<figure id="fig-ch08_03_01">
+<label>Figure 8.3
+</label>
+<media id="fs-idm25248320" alt="This illustration shows that ATP and NADPH produced in the light reactions are used in the Calvin cycle to make sugar.">
+<image mime-type="image/jpg" src="../../media/Figure_08_03_01f.jpg" width="550"/>
+</media>
+<caption>Light reactions harness energy from the sun to produce chemical bonds, ATP, and NADPH. These energy-carrying molecules are made in the stroma where carbon fixation takes place.
+</caption>
+</figure>
+<para id="fs-idp23499712">The light-independent reactions of the Calvin cycle can be organized into three basic stages: fixation, reduction, and regeneration.
+</para>
+<section id="fs-idm53150960">
+<title>Stage 1: Fixation
+</title>
+<para id="fs-idm187183792">In the stroma, in addition to CO
+<sub>2
+</sub>,
+<sub> 
+</sub>two other components are present to initiate the light-independent reactions: an enzyme called ribulose bisphosphate carboxylase (RuBisCO), and three molecules of ribulose bisphosphate (RuBP), as shown in 
+<link target-id="fig-ch08_03_02" document=""/>. RuBP has five atoms of carbon, flanked by two phosphates.
+</para>
+<note id="fs-idp117078128" class="art-connection">
+<label/>
+<title>Art Connection
+</title>
+<para id="fs-idp17489872">
+<figure id="fig-ch08_03_02">
+<label>Figure 8.3
+</label>
+<media id="fs-idm92787152" alt="A diagram of the Calvin cycle is shown with its three stages: carbon fixation, 3-PGA reduction, and regeneration of RuBP. In stage 1, the enzyme RuBisCO adds a carbon dioxide to the five-carbon molecule RuBP, producing two three-carbon 3-PGA molecules. In stage 2, two NADPH and two ATP are used to reduce 3-PGA to GA3P. In stage 3 RuBP is regenerated from GA3P. One ATP is used in the process. Three complete cycles produces one new GA3P, which is shunted out of the cycle and made into glucose (C6H12O6).">
+<image mime-type="image/png" src="../../media/Figure_08_03_02f.png" width="350"/>
+</media>
+<caption>The Calvin cycle has three stages. In stage 1, the enzyme RuBisCO incorporates carbon dioxide into an organic molecule, 3-PGA. In stage 2, the organic molecule is reduced using electrons supplied by NADPH. In stage 3, RuBP, the molecule that starts the cycle, is regenerated so that the cycle can continue. Only one carbon dioxide molecule is incorporated at a time, so the cycle must be completed three times to produce a single three-carbon GA3P molecule, and six times to produce a six-carbon glucose molecule.
+</caption>
+</figure>
+</para>
+<para id="fs-idp27000112">Which of the following statements is true?
+</para>
+<list id="fs-idm188800912" list-type="enumerated" number-style="lower-alpha">
+<item>In photosynthesis, oxygen, carbon dioxide, ATP, and NADPH are reactants. GA3P and water are products.
+</item>
+<item>In photosynthesis, chlorophyll, water, and carbon dioxide are reactants. GA3P and oxygen are products.
+</item>
+<item>In photosynthesis, water, carbon dioxide, ATP, and NADPH are reactants. RuBP and oxygen are products.
+</item>
+<item>In photosynthesis, water and carbon dioxide are reactants. GA3P and oxygen are products.
+</item>
+</list>
+<!-- <para><link target-id="fig-ch08_03_02" document=""/>D</para> -->
+</note>
+<para id="fs-idm152383840">RuBisCO catalyzes a reaction between CO
+<sub>2
+</sub> and RuBP. For each CO
+<sub>2
+</sub> molecule that reacts with one RuBP, two molecules of another compound (3-PGA) form. PGA has three carbons and one phosphate. Each turn of the cycle involves only one RuBP and one carbon dioxide and forms two molecules of 3-PGA. The number of carbon atoms remains the same, as the atoms move to form new bonds during the reactions (3 atoms from 3CO
+<sub>2
+</sub> + 15 atoms from 3RuBP = 18 atoms in 3 atoms of 3-PGA). This process is called 
+<link target-id="d676582667978327073886584737978">
+<term id="c676582667978327073886584737978">carbon fixation
+</term>
+</link>, because CO
+<sub>2
+</sub> is “fixed” from an inorganic form into organic molecules.
+</para>
+</section>
+<section id="fs-idm89996944">
+<title>Stage 2: Reduction
+</title>
+<para id="fs-idm86368800">ATP and NADPH are used to convert the six molecules of 3-PGA into six molecules of a chemical called glyceraldehyde 3-phosphate (G3P). That is a reduction reaction because it involves the gain of electrons by 3-PGA. Recall that a 
+<link target-id="d82696885678473797810">
+<term id="c82696885678473797810">reduction
+</term>
+</link> is the gain of an electron by an atom or molecule. Six molecules of both ATP and NADPH are used. For ATP, energy is released with the loss of the terminal phosphate atom, converting it into ADP; for NADPH, both energy and a hydrogen atom are lost, converting it into NADP
+<sup>+
+</sup>. Both of these molecules return to the nearby light-dependent reactions to be reused and reenergized.
+</para>
+</section>
+<section id="fs-idm23606256">
+<title>Stage 3: Regeneration
+</title>
+<para id="fs-idm57998960">Interestingly, at this point, only one of the G3P molecules leaves the Calvin cycle and is sent to the cytoplasm to contribute to the formation of other compounds needed by the plant. Because the G3P exported from the chloroplast has three carbon atoms, it takes three “turns” of the Calvin cycle to fix enough net carbon to export one G3P. But each turn makes two G3Ps, thus three turns make six G3Ps. One is exported while the remaining five G3P molecules remain in the cycle and are used to regenerate RuBP, which enables the system to prepare for more CO
+<sub>2
+</sub> to be fixed. Three more molecules of ATP are used in these regeneration reactions.
+</para>
+<note id="fs-idm132001936" class="interactive">
+<label/>
+<title>Link to Learning
+</title>
+<media id="fs-idm188349616" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/calvin_cycle.png" width="120"/>
+</media>
+<para id="fs-idm125936400">This 
+<link window="new" url="http://openstaxcollege.org/l/calvin_cycle">link
+</link> leads to an animation of the Calvin cycle. Click stage 1, stage 2, and then stage 3 to see G3P and ATP regenerate to form RuBP.
+</para>
+</note>
+<note id="fs-idm158415504" class="evolution">
+<label/>
+<title>Evolution Connection
+</title>
+<para id="fs-idm104644592">
+<title>Photosynthesis
+</title>During the evolution of photosynthesis, a major shift occurred from the bacterial type of photosynthesis that involves only one photosystem and is typically anoxygenic (does not generate oxygen) into modern oxygenic (does generate oxygen) photosynthesis, employing two photosystems. This modern oxygenic photosynthesis is used by many organisms—from giant tropical leaves in the rainforest to tiny cyanobacterial cells—and the process and components of this photosynthesis remain largely the same. Photosystems absorb light and use electron transport chains to convert energy into the chemical energy of ATP and NADH. The subsequent light-independent reactions then assemble carbohydrate molecules with this energy.
+</para>
+<para id="fs-idm140187264">Photosynthesis in desert plants has evolved adaptations that conserve water. In the harsh dry heat, every drop of water must be used to survive. Because stomata must open to allow for the uptake of CO
+<sub>2
+</sub>, water escapes from the leaf during active photosynthesis. Desert plants have evolved processes to conserve water and deal with harsh conditions. A more efficient use of CO
+<sub>2
+</sub> allows plants to adapt to living with less water. Some plants such as cacti (
+<link target-id="fig-ch08_03_03" document=""/>) can prepare materials for photosynthesis during the night by a temporary carbon fixation/storage process, because opening the stomata at this time conserves water due to cooler temperatures. In addition, cacti have evolved the ability to carry out low levels of photosynthesis without opening stomata at all, an extreme mechanism to face extremely dry periods.
+</para>
+</note>
+<figure id="fig-ch08_03_03">
+<label>Figure 8.3
+</label>
+<media id="fs-idm5505152" alt="This photo shows short, round prickly cacti growing in cracks in a rock.">
+<image mime-type="image/jpg" src="../../media/Figure_08_03_03.jpg" width="255"/>
+</media>
+<caption>The harsh conditions of the desert have led plants like these cacti to evolve variations of the light-independent reactions of photosynthesis. These variations increase the efficiency of water usage, helping to conserve water and energy. (credit: Piotr Wojtkowski)
+</caption>
+</figure>
+</section>
+</section>
+<section id="fs-idp98484032" class="summary">
+<title>Section Summary
+</title>
+<para id="fs-idm142625264">Using the energy carriers formed in the first steps of photosynthesis, the light-independent reactions, or the Calvin cycle, take in CO
+<sub>2
+</sub> from the environment. An enzyme, RuBisCO, catalyzes a reaction with CO
+<sub>2
+</sub> and another molecule, RuBP. After three cycles, a three-carbon molecule of G3P leaves the cycle to become part of a carbohydrate molecule. The remaining G3P molecules stay in the cycle to be regenerated into RuBP, which is then ready to react with more CO
+<sub>2
+</sub>. Photosynthesis forms an energy cycle with the process of cellular respiration. Plants need both photosynthesis and respiration for their ability to function in both the light and dark, and to be able to interconvert essential metabolites. Therefore, plants contain both chloroplasts and mitochondria.
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d67657686737832678967766910">
+<term id="t67657686737832678967766910">Calvin cycle
+</term> 
+<meaning id="m67657686737832678967766910">light-independent reactions of photosynthesis that convert carbon dioxide from the atmosphere into carbohydrates using the energy and reducing power of ATP and NADPH
+</meaning>
+</definition>
+<definition id="d676582667978327073886584737978">
+<term id="t676582667978327073886584737978">carbon fixation
+</term>
+<meaning id="m676582667978327073886584737978">process of converting inorganic CO<sub>2</sub> gas into organic compounds 
+</meaning>
+</definition>
+<definition id="d82696885678473797810">
+<term id="t82696885678473797810">reduction
+</term> 
+<meaning id="m82696885678473797810">gain of electron(s) by an atom or molecule
+</meaning>
+</definition>
+</glossary>
+</document>

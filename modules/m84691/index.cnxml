@@ -1,0 +1,221 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Light Energy</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m84691</md:content-id>
+  <md:title>Light Energy</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how plants absorb energy from sunlight</item>
+<item>Describe short and long wavelengths of light</item>
+</list></md:abstract>
+  <md:uuid>64269e2f-43af-44b9-ba5d-a23a64784358</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm88490128">How can light be used to make food? When a person turns on a lamp, electrical energy becomes light energy. Like all other forms of kinetic energy, light can travel, change form, and be harnessed to do work. In the case of photosynthesis, light energy is converted into chemical energy, which photoautotrophs use to build carbohydrate molecules (
+<link target-id="fig-ch08_02_01" document=""/>). However, autotrophs only use a few specific components of sunlight.
+</para>
+<figure id="fig-ch08_02_01">
+<label>Figure 8.2
+</label>
+<media id="fs-idm92191472" alt="A photo shows the silhouette of a grassy plant against the sun at sunset.">
+<image mime-type="image/jpg" src="../../media/Figure_08_02_01.jpg" width="295"/>
+</media>
+<caption>Photoautotrophs can capture light energy from the sun, converting it into the chemical energy used to build food molecules. (credit: Gerry Atwell)
+</caption>
+</figure>
+<section id="fs-idp36564064">
+<title>7.1a What Is Light Energy? </title><para id="fs-idm194396816">The sun emits an enormous amount of electromagnetic radiation (solar energy). Humans can see only a fraction of this energy, which portion is therefore referred to as “visible light.” The manner in which solar energy travels is described as waves. Scientists can determine the amount of energy of a wave by measuring its 
+<link target-id="d87658669766978718472">
+<term id="c87658669766978718472">wavelength
+</term>
+</link>, the distance between consecutive points of a wave. A single wave is measured from two consecutive points, such as from crest to crest or from trough to trough (
+<link target-id="fig-ch08_02_02" document=""/>). Note that light can also be described as "packets" of energy, called photons.
+</para><figure id="fig-ch08_02_02">
+<label>Figure 8.2
+</label>
+<media id="fs-idm128612944" alt="The illustration shows two waves. The distance between the crests (or troughs) is the wavelength.">
+<image mime-type="image/jpg" src="../../media/Figure_08_02_02.jpg" width="320"/>
+</media>
+<caption>The wavelength of a single wave is the distance between two consecutive points of similar position (two crests or two troughs) along the wave.
+</caption>
+</figure>
+<para id="fs-idm125423280">Visible light constitutes only one of many types of electromagnetic radiation emitted from the sun and other stars. Scientists differentiate the various types of radiant energy from the sun within the electromagnetic spectrum. The 
+<link target-id="d6976696784827977657178698473673283806967">
+<term id="c6976696784827977657178698473673283806967">electromagnetic spectrum
+</term>
+</link> is the range of all possible frequencies of radiation (
+<link target-id="fig-ch08_02_03" document=""/>). The difference between wavelengths relates to the amount of energy carried by them.
+</para>
+<figure id="fig-ch08_02_03" class=" ">
+<label>Figure 8.2
+</label>
+<media id="fs-idp102263632" alt="The illustration lists the types of electromagnetic radiation in order of increasing wavelength. These include gamma rays, X-rays, ultraviolet, visible, infrared, and radio. Gamma rays have a very short wavelength, on the order of one thousandth of a nanometer. Radio waves have a very long wavelength, on the order of one kilometer. Visible light ranges from 380 nanometers at the violet end of the spectrum, to 750 nanometers at the red end of the spectrum.">
+<image mime-type="image/jpg" src="../../media/Figure_08_02_03.jpg" width="750"/>
+</media>
+<caption>The sun emits energy in the form of electromagnetic radiation. This radiation exists at different wavelengths, each of which has its own characteristic energy. All electromagnetic radiation, including visible light, is characterized by its wavelength.
+</caption>
+</figure>
+<para id="fs-idm53908304">Each type of electromagnetic radiation travels at a particular wavelength. The longer the wavelength (or the more stretched out it appears in the diagram), the less energy is carried. Short, tight waves carry the most energy. This may seem illogical, but think of it in terms of a piece of moving a heavy rope. It takes little effort by a person to move a rope in long, wide waves. To make a rope move in short, tight waves, a person would need to apply significantly more energy.
+</para>
+<para id="fs-idm126523248">The electromagnetic spectrum (
+<link target-id="fig-ch08_02_03" document=""/>) shows several types of electromagnetic radiation originating from the sun, including X-rays and ultraviolet (UV) rays. The higher-energy waves can penetrate tissues and damage cells and DNA, explaining why both X-rays and UV rays can be harmful to living organisms.
+</para>
+</section>
+<section id="fs-idm82071776">
+<title>7.1b Absorption of Light </title><para id="fs-idm268137472">Light energy initiates the process of photosynthesis when pigments absorb the light. Organic pigments, whether in the human retina or the chloroplast, have a narrow range of energy levels that they can absorb. Energy levels lower than those represented by red light are insufficient to raise an orbital electron to an excited (quantum) state. Energy levels higher than those in blue light will physically tear the molecules apart, called bleaching. So retinal pigments can only “see” (absorb) 700 nm to 400 nm light, which is therefore called visible light. For the same reasons, plants pigment molecules absorb only light in the wavelength range of 700 nm to 400 nm; plant physiologists refer to this range for plants as photosynthetically active radiation.
+</para><para id="fs-idp33763296">The visible light seen by humans as white light actually exists in a rainbow of colors. Certain objects, such as a prism or a drop of water, disperse white light to reveal the colors to the human eye. The visible light portion of the electromagnetic spectrum shows the rainbow of colors, with violet and blue having shorter wavelengths, and therefore higher energy. At the other end of the spectrum toward red, the wavelengths are longer and have lower energy (
+<link target-id="fig-ch08_02_04" document=""/>).
+</para>
+<figure id="fig-ch08_02_04" class=" ">
+<label>Figure 8.2
+</label>
+<media id="fs-idm211258048" alt="The illustration shows the colors of visible light. In order of decreasing wavelength, these are red, orange, yellow, green, blue, indigo, and violet.">
+<image mime-type="image/jpg" src="../../media/Figure_08_02_04.jpg" width="750"/>
+</media>
+<caption>The colors of visible light do not carry the same amount of energy. Violet has the shortest wavelength and therefore carries the most energy, whereas red has the longest wavelength and carries the least amount of energy. (credit: modification of work by NASA)
+</caption>
+</figure>
+<section id="fs-idm123511168">
+<title>Understanding Pigments
+</title>
+<para id="fs-idp9838128">Different kinds of pigments exist, and each has evolved to absorb only certain wavelengths (colors) of visible light. Pigments reflect or transmit the wavelengths they cannot absorb, making them appear in the corresponding color.
+</para>
+<para id="fs-idm211300064">Chlorophylls and carotenoids are the two major classes of photosynthetic pigments found in plants and algae; each class has multiple types of pigment molecules. There are five major chlorophylls: 
+<emphasis effect="italics">a
+</emphasis>, 
+<emphasis effect="italics">b
+</emphasis>, 
+<emphasis effect="italics">c
+</emphasis> and 
+<emphasis effect="italics">d
+</emphasis> and a related molecule found in prokaryotes called bacteriochlorophyll. 
+<link target-id="d677276798279807289767632">
+<term id="c677276798279807289767632">Chlorophyll 
+<emphasis effect="italics">a
+</emphasis>
+</term>
+</link> and 
+chlorophyll 
+<emphasis effect="italics">b
+</emphasis>
+are found in higher plant chloroplasts and will be the focus of the following discussion.
+</para>
+<para id="fs-idm123243680">With dozens of different forms, carotenoids are a much larger group of pigments. The carotenoids found in fruit—such as the red of tomato (lycopene), the yellow of corn seeds (zeaxanthin), or the orange of an orange peel (β-carotene)—are used as advertisements to attract seed dispersers. In photosynthesis, 
+<link target-id="d6765827984697879736883">
+<term id="c6765827984697879736883">carotenoids
+</term>
+</link> function as photosynthetic pigments that are very efficient molecules for the disposal of excess energy. When a leaf is exposed to full sun, the light-dependent reactions are required to process an enormous amount of energy; if that energy is not handled properly, it can do significant damage. Therefore, many carotenoids reside in the thylakoid membrane, absorb excess energy, and safely dissipate that energy as heat.
+</para>
+<para id="fs-idp27821616">Each type of pigment can be identified by the specific pattern of wavelengths it absorbs from visible light, which is the 
+<link target-id="d65668379828084737978328380696784828577">
+<term id="c65668379828084737978328380696784828577">absorption spectrum
+</term>
+</link>. The graph in 
+<link target-id="fig-ch08_02_05" document=""/> shows the absorption spectra for chlorophyll 
+<emphasis effect="italics">a
+</emphasis>, chlorophyll 
+<emphasis effect="italics">b
+</emphasis>, and a type of carotenoid pigment called β-carotene (which absorbs blue and green light). Notice how each pigment has a distinct set of peaks and troughs, revealing a highly specific pattern of absorption. Chlorophyll 
+<emphasis effect="italics">a
+</emphasis> absorbs wavelengths from either end of the visible spectrum (blue and red), but not green. Because green is reflected or transmitted, chlorophyll appears green. Carotenoids absorb in the short-wavelength blue region, and reflect the longer yellow, red, and orange wavelengths.
+</para>
+<figure id="fig-ch08_02_05">
+<label>Figure 8.2
+</label>
+<media id="fs-idm181645856" alt="Chlorophyll a and chlorophyll b are made up of a long hydrocarbon chain attached to a large, complex ring made up of nitrogen and carbon. Magnesium is associated with the center of the ring. Chlorophyll b differs from chlorophyll a in that it has a CHO group instead of a CH3 group associated with one part of the ring. Beta-carotene is a branched hydrocarbon with a six-membered carbon ring at each end. Each chart shows the absorbance spectra for chlorophyll a, chlorophyll b, and β-carotene. The three pigments absorb blue-green and orange-red wavelengths of light but have slightly different spectra.">
+<image mime-type="image/jpg" src="../../media/Figure_08_02_05abcd.jpg" width="550"/>
+</media>
+<caption>(a) Chlorophyll 
+<emphasis effect="italics">a
+</emphasis>, (b) chlorophyll 
+<emphasis effect="italics">b
+</emphasis>, and (c) 
+<emphasis effect="italics">β
+</emphasis>-carotene are hydrophobic organic pigments found in the thylakoid membrane. Chlorophyll 
+<emphasis effect="italics">a
+</emphasis> and 
+<emphasis effect="italics">b
+</emphasis>, which are identical except for the part indicated in the red box, are responsible for the green color of leaves. 
+<emphasis effect="italics">β
+</emphasis>-carotene is responsible for the orange color in carrots. Each pigment has (d) a unique absorbance spectrum.
+</caption>
+</figure>
+<para id="fs-idm186915168">Many photosynthetic organisms have a mixture of pigments; using them, the organism can absorb energy from a wider range of wavelengths. Not all photosynthetic organisms have full access to sunlight. Some organisms grow underwater where light intensity and quality decrease and change with depth. Other organisms grow in competition for light. Plants on the rainforest floor must be able to absorb any bit of light that comes through, because the taller trees absorb most of the sunlight and scatter the remaining solar radiation (
+<link target-id="fig-ch08_02_06" document=""/>).
+</para>
+<figure id="fig-ch08_02_06">
+<label>Figure 8.2
+</label>
+<media id="fs-idm168490976" alt="The photo shows undergrowth in a forest.">
+<image mime-type="image/jpg" src="../../media/Figure_08_02_06.jpg" width="380"/>
+</media>
+<caption>Plants that commonly grow in the shade have adapted to low levels of light by changing the relative concentrations of their chlorophyll pigments. (credit: Jason Hollinger)
+</caption>
+</figure>
+<para id="fs-idm160247200">When studying a photosynthetic organism, scientists can determine the types of pigments present by generating absorption spectra. An instrument called a 
+<link target-id="d8380696784827980727984797769846982">
+<term id="c8380696784827980727984797769846982">spectrophotometer
+</term>
+</link> can differentiate which wavelengths of light a substance can absorb. Spectrophotometers measure transmitted light and compute from it the absorption. By extracting pigments from leaves and placing these samples into a spectrophotometer, scientists can identify which wavelengths of light an organism can absorb. Additional methods for the identification of plant pigments include various types of chromatography that separate the pigments by their relative affinities to solid and mobile phases.
+</para>
+</section>
+</section>
+<section id="fs-id00000023" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-023">Light is made of photons - packets of energy with different wavelengths. Different wavelengths produce different energy levels, and in the case of visible light, different colors. Certain molecules can absorb these photons and use their energy to trigger chemical reactions.
+</para></section>
+</content>
+<glossary>
+<definition id="d65668379828084737978328380696784828577">
+<term id="t65668379828084737978328380696784828577">absorption spectrum
+</term> 
+<meaning id="m65668379828084737978328380696784828577">range of wavelengths of electromagnetic radiation absorbed by a given substance
+</meaning>
+</definition>
+
+<definition id="d6765827984697879736883">
+<term id="t6765827984697879736883">carotenoids
+</term>
+<meaning id="m6765827984697879736883">photosynthetic pigment that functions to dispose of excess energy 
+</meaning>
+</definition>
+<definition id="d677276798279807289767632">
+<term id="t677276798279807289767632">chlorophyll 
+<emphasis effect="italics">a
+</emphasis>
+</term> 
+<meaning id="m677276798279807289767632">form of chlorophyll that absorbs violet-blue and red light and consequently has a bluish-green color; the only pigment molecule that performs the photochemistry by getting excited and losing an electron to the electron transport chain
+</meaning>
+</definition>
+
+<definition id="d6976696784827977657178698473673283806967">
+<term id="t6976696784827977657178698473673283806967">electromagnetic spectrum
+</term> 
+<meaning id="m6976696784827977657178698473673283806967">range of all possible frequencies of radiation
+</meaning>
+</definition>
+
+
+<definition id="d807279847978">
+<term id="t807279847978">photon
+</term> 
+<meaning id="m807279847978">distinct quantity or “packet” of light energy
+</meaning>
+</definition>
+
+<definition id="d8380696784827980727984797769846982">
+<term id="t8380696784827980727984797769846982">spectrophotometer
+</term> 
+<meaning id="m8380696784827980727984797769846982">instrument that can measure transmitted light and compute the absorption
+</meaning>
+</definition>
+<definition id="d87658669766978718472">
+<term id="t87658669766978718472">wavelength
+</term> 
+<meaning id="m87658669766978718472">distance between consecutive points of equal position (two crests or two troughs) of a wave in a graphic representation; inversely proportional to the energy of the radiation
+</meaning>
+</definition>
+</glossary>
+</document>

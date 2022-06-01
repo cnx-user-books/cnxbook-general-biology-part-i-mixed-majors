@@ -1,0 +1,498 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Population Genetics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52722</md:content-id>
+  <md:title>Population Genetics</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Define population genetics and describe how population genetics is used in the study of the evolution of populations</item>
+<item>Describe the different types of variation in a population</item>
+<item>Explain why only heritable variation can be acted upon by natural selection</item>
+<item>Describe genetic drift and the bottleneck effect</item>
+<item>Explain how each evolutionary force can influence the allele frequencies of a population</item>
+</list></md:abstract>
+  <md:uuid>332b00db-30b4-40e6-a457-faf8cc8484c1</md:uuid>
+</metadata>
+
+<content>
+<para id="eip-547">The mechanisms of inheritance, or genetics, were not understood at the time Charles Darwin and Alfred Russel Wallace were developing their idea of natural selection. This lack of understanding was a stumbling block to understanding many aspects of evolution. In fact, the predominant (and incorrect) genetic theory of the time, blending inheritance, made it difficult to understand how natural selection might operate. Darwin and Wallace were unaware of the genetics work by Austrian monk Gregor Mendel, which was published in 1866, not long after publication of Darwin's book, 
+<emphasis effect="italics">On the Origin of Species
+</emphasis>. Mendel’s work was rediscovered in the early twentieth century at which time geneticists were rapidly coming to an understanding of the basics of inheritance. Initially, the newly discovered particulate nature of genes made it difficult for biologists to understand how gradual evolution could occur. But over the next few decades genetics and evolution were integrated in what became known as the 
+<link target-id="d7779686982783283897884726983738310">
+<term id="c7779686982783283897884726983738310">modern synthesis
+</term>
+</link>—the coherent understanding of the relationship between natural selection and genetics that took shape by the 1940s and is generally accepted today. In sum, the modern synthesis describes how evolutionary processes, such as natural selection, can affect a population’s genetic makeup, and, in turn, how this can result in the gradual evolution of populations and species. The theory also connects this change of a population over time, called 
+<link target-id="d777367827969867976858473797810">
+<term id="c777367827969867976858473797810">microevolution
+</term>
+</link>, with the processes that gave rise to new species and higher taxonomic groups with widely divergent characters, called 
+<link target-id="d776567827969867976858473797810">
+<term id="c776567827969867976858473797810">macroevolution
+</term>
+</link>.
+</para>
+<note id="eip-412">
+<label/>
+<title>Everyday Connection
+</title>
+<para id="fs-idp23816096">
+<title>Evolution and Flu Vaccines
+</title>Every fall, the media starts reporting on flu vaccinations and potential outbreaks. Scientists, health experts, and institutions determine recommendations for different parts of the population, predict optimal production and inoculation schedules, create vaccines, and set up clinics to provide inoculations. You may think of the annual flu shot as a lot of media hype, an important health protection, or just a briefly uncomfortable prick in your arm. But do you think of it in terms of evolution?
+</para>
+<para id="fs-idm3795120">The media hype of annual flu shots is scientifically grounded in our understanding of evolution. Each year, scientists across the globe strive to predict the flu strains that they anticipate being most widespread and harmful in the coming year. This knowledge is based in how flu strains have evolved over time and over the past few flu seasons. Scientists then work to create the most effective vaccine to combat those selected strains. Hundreds of millions of doses are produced in a short period in order to provide vaccinations to key populations at the optimal time.
+</para>
+<para id="fs-idm94681808">Because viruses, like the flu, evolve very quickly (especially in evolutionary time), this poses quite a challenge. Viruses mutate and replicate at a fast rate, so the vaccine developed to protect against last year’s flu strain may not provide the protection needed against the coming year’s strain. Evolution of these viruses means continued adaptions to ensure survival, including adaptations to survive previous vaccines.
+</para>
+</note>
+<section id="eip-156">
+<title>17.2a Allele Frequencies
+</title>
+<para id="fs-idp38683264">Recall that a gene for a particular character may have several alleles, or variants, that code for different traits associated with that character. For example, in the ABO blood type system in humans, three alleles determine the particular blood-type protein on the surface of red blood cells. Each individual in a population of diploid organisms can only carry two alleles for a particular gene, but more than two may be present in the individuals that make up the population. Mendel followed alleles as they were inherited from parent to offspring. In the early twentieth century, biologists in a field of study known as 
+<link target-id="d8079808576658473797832716978698473678310">
+<term id="c8079808576658473797832716978698473678310">population genetics
+</term>
+</link> began to study how selective forces change a population through changes in allele and genotypic frequencies.
+</para>
+<para id="fs-idp27127920">The 
+<link target-id="d6576766976693270826981856978678910">
+<term id="c6576766976693270826981856978678910">allele frequency
+</term>
+</link> (or gene frequency) is the rate at which a specific allele appears within a population. Until now we have discussed evolution as a change in the characteristics of a population of organisms, but behind that phenotypic change is genetic change. In population genetics, the term evolution is defined as a change in the frequency of an allele in a population. Using the ABO blood type system as an example, the frequency of one of the alleles, 
+<emphasis effect="italics">I
+</emphasis>
+<sup>A
+</sup>, is the number of copies of that allele divided by all the copies of the ABO gene in the population. For example, a study in Jordan
+<sup>
+<footnote id="fs-idp35882688">Sahar S. Hanania, Dhia S. Hassawi, and Nidal M. Irshaid, “Allele Frequency and Molecular Genotypes of ABO Blood Group System in a Jordanian Population,” 
+<emphasis effect="italics">Journal of Medical Sciences
+</emphasis> 7 (2007): 51-58, doi:10.3923/jms.2007.51.58.
+</footnote>
+</sup> found a frequency of 
+<emphasis effect="italics">I
+</emphasis>
+<sup>A
+</sup> to be 26.1 percent. The 
+<emphasis effect="italics">I
+</emphasis>
+<sup>B
+</sup> and 
+<emphasis effect="italics">I
+</emphasis>
+<sup>0
+</sup> alleles made up 13.4 percent and 60.5 percent of the alleles respectively, and all of the frequencies added up to 100 percent. A change in this frequency over time would constitute evolution in the population.
+</para>
+<para id="fs-idm114333808">The allele frequency within a given population can change depending on environmental factors; therefore, certain alleles become more widespread than others during the process of natural selection. Natural selection can alter the population’s genetic makeup; for example, if a given allele confers a phenotype that allows an individual to better survive or have more offspring. Because many of those offspring will also carry the beneficial allele, and often the corresponding phenotype, they will have more offspring of their own that also carry the allele, thus, perpetuating the cycle. Over time, the allele will spread throughout the population. Some alleles will quickly become fixed in this way, meaning that every individual of the population will carry the allele, while detrimental mutations may be swiftly eliminated if derived from a dominant allele from the gene pool. The 
+<link target-id="d71697869328079797610">
+<term id="c71697869328079797610">gene pool
+</term>
+</link> is the sum of all the alleles in a population.
+</para>
+<para id="fs-idp48160560">Sometimes, allele frequencies within a population change randomly with no advantage to the population over existing allele frequencies. This phenomenon is called genetic drift. Natural selection and genetic drift usually occur simultaneously in populations and are not isolated events. It is hard to determine which process dominates because it is often nearly impossible to determine the cause of change in allele frequencies at each occurrence. An event that initiates an allele frequency change in an isolated part of the population, which is not typical of the original population, is called the founder effect. Natural selection, random drift, and founder effects can lead to significant changes in the genome of a population.
+</para>
+<para id="eip-841">
+<title>Polymorphism
+</title>Individuals of a population often display different phenotypes, or express different alleles of a particular gene, referred to as polymorphisms. Populations with two or more variations of particular characteristics are called polymorphic. The distribution of phenotypes among individuals, known as the 
+<link target-id="d807980857665847379783286658273658473797810">
+<term id="c807980857665847379783286658273658473797810">population variation
+</term>
+</link>, is influenced by a number of factors, including the population’s genetic structure and the environment (
+<link target-id="fig-ch19_02_01" document=""/>). Understanding the sources of a phenotypic variation in a population is important for determining how a population will evolve in response to different evolutionary pressures.
+</para>
+<figure id="fig-ch19_02_01">
+<label>Figure 19.2
+</label>
+<media id="fs-idm54115200" alt=" This photo shows four kittens in a basket: two are gray, black, orange, and white, the third cat is orange and white, and the fourth cat is black.">
+<image mime-type="image/jpg" src="../../media/Figure_19_02_01.jpg" width="345"/>
+</media>
+<caption>The distribution of phenotypes in this litter of kittens illustrates population variation. (credit: Pieter Lanser)
+</caption>
+</figure>
+</section>
+<section id="eip-232">
+<title>17.2b Patterns of Natural Selection 
+</title>
+<para id="eip-396">As mentioned previously, natural selection is the preferential survival and reproduction of individuals who are most well adapted to their environment. Over time, natural selection generally weeds out unfavorable alleles, and increases the frequency of favorable ones. However, sometimes it's not so simple as an "unfavorable allele" vs. a "favorable allele."
+</para>
+<section id="eip-730">
+<title>Balanced Polymorphism and Heterozygote Advantage
+</title>
+<para id="eip-49">Sometimes an allele provides a benefit only in certain environments, like the sickle-cell allele. Two copies of the sickle-cell allele give a person sickle-cell anemia, which causes their blood cells to be shaped like a sickle. This reduces the oxygen they can carry, and can cause severe pain and possibly an early death. You would expect this allele to not be favored by natural selection, and in most environments that would be a correct prediction. However, in places where malaria is common, having one or both sickle-cell alleles is actually a benefit. The parasite that causes malaria can live inside of healthy blood cells, but not so much the sickled ones. Therefore, people with both copies of the sickle-cell allele are resistant to malaria, which can be fatal. Because the sickle-cell allele protects against malaria, and because the normal blood cell allele means an individual does not have sickle cell anemia, both of these alleles are favored in areas where malaria is prevalent. Selection for two different alleles keeps both of them in the population -- neither allele is expected to be lost forever. This is called 
+<link target-id="d66657665786769683280797689777982807273837710">
+<term id="c66657665786769683280797689777982807273837710">balanced polymorphism
+</term>
+</link>. 
+</para>
+<para id="eip-609">Individuals who carry one sickle-cell allele and one normal blood cell allele do not exhibit sickle cell anemia. Some of their blood cells take on the sickled shape, but not enough to cause problems. These people are said to have "sickle cell trait." They are also resistant to malaria. Therefore, being heterozygous for these alleles in an area where malaria is prevalent is the best possible genotype. These individuals are unlikely to die from malaria, and they won't die from sickle-cell anemia. In these areas, the heterozygote is the most fit, a pattern called 
+<link target-id="d7269846982799089717984693265688665788465716910">
+<term id="c7269846982799089717984693265688665788465716910">heterozygote advantage
+</term>
+</link>. However, in places where malaria is not prevalent, their advantage goes away. In these areas, they are just as fit as individuals homozygous for the normal blood cell allele. 
+</para>
+</section>
+</section>
+<section id="fs-idp80873184">
+<title>17.2c Genetic Variance 
+</title>
+<para id="fs-idp51276304">Natural selection and some of the other evolutionary forces can only act on heritable traits, namely an organism’s genetic code. Because alleles are passed from parent to offspring, those that confer beneficial traits or behaviors may be selected for, while deleterious alleles may be selected against. Acquired traits, for the most part, are not heritable. For example, if an athlete works out in the gym every day, building up muscle strength, the athlete’s offspring will not necessarily grow up to be a body builder. If there is a genetic basis for the ability to run fast, on the other hand, this may be passed to a child.
+</para>
+<note id="fs-idp49678752" class="interactive">
+<label/>
+<title>Link to Learning
+</title>
+<media id="fs-idm46935584" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/epigenetic.png" width="120"/>
+</media>
+<para id="fs-idm35464176">Before Darwinian evolution became the prevailing theory of the field, French naturalist Jean-Baptiste Lamarck theorized that acquired traits could, in fact, be inherited; while this hypothesis has largely been unsupported, scientists have recently begun to realize that Lamarck was not completely wrong. Visit this 
+<link window="new" url="http://openstaxcollege.org/l/epigenetic">site
+</link> to learn more.
+</para>
+</note>
+<para id="fs-idp81956544">
+<link target-id="d72698273846566737673848910">
+<term id="c72698273846566737673848910">Heritability
+</term>
+</link> is the fraction of phenotype variation that can be attributed to genetic differences, or genetic variance, among individuals in a population. The greater the hereditability of a population’s phenotypic variation, the more susceptible it is to the evolutionary forces that act on heritable variation.
+</para>
+<para id="fs-idm33908784">The diversity of alleles and genotypes within a population is called 
+<link target-id="d7169786984736732866582736578676910">
+<term id="c7169786984736732866582736578676910">genetic variance
+</term>
+</link>. When scientists are involved in the breeding of a species, such as with animals in zoos and nature preserves, they try to increase a population’s genetic variance to preserve as much of the phenotypic diversity as they can. This also helps reduce the risks associated with 
+<link target-id="d7378668269696873787110">
+<term id="c7378668269696873787110">inbreeding
+</term>
+</link>, the mating of closely related individuals, which can have the undesirable effect of bringing together deleterious recessive mutations that can cause abnormalities and susceptibility to disease. For example, a disease that is caused by a rare, recessive allele might exist in a population, but it will only manifest itself when an individual carries two copies of the allele. Because the allele is rare in a normal, healthy population with unrestricted habitat, the chance that two carriers will mate is low, and even then, only 25 percent of their offspring will inherit the disease allele from both parents. While it is likely to happen at some point, it will not happen frequently enough for natural selection to be able to swiftly eliminate the allele from the population, and as a result, the allele will be maintained at low levels in the gene pool. However, if a family of carriers begins to interbreed with each other, this will dramatically increase the likelihood of two carriers mating and eventually producing diseased offspring, a phenomenon known as 
+<link target-id="d73786682696968737871326869808269838373797810">
+<term id="c73786682696968737871326869808269838373797810">inbreeding depression
+</term>
+</link>.
+</para>
+<para id="fs-idp75088976">Changes in allele frequencies that are identified in a population can shed light on how it is evolving. In addition to natural selection, there are other evolutionary forces that could be in play: genetic drift, gene flow, mutation, nonrandom mating, and environmental variances.
+</para>
+</section>
+<section id="fs-idp26534064">
+<title>17.2d Genetic Drift 
+</title>
+<para id="fs-idm78896048">The theory of natural selection stems from the observation that some individuals in a population are more likely to survive longer and have more offspring than others; thus, they will pass on more of their alleles to the next generation. A big, powerful male gorilla, for example, is much more likely than a smaller, weaker one to become the population’s silverback, the pack’s leader who mates far more than the other males of the group. The pack leader will father more offspring, who share half of his alleles, and are likely to also grow bigger and stronger like their father. Over time, the alleles for bigger size will increase in frequency in the population, and the population will, as a result, grow larger on average. That is, this would occur if this particular 
+<link target-id="d83697669678473797832808269838385826910">
+<term id="c83697669678473797832808269838385826910">selection pressure
+</term>
+</link>, or driving selective force, were the only one acting on the population. In other examples, better camouflage or a stronger resistance to drought might pose a selection pressure.
+</para>
+<para id="fs-idm30526416">Another way a population’s allele and genotype frequencies can change is 
+<link target-id="d7169786984736732688273708410">
+<term id="c7169786984736732688273708410">genetic drift
+</term>
+</link> (
+<link target-id="fig-ch19_02_02" document=""/>), which is simply the effect of chance. By chance, some individuals will have more offspring than others—not due to an advantage conferred by some genetically-encoded trait, but just because one male happened to be in the right place at the right time (when the receptive female walked by) or because the other one happened to be in the wrong place at the wrong time (when a fox was hunting).
+</para>
+<note id="fs-idm21195008" class="art-connection">
+<label/>
+<title>Art Connection
+</title>
+<para id="fs-idm91336928">
+<figure id="fig-ch19_02_02">
+<label>Figure 19.2
+</label>
+<media id="fs-idp67330832" alt=" A population has 10 rabbits. 2 of these rabbits are homozygous dominant for the B allele and have brown coat color. 6 are heterozygous and also have brown coat color. Two are homozygous recessive and have white coat color. The frequency of the capital B allele, p, is .5 and the frequency of the small b allele, q, is also .5.Only 5 of the rabbits, including 2 homozygous dominant and 3 heterozygous individuals, produce offspring. 5 of the resulting offspring are homozygous dominant, 4 are heterozygous, and 1 is homozygous recessive. The frequency of alleles in the second generation is p=.7 and q=.3. Only 2 rabbits in the second generation produce offspring, and both of these are homozygous dominant. As a result, the recessive small b allele is lost in the third generation, and all of the rabbits are heterozygous dominant with brown coat color.">
+<image mime-type="image/png" src="../../media/Figure_19_02_02.png" width="275"/>
+</media>
+<caption>Genetic drift in a population can lead to the elimination of an allele from a population by chance. In this example, rabbits with the brown coat color allele (
+<emphasis effect="italics">B
+</emphasis>) are dominant over rabbits with the white coat color allele (
+<emphasis effect="italics">b
+</emphasis>). In the first generation, the two alleles occur with equal frequency in the population, resulting in p and q values of .5. Only half of the individuals reproduce, resulting in a second generation with p and q values of .7 and .3, respectively. Only two individuals in the second generation reproduce, and by chance these individuals are homozygous dominant for brown coat color. As a result, in the third generation the recessive 
+<emphasis effect="italics">b
+</emphasis> allele is lost.
+</caption>
+</figure>
+</para>
+<para id="fs-idm93442624">Do you think genetic drift would happen more quickly on an island or on the mainland?
+</para>
+<!--<para><link target-id="fig-ch19_02_02" document=""/>Genetic drift is likely to occur more rapidly on an island where smaller populations are expected to occur.</para>-->
+</note>
+<para id="fs-idm18731200">Small populations are more susceptible to the forces of genetic drift. Large populations, on the other hand, are buffered against the effects of chance. If one individual of a population of 10 individuals happens to die at a young age before it leaves any offspring to the next generation, all of its alleles—1/10 of the population’s gene pool—will be suddenly lost. In a population of 100, that’s only 1 percent of the overall gene pool; therefore, it is much less impactful on the population’s genetic structure.
+</para>
+<note id="fs-idp1983504" class="interactive">
+<label/>
+<title>Link to Learning
+</title>
+<media id="fs-idp138735392" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/genetic_drift.png" width="120"/>
+</media>
+<para id="fs-idm45931344">Go to this 
+<link window="new" url="http://openstaxcollege.org/l/genetic_drift">site
+</link> to watch an animation of random sampling and genetic drift in action.
+</para>
+</note>
+<para id="fs-idp4080576">Genetic drift can also be magnified by natural events, such as a natural disaster that kills—at random—a large portion of the population. Known as the 
+<link target-id="d667984847669786967753269707069678410">
+<term id="c667984847669786967753269707069678410">bottleneck effect
+</term>
+</link>, it results in a large portion of the genome suddenly being wiped out (
+<link target-id="fig-ch19_02_03" document=""/>). In one fell swoop, the genetic structure of the survivors becomes the genetic structure of the entire population, which may be very different from the pre-disaster population.
+</para>
+<figure id="fig-ch19_02_03">
+<label>Figure 19.2
+</label>
+<media id="fs-idp51184464" alt="This illustration shows a narrow-neck bottle filled with red, orange, and green marbles. The bottle is tipped so the marbles pour into a glass. Because of the bottleneck, only seven marbles escape, and these are all orange and green. The marbles in the bottle represent the original population, and the marbles in the glass represent the surviving population. Because of the bottleneck effect, the surviving population is less diverse than the original population.">
+<image mime-type="image/jpg" src="../../media/Figure_19_02_03.jpg" width="300"/>
+</media>
+<caption>A chance event or catastrophe can reduce the genetic variability within a population.
+</caption>
+</figure>
+<para id="fs-idm47030080">Another scenario in which populations might experience a strong influence of genetic drift is if some portion of the population leaves to start a new population in a new location or if a population gets divided by a physical barrier of some kind. In this situation, those individuals are unlikely to be representative of the entire population, which results in the 
+<link target-id="d707985786869823269707069678410">
+<term id="c707985786869823269707069678410">founder effect
+</term>
+</link>. The founder effect occurs when the genetic structure changes to match that of the new population’s founding fathers and mothers. The founder effect is believed to have been a key factor in the genetic history of the Afrikaner population of Dutch settlers in South Africa, as evidenced by mutations that are common in Afrikaners but rare in most other populations. This is likely due to the fact that a higher-than-normal proportion of the founding colonists carried these mutations. As a result, the population expresses unusually high incidences of Huntington’s disease (HD) and Fanconi anemia (FA), a genetic disorder known to cause blood marrow and congenital abnormalities—even cancer.
+<sup>
+<footnote id="fs-idm35617696">A. J. Tipping et al., “Molecular and Genealogical Evidence for a Founder Effect in Fanconi Anemia Families of the Afrikaner Population of South Africa,” 
+<emphasis effect="italics">PNAS
+</emphasis> 98, no. 10 (2001): 5734-5739, doi: 10.1073/pnas.091402398.
+</footnote>
+</sup>
+</para>
+<note id="fs-idp75130400" class="interactive">
+<label/>
+<title>Link to Learning
+</title>
+<media id="fs-idp42175520" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/founder_bottle.png" width="120"/>
+</media>
+<para id="fs-idp29188400">Watch this short 
+<link window="new" url="http://openstaxcollege.org/l/founder_bottle">video
+</link> to learn more about the founder and bottleneck effects.
+</para>
+</note>
+<note id="fs-idp50278960" class="scientific">
+<label/>
+<title>Scientific Method Connection
+</title>
+<para id="eip-id1171535448279">
+<title>Testing the Bottleneck Effect
+</title>
+</para>
+<para id="fs-idp53661840">
+<emphasis effect="bold">Question:
+</emphasis> How do natural disasters affect the genetic structure of a population?
+</para>
+<para id="fs-idm87802752">
+<emphasis effect="bold">Background: 
+</emphasis>When much of a population is suddenly wiped out by an earthquake or hurricane, the individuals that survive the event are usually a random sampling of the original group. As a result, the genetic makeup of the population can change dramatically. This phenomenon is known as the bottleneck effect.
+</para>
+<para id="fs-idm37862240">
+<emphasis effect="bold">Hypothesis: 
+</emphasis>Repeated natural disasters will yield different population genetic structures; therefore, each time this experiment is run, the results will vary.
+</para>
+<para id="fs-idp6716496">
+<emphasis effect="bold">Test the hypothesis: 
+</emphasis>Count out the original population using different colored beads. For example, red, blue, and yellow beads might represent red, blue, and yellow individuals. After recording the number of each individual in the original population, place them all in a bottle with a narrow neck that will only allow a few beads out at a time. Then, pour 1/3 of the bottle’s contents into a bowl. This represents the surviving individuals after a natural disaster kills a majority of the population. Count the number of the different colored beads in the bowl, and record it. Then, place all of the beads back in the bottle and repeat the experiment four more times.
+</para>
+<para id="fs-idp107504240">
+<emphasis effect="bold">Analyze the data: 
+</emphasis>Compare the five populations that resulted from the experiment. Do the populations all contain the same number of different colored beads, or do they vary? Remember, these populations all came from the same exact parent population.
+</para>
+<para id="fs-idm37584880">
+<emphasis effect="bold">Form a conclusion: 
+</emphasis>Most likely, the five resulting populations will differ quite dramatically. This is because natural disasters are not selective—they kill and spare individuals at random. Now think about how this might affect a real population. What happens when a hurricane hits the Mississippi Gulf Coast? How do the seabirds that live on the beach fare?
+</para>
+</note>
+</section>
+<section id="fs-idm51545568">
+<title>17.2e Gene Flow 
+</title>
+<para id="fs-idm31935728">Another important evolutionary force is 
+<link target-id="d71697869327076798710">
+<term id="c71697869327076798710">gene flow
+</term>
+</link>: the flow of alleles in and out of a population due to the migration of individuals or gametes (
+<link target-id="fig-ch19_02_04" document=""/>). While some populations are fairly stable, others experience more flux. Many plants, for example, send their pollen far and wide, by wind or by bird, to pollinate other populations of the same species some distance away. Even a population that may initially appear to be stable, such as a pride of lions, can experience its fair share of immigration and emigration as developing males leave their mothers to seek out a new pride with genetically unrelated females. This variable flow of individuals in and out of the group not only changes the gene structure of the population, but it can also introduce new genetic variation to populations in different geological locations and habitats.
+</para>
+<para id="fs-idp4472544">
+<figure id="fig-ch19_02_04">
+<label>Figure 19.2
+</label>
+<media id="fs-idp97522656" alt="This illustration shows an individual from a population of brown insects traveling toward a population of green insects.">
+<image mime-type="image/jpg" src="../../media/Figure_19_02_04.jpg" width="365"/>
+</media>
+<caption>Gene flow can occur when an individual travels from one geographic location to another.
+</caption>
+</figure>
+</para>
+</section>
+<section id="fs-idm72311744">
+<title>17.2f Mutation 
+</title>
+<para id="fs-idp60262576">Mutations are changes to an organism’s DNA and are an important driver of diversity in populations. Species evolve because of the accumulation of mutations that occur over time. The appearance of new mutations is the most common way to introduce novel genotypic and phenotypic variance. Some mutations are unfavorable or harmful and are quickly eliminated from the population by natural selection. Others are beneficial and will spread through the population. Whether or not a mutation is beneficial or harmful is determined by whether it helps an organism survive to sexual maturity and reproduce. Some mutations do not do anything and can linger, unaffected by natural selection, in the genome. Some can have a dramatic effect on a gene and the resulting phenotype.
+</para>
+</section>
+<section id="fs-idm32899104">
+<title>17.2g Nonrandom Mating 
+</title>
+<para id="fs-idm81332000">If individuals nonrandomly mate with their peers, the result can be a changing population. There are many reasons 
+<link target-id="d7879788265786879773277658473787110">
+<term id="c7879788265786879773277658473787110">nonrandom mating
+</term>
+</link> occurs. One reason is simple mate choice; for example, female peahens may prefer peacocks with bigger, brighter tails. Traits that lead to more matings for an individual become selected for by natural selection. One common form of mate choice, called 
+<link target-id="d65838379828465847386693277658473787110">
+<term id="c65838379828465847386693277658473787110">assortative mating
+</term>
+</link>, is an individual’s preference to mate with partners who are phenotypically similar to themselves. The increase in frequency of a particular allele because it is "sexy" is called sexual selection.
+</para>
+<para id="fs-idm89683824">Another cause of nonrandom mating is physical location. This is especially true in large populations spread over large geographic distances where not all individuals will have equal access to one another. Some might be miles apart through woods or over rough terrain, while others might live immediately nearby.
+</para>
+</section>
+<section id="fs-idp25218480">
+<title>17.2h Environmental Variance 
+</title>
+<para id="fs-idm72231696">Genes are not the only players involved in determining population variation. Phenotypes are also influenced by other factors, such as the environment (
+<link target-id="fig-ch19_02_05" document=""/>). A beachgoer is likely to have darker skin than a city dweller, for example, due to regular exposure to the sun, an environmental factor. Some major characteristics, such as sex, are determined by the environment for some species. For example, some turtles and other reptiles have temperature-dependent sex determination (TSD). TSD means that individuals develop into males if their eggs are incubated within a certain temperature range, or females at a different temperature range. While temperature does determine sex for many reptiles, genetics are still involved. Scientists studying a species of turtle (red-eared slider) have recently <sup>
+<footnote id="fs-idm35617888">C Ge et al., “The histone demethylase KDM6B regulates temperature-dependent sex determination in a turtle species,” 
+<emphasis effect="italics">Science
+</emphasis> 360, no. 6389 (2018): 645-648, doi: 10.1126/science.aap8328.
+</footnote>
+</sup> identified several regulatory genes whose expression is either directly or indirectly controlled by temperature. When the temperature is above a certain threshold, one expression pattern of these regulatory genes is observed, causing genes associated with female development to be turned on and genes associated with male development to be turned off. When the temperature is below a certain threshold, a different expression pattern of those regulatory genes is observed, causing the opposite effect (genes associated with female development are turned off and genes associated with male development are turned on). Part of what makes temperature-sensitive sex determination so interesting is that many different species seem to have different systems. Some, like the red-eared slider, produce males at lower temperatures, and others, like the alligator in the figure below, produce females at lower temperatures. The key temperatures are also not always the same, which suggests that different genetic pathways are being affected by temperature and therefore can have different effects on the sex-determining genes.
+</para><figure id="fig-ch19_02_05">
+<label>Figure 19.2
+</label>
+<media id="fs-idp155463248" alt="This photo shows a person holding a baby alligator.">
+<image mime-type="image/jpg" src="../../media/Figure_19_02_05.jpg" width="345"/>
+</media>
+<caption>The sex of the American alligator (
+<emphasis effect="italics">Alligator mississippiensis
+</emphasis>) is determined by the temperature at which the eggs are incubated. Eggs incubated at 30°C produce females, and eggs incubated at 33°C produce males. (credit: Steve Hillebrand, USFWS)
+</caption>
+</figure>
+</section>
+<section id="fs-idp5325056" class="summary">
+<title>Section Summary
+</title>
+<para id="fs-idm33275472">Both genetic and environmental factors can cause phenotypic variation in a population. Different alleles can confer different phenotypes, and different environments can also cause individuals to look or act differently. Only those differences encoded in an individual’s genes, however, can be passed to its offspring and, thus, be a target of natural selection. Natural selection works by selecting for alleles that confer beneficial traits or behaviors, while selecting against those for deleterious qualities. Genetic drift stems from the chance occurrence that some individuals in the germ line have more offspring than others. When individuals leave or join the population, allele frequencies can change as a result of gene flow. Mutations to an individual’s DNA may introduce new variation into a population. Allele frequencies can also be altered when individuals do not randomly mate with others in the group.
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d6576766976693270826981856978678910">
+<term id="t6576766976693270826981856978678910">allele frequency
+</term> 
+<meaning id="m6576766976693270826981856978678910">(also, gene frequency) rate at which a specific allele appears within a population
+</meaning>
+</definition>
+<definition id="d65838379828465847386693277658473787110">
+<term id="t65838379828465847386693277658473787110">assortative mating
+</term> 
+<meaning id="m65838379828465847386693277658473787110">when individuals tend to mate with those who are phenotypically similar to themselves
+</meaning>
+</definition>
+<definition id="d66657665786769683280797689777982807273837710">
+<term id="t66657665786769683280797689777982807273837710">balanced polymorphism
+</term>
+<meaning id="m66657665786769683280797689777982807273837710">when two different alleles are equally or nearly-equally favored, such that neither increases to 100% or is reduced to 0% frequency 
+</meaning>
+</definition>
+<definition id="d667984847669786967753269707069678410">
+<term id="t667984847669786967753269707069678410">bottleneck effect
+</term> 
+<meaning id="m667984847669786967753269707069678410">magnification of genetic drift as a result of natural events or catastrophes
+</meaning>
+</definition>
+
+<definition id="d707985786869823269707069678410">
+<term id="t707985786869823269707069678410">founder effect
+</term> 
+<meaning id="m707985786869823269707069678410">event that initiates an allele frequency change in part of the population, which is not typical of the original population
+</meaning>
+</definition>
+<definition id="d71697869327076798710">
+<term id="t71697869327076798710">gene flow
+</term> 
+<meaning id="m71697869327076798710">flow of alleles in and out of a population due to the migration of individuals or gametes
+</meaning>
+</definition>
+<definition id="d71697869328079797610">
+<term id="t71697869328079797610">gene pool
+</term> 
+<meaning id="m71697869328079797610">all of the alleles carried by all of the individuals in the population
+</meaning>
+</definition>
+<definition id="d7169786984736732688273708410">
+<term id="t7169786984736732688273708410">genetic drift
+</term> 
+<meaning id="m7169786984736732688273708410">effect of chance on a population’s gene pool
+</meaning>
+</definition>
+<definition id="d7169786984736732866582736578676910">
+<term id="t7169786984736732866582736578676910">genetic variance
+</term> 
+<meaning id="m7169786984736732866582736578676910">diversity of alleles and genotypes in a population
+</meaning>
+</definition>
+<definition id="d72698273846566737673848910">
+<term id="t72698273846566737673848910">heritability
+</term> 
+<meaning id="m72698273846566737673848910">fraction of population variation that can be attributed to its genetic variance
+</meaning>
+</definition>
+<definition id="d7269846982799089717984693265688665788465716910">
+<term id="t7269846982799089717984693265688665788465716910">heterozygote advantage
+</term>
+<meaning id="m7269846982799089717984693265688665788465716910">when the heterozygous genotype is the most fit 
+</meaning>
+</definition>
+<definition id="d7378668269696873787110">
+<term id="t7378668269696873787110">inbreeding
+</term> 
+<meaning id="m7378668269696873787110">mating of closely related individuals
+</meaning>
+</definition>
+<definition id="d73786682696968737871326869808269838373797810">
+<term id="t73786682696968737871326869808269838373797810">inbreeding depression
+</term> 
+<meaning id="m73786682696968737871326869808269838373797810">increase in abnormalities and disease in inbreeding populations
+</meaning>
+</definition>
+<definition id="d776567827969867976858473797810">
+<term id="t776567827969867976858473797810">macroevolution
+</term> 
+<meaning id="m776567827969867976858473797810">broader scale evolutionary changes seen over paleontological time
+</meaning>
+</definition>
+<definition id="d777367827969867976858473797810">
+<term id="t777367827969867976858473797810">microevolution
+</term> 
+<meaning id="m777367827969867976858473797810">changes in a population’s genetic structure
+</meaning>
+</definition>
+<definition id="d7779686982783283897884726983738310">
+<term id="t7779686982783283897884726983738310">modern synthesis
+</term> 
+<meaning id="m7779686982783283897884726983738310">overarching evolutionary paradigm that took shape by the 1940s and is generally accepted today
+</meaning>
+</definition>
+<definition id="d7879788265786879773277658473787110">
+<term id="t7879788265786879773277658473787110">nonrandom mating
+</term> 
+<meaning id="m7879788265786879773277658473787110">changes in a population’s gene pool due to mate choice or other forces that cause individuals to mate with certain phenotypes more than others
+</meaning>
+</definition>
+<definition id="d8079808576658473797832716978698473678310">
+<term id="t8079808576658473797832716978698473678310">population genetics
+</term> 
+<meaning id="m8079808576658473797832716978698473678310">study of how selective forces change the allele frequencies in a population over time
+</meaning>
+</definition>
+<definition id="d807980857665847379783286658273658473797810">
+<term id="t807980857665847379783286658273658473797810">population variation
+</term> 
+<meaning id="m807980857665847379783286658273658473797810">distribution of phenotypes in a population
+</meaning>
+</definition>
+<definition id="d83697669678473797832808269838385826910">
+<term id="t83697669678473797832808269838385826910">selection pressure
+</term>
+<meaning id="m83697669678473797832808269838385826910">environmental factor that causes one phenotype to be better than another 
+</meaning>
+</definition>
+</glossary>
+</document>

@@ -1,0 +1,55 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Eukaryotic Translational and Post-translational Gene Regulation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52708</md:content-id>
+  <md:title>Eukaryotic Translational and Post-translational Gene Regulation</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Understand the process of translation and discuss its key factors</item>
+<item>Describe how the initiation complex controls translation</item>
+<item>Explain the different ways in which the post-translational control of gene expression takes place</item>
+</list></md:abstract>
+  <md:uuid>9b8ea2c3-d64f-4c6a-8fdc-180018514308</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1976887">After the RNA has been transported to the cytoplasm, it is translated into protein. Control of this process is largely dependent on the RNA molecule. As previously discussed, the stability of the RNA will have a large impact on its translation into a protein. As the stability changes, the amount of time that it is available for translation also changes.
+</para>
+<section id="fs-id1956507">
+<title>11.5a Chemical Modifications, Protein Activity, and Longevity
+</title>
+<para id="fs-id3321766">Proteins can be chemically modified with the addition of groups including methyl, phosphate, acetyl, and ubiquitin groups. The addition or removal of these groups from proteins regulates their activity or the length of time they exist in the cell. Sometimes these modifications can regulate where a protein is found in the cell—for example, in the nucleus, the cytoplasm, or attached to the plasma membrane.
+</para>
+<para id="fs-id2080792">Chemical modifications occur in response to external stimuli such as stress, the lack of nutrients, heat, or ultraviolet light exposure. These changes can alter epigenetic accessibility, transcription, mRNA stability, or translation—all resulting in changes in expression of various genes. This is an efficient way for the cell to rapidly change the levels of specific proteins in response to the environment.  Because proteins are involved in every stage of gene regulation, the phosphorylation of a protein (depending on the protein that is modified) can alter accessibility to the chromosome, can alter translation (by altering transcription factor binding or function), can change nuclear shuttling (by influencing modifications to the nuclear pore complex), can alter RNA stability (by binding or not binding to the RNA to regulate its stability), can modify translation (increase or decrease), or can change post-translational modifications (add or remove phosphates or other chemical modifications).
+</para>
+<para id="fs-id3327902"> The addition of an ubiquitin group to a protein marks that protein for degradation. Ubiquitin acts like a flag indicating that the protein lifespan is complete. These proteins are moved to the 
+<link target-id="d80827984696583797769">
+<term id="c80827984696583797769">proteasome
+</term>
+</link>, an organelle that functions to remove proteins, to be degraded (
+<link target-id="fig-ch16_06_02" document=""/>). One way to control gene expression, therefore, is to alter the longevity of the protein.
+</para>
+<figure id="fig-ch16_06_02"><label>Figure 16.6
+</label>
+<media id="fs-id2304651" alt="Multiple ubiquitin groups bind to a protein. The tagged protein is then fed into the hollow tube of a proteasome. The proteasome degrades the protein.">
+<image mime-type="image/png" src="../../media/Figure_16_06_02.png" width="650"/>
+</media>
+
+<caption>Proteins with ubiquitin tags are marked for degradation within the proteasome.
+</caption></figure></section>
+<section id="fs-id1305154" class="summary">
+<title>Section Summary
+</title>
+<para id="fs-id1511868">Changing the status of the RNA or the protein itself can affect the amount of protein, the function of the protein, or how long it is found in the cell. To translate the protein, a protein initiator complex must assemble on the RNA. Modifications (such as phosphorylation) of proteins in this complex can prevent proper translation from occurring. Once a protein has been synthesized, it can be modified (phosphorylated, acetylated, methylated, or ubiquitinated). These post-translational modifications can greatly impact the stability, degradation, or function of the protein.
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d80827984696583797769">
+<term id="t80827984696583797769">proteasome
+</term> 
+<meaning id="m80827984696583797769">organelle that degrades proteins
+</meaning>
+</definition>
+</glossary>
+</document>

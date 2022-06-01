@@ -1,0 +1,368 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Components and Structure of Cell Membranes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52577</md:content-id>
+  <md:title>Components and Structure of Cell Membranes</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Understand the fluid mosaic model of cell membranes</item>
+<item>Describe the functions of phospholipids, proteins, and carbohydrates in membranes</item>
+<item>Discuss membrane fluidity</item>
+</list></md:abstract>
+  <md:uuid>1d54da55-df8f-4185-a3bf-36ffb9d57c7e</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1617342">Have you ever heard the phrase "form follows function"? It's a philosophy practiced in many industries. In architecture, this means that buildings should be constructed to support the activities that will be carried out inside them. For example, a skyscraper should be built with several elevator banks; a hospital should be built so that its emergency room is easily accessible.
+</para>
+<para id="fs-id1969914">Our natural world also utilizes the principle of form following function, especially in cell biology, and this will become clear as we explore eukaryotic cells (
+<link target-id="fig-ch04-03-01" document=""/>). Unlike prokaryotic cells, 
+<link target-id="d69857565828979847367326769767683">
+<term id="c69857565828979847367326769767683">eukaryotic cells
+</term>
+</link>  have: 1) a membrane-bound nucleus; 2) numerous membrane-bound 
+<link target-id="d79827165786976766983">
+<term id="c79827165786976766983">organelles
+</term>
+</link> such as the endoplasmic reticulum, Golgi apparatus, chloroplasts, mitochondria, and others; and 3) several, rod-shaped chromosomes. Because a eukaryotic cell's nucleus is surrounded by a membrane, it is often said to have a "true nucleus." The word "organelle" means "little organ" and, as already mentioned, organelles have specialized cellular functions, just as the organs of your body have specialized functions.
+</para>
+<para id="fs-id1442604">At this point, it should be clear to you that eukaryotic cells have a more complex structure than prokaryotic cells. Organelles allow different functions to be compartmentalized in different areas of the cell. Before turning to organelles, let's first examine two important components of the cell: the plasma membrane and the cytoplasm.
+</para>
+<note id="fs-id1465526" type="art-connection">
+<label/>
+<title>Art Connection
+</title>
+<para id="fs-id1340019">
+<figure id="fig-ch04-03-01" orient="vertical">
+<label>Figure 4.3
+</label>
+<subfigure id="fs-id1744034">
+<media id="fig-ch04-03-01a" alt="Part a: This illustration shows a typical eukaryotic animal cell, which is egg shaped. The fluid inside the cell is called the cytoplasm, and the cell is surrounded by a cell membrane. The nucleus takes up about one-half the width of the cell. Inside the nucleus is the chromatin, which is composed of DNA and associated proteins. A region of the chromatin is condensed into the nucleolus, a structure where ribosomes are synthesized. The nucleus is encased in a nuclear envelope, which is perforated by protein-lined pores that allow entry of material into the nucleus. The nucleus is surrounded by the rough and smooth endoplasmic reticulum, or ER. The smooth ER is the site of lipid synthesis. The rough ER has embedded ribosomes that give it a bumpy appearance. It synthesizes membrane and secretory proteins. In addition to the ER, many other organelles float inside the cytoplasm. These include the Golgi apparatus, which modifies proteins and lipids synthesized in the ER. The Golgi apparatus is made of layers of flat membranes. Mitochondria, which produce food for the cell, have an outer membrane and a highly folded inner membrane. Other, smaller organelles include peroxisomes that metabolize waste, lysosomes that digest food, and vacuoles.  Ribosomes, responsible for protein synthesis, also float freely in the cytoplasm and are depicted as small dots. The last cellular component shown is the cytoskeleton, which has four different types of components: microfilaments, intermediate filaments, microtubules, and centrosomes. Microfilaments are fibrous proteins that line the cell membrane and make up the cellular cortex. Intermediate filaments are fibrous proteins that hold organelles in place. Microtubules form the mitotic spindle and maintain cell shape. Centrosomes are made of two tubular structures at right angles to one another. They form the microtubule-organizing center.">
+<image mime-type="image/png" src="../../media/Figure_04_03_01a.png" width="325"/>
+</media>
+</subfigure>
+<subfigure id="fs-id1322851">
+<media id="fig-ch04-03-01b" alt="Part b: This illustration depicts a typical eukaryotic plant cell. The nucleus of a plant cell contains chromatin and a nucleolus, the same as an animal cell. Other structures that the plant cell has in common with the animal cell include rough and smooth endoplasmic reticulum, the Golgi apparatus, mitochondria, peroxisomes, and ribosomes. The fluid inside the plant cell is called the cytoplasm, just as it is in an animal cell. The plant cell has three of the four cytoskeletal components found in animal cells: microtubules, intermediate filaments, and microfilaments. Plant cells do not have centrosomes. Plant cells have four structures not found in animals cells: chloroplasts, plastids, a central vacuole, and a cell wall. Chloroplasts are responsible for photosynthesis; they have an outer membrane, an inner membrane, and stack of membranes inside the inner membrane. The central vacuole is a very large, fluid-filled structure that maintains pressure against the cell wall. Plastids store pigments. The cell wall is outside the cell membrane.">
+<image mime-type="image/png" src="../../media/Figure_04_03_01b.png" width="325"/>
+</media>
+</subfigure>
+<caption>These figures show the major organelles and other cell components of (a) a typical animal cell and (b) a typical eukaryotic plant cell. The plant cell has a cell wall, chloroplasts, plastids, and a central vacuole—structures not found in animal cells. Plant cells do not have lysosomes or centrosomes.
+</caption>
+</figure>
+</para>
+<para id="fs-id1561728">If the nucleolus were not able to carry out its function, what other cellular organelles would be affected?
+</para>
+</note>
+<section id="fs-id1245539">
+<title>4.3a The Plasma Membrane
+</title>
+<para id="fs-id1919880">Like prokaryotes, eukaryotic cells have a 
+<link target-id="d807665837765327769776682657869">
+<term id="c807665837765327769776682657869">plasma membrane
+</term>
+</link> (
+<link target-id="fig-ch04-03-02" document=""/>), a phospholipid bilayer with embedded proteins that separates the internal contents of the cell from its surrounding environment. A phospholipid is a lipid molecule with two fatty acid chains and a phosphate-containing group. The plasma membrane controls the passage of organic molecules, ions, water, and oxygen into and out of the cell. Wastes (such as carbon dioxide and ammonia) also leave the cell by passing through the plasma membrane.
+</para>
+<figure id="fig-ch04-03-02" class="  ">
+<label>Figure 4.3
+</label>
+<media id="fs-id1521602" alt="The plasma membrane is composed of a phospholipid bilayer. In the bilayer, the two long hydrophobic tails of phospholipids face toward the center, and the hydrophilic head group faces the exterior. Integral membrane proteins and protein channels span the entire bilayer. Protein channels have a pore in the middle. Peripheral membrane proteins sit on the surface of the phospholipids, and are associated with the phospholipid head groups. On the exterior side of the membrane, carbohydrates are attached to certain proteins and lipids. Filaments of the cytoskeleton line the interior of the membrane.">
+<image mime-type="image/jpg" src="../../media/Figure_04_03_02-b083.jpg" width="600"/>
+</media>
+<caption>The eukaryotic plasma membrane is a phospholipid bilayer with proteins and cholesterol embedded in it.
+</caption>
+</figure>
+<para id="fs-id1704487">The plasma membranes of cells that specialize in absorption are folded into fingerlike projections called microvilli (singular = microvillus); ( 
+<link target-id="fig-ch04-03-03" document=""/>). Such cells are typically found lining the small intestine, the organ that absorbs nutrients from digested food. This is an excellent example of form following function.
+People with celiac disease have an immune response to gluten, which is a protein found in wheat, barley, and rye. The immune response damages microvilli, and thus, afflicted individuals cannot absorb nutrients. This leads to malnutrition, cramping, and diarrhea. Patients suffering from celiac disease must follow a gluten-free diet.
+</para>
+<figure id="fig-ch04-03-03" class="  ">
+<label>Figure 4.3
+</label>
+<media id="fig-ch04-03-03a" alt="The left part of this figure is a transmission electron micrograph of microvilli, which appear as long, slender stalks extending from the plasma membrane. The right side illustrates cells containing microvilli. The microvilli cover the surface of the cell facing the interior of the small intestine.">
+<image mime-type="image/jpg" src="../../media/Figure_04_03_03a.jpg" width="700"/>
+</media>
+<caption>Microvilli, shown here as they appear on cells lining the small intestine, increase the surface area available for absorption. These microvilli are only found on the area of the plasma membrane that faces the cavity from which substances will be absorbed. (credit "micrograph": modification of work by Louisa Howard)
+</caption>
+</figure>
+<para id="eip-566">A cell's plasma membrane defines the cell, outlines its borders, and determines the nature of its interaction with its environment (see  
+<link target-id="tab-ch05_01_01" document=""/> for a summary). Cells exclude some substances, take in others, and excrete still others, all in controlled quantities. The plasma membrane must be very flexible to allow certain cells, such as red blood cells and white blood cells, to change shape as they pass through narrow capillaries. These are the more obvious functions of a plasma membrane. In addition, the surface of the plasma membrane carries markers that allow cells to recognize one another, which is vital for tissue and organ formation during early development, and which later plays a role in the "self" versus "non-self" distinction of the immune response.
+</para>
+<para id="eip-524">Among the most sophisticated functions of the plasma membrane is the ability to transmit signals by means of complex, integral proteins known as receptors. These proteins act both as receivers of extracellular inputs and as activators of intracellular processes. These membrane receptors provide extracellular attachment sites for effectors like hormones and growth factors, and they activate intracellular response cascades when their effectors are bound. Occasionally, receptors are hijacked by viruses (HIV, human immunodeficiency virus, is one example) that use them to gain entry into cells, and at times, the genes encoding receptors become mutated, causing the process of signal transduction to malfunction with disastrous consequences.
+</para>
+</section>
+<section id="fs-id2078559">
+<title>4.3b Fluid Mosaic Model
+</title>
+<para id="fs-id1511371">The structure of the plasma membrane is described by the 
+<link target-id="d707685736832777983657367327779686976">
+<term id="c707685736832777983657367327779686976">fluid mosaic model
+</term>
+</link>. The model has evolved somewhat over time, but it still best accounts for the structure and functions of the plasma membrane as we now understand them. The fluid mosaic model describes the structure of the plasma membrane as a mosaic of components (including phospholipids, cholesterol, proteins, and carbohydrates)that gives the membrane a fluid character (
+<link target-id="fig-ch05_01_01" document=""/>).
+</para>
+<figure id="fig-ch05_01_01" class="  ">
+<label>Figure 6.1
+</label>
+<media id="fs-id1786872" alt="This illustration shows a phospholipid bilayer with proteins and cholesterol embedded in it. Integral membrane proteins span the entire membrane. Protein channels are integral membrane proteins with a central pore through which molecules can pass. Peripheral proteins are associated with the phospholipid head groups on one side of the membrane only. A glycoprotein is shown with the protein portion of the molecule embedded in the membrane and the carbohydrate portion jutting out from the membrane. A glycolipid is also shown with the lipid portion embedded in the membrane and the carbohydrate portion jutting out of the membrane.">
+<image mime-type="image/jpg" src="../../media/Figure_05_01_01.jpg" width="550"/>
+</media>
+<caption>The fluid mosaic model of the plasma membrane describes the plasma membrane as a fluid combination of phospholipids, cholesterol, and proteins. Carbohydrates attached to lipids (glycolipids) and to proteins (glycoproteins) extend from the outward-facing surface of the membrane.
+</caption>
+</figure>
+<para id="fs-id1444105">The principal components of a plasma membrane are lipids (phospholipids and cholesterol), proteins, and carbohydrates attached to some of the lipids and some of the proteins. A phospholipid is a molecule consisting of glycerol, two fatty acids, and a phosphate-linked head group. Carbohydrates are present only on the exterior surface of the plasma membrane and are attached to proteins, forming 
+<link target-id="d71768967798082798469737883">
+<term id="c71768967798082798469737883">glycoproteins
+</term>
+</link>, or attached to lipids, forming 
+<link target-id="d7176896779767380736883">
+<term id="c7176896779767380736883">glycolipids
+</term>
+</link>.
+</para>
+<section id="fs-id1964600">
+<title>Phospholipids
+</title>
+<para id="fs-id1807984">The main fabric of the membrane is composed of phospholipid molecules. The 
+<link target-id="d7289688279807273767367">
+<term id="c7289688279807273767367">hydrophilic
+</term>
+</link> or "water-loving" areas of these molecules (which look like a collection of balls in an artist's rendition of the model) (
+<link target-id="fig-ch05_01_01" document=""/>) are in contact with the aqueous fluid both inside and outside the cell. 
+<link target-id="d7289688279807279667367">
+<term id="c7289688279807279667367">Hydrophobic
+</term>
+</link>, or water-hating molecules, tend to be non-polar. They interact with other non-polar molecules in chemical reactions, but generally do not interact with polar molecules. When placed in water, hydrophobic molecules tend to form a ball or cluster. The hydrophilic regions of the phospholipids tend to form hydrogen bonds with water and other polar molecules on both the exterior and interior of the cell. Thus, the membrane surfaces that face the interior and exterior of the cell are hydrophilic. In contrast, the interior of the cell membrane is hydrophobic and will not interact with water. Therefore, phospholipids form an excellent two-layered cell membrane that separates fluid within the cell from the fluid outside of the cell.
+</para>
+<para id="fs-id1696367">A phospholipid molecule (
+<link target-id="fig-ch05_01_02" document=""/>) consists of a three-carbon glycerol backbone with two fatty acid molecules attached to carbons 1 and 2, and a phosphate-containing group attached to the third carbon. This arrangement gives the overall molecule an area described as its head (the phosphate-containing group), which has a polar character or negative charge, and an area called the tail (the fatty acids), which has no charge. A molecule with this arrangement of a positively or negatively charged area and an uncharged, or non-polar, area is referred to as 
+<link target-id="d6577807273807273767367">
+<term id="c6577807273807273767367">amphiphilic
+</term>
+</link> or "dual-loving."
+</para>
+<figure id="fig-ch05_01_02">
+<label>Figure 6.1
+</label>
+<media id="fs-id1634665" alt="An illustration of a phospholipid shows a hydrophilic head group composed of phosphate connected to a three-carbon glycerol molecule, and two hydrophobic tails composed of long hydrocarbon chains.">
+<image mime-type="image/jpg" src="../../media/Figure_05_01_02.jpg" width="325"/>
+</media>
+<caption>This phospholipid molecule is composed of a hydrophilic head and two hydrophobic tails. The hydrophilic head group consists of a phosphate-containing group attached to a glycerol molecule. The hydrophobic tails, each containing either a saturated or an unsaturated fatty acid, are long hydrocarbon chains.
+</caption>
+</figure>
+<para id="fs-id1912365">This characteristic is vital to the structure of a plasma membrane because, in water, phospholipids tend to become arranged with their hydrophobic tails facing each other and their hydrophilic heads facing out. In this way, they form a lipid bilayer—a barrier composed of a double layer of phospholipids that separates the water and other materials on one side of the barrier from the water and other materials on the other side. In fact, phospholipids heated in an aqueous solution tend to spontaneously form small spheres or droplets (called micelles or liposomes), with their hydrophilic heads forming the exterior and their hydrophobic tails on the inside (
+<link target-id="fig-ch05_01_03" document=""/>).
+</para>
+<figure id="fig-ch05_01_03">
+<label>Figure 6.1
+</label>
+<media id="fs-id1626927" alt="The image on the left shows a spherical lipid bilayer. The image on the right shows a smaller sphere that has a single lipid layer only. The image at the bottom shows a lipid bilayer sheet.">
+<image mime-type="image/jpg" src="../../media/Figure_05_01_03.jpg" width="325"/>
+</media>
+<caption>In an aqueous solution, phospholipids tend to arrange themselves with their polar heads facing outward and their hydrophobic tails facing inward. (credit: modification of work by Mariana Ruiz Villareal)
+</caption>
+</figure>
+</section>
+<section id="fs-id1870614">
+<title>Proteins
+</title>
+<para id="fs-id1786880">Proteins make up the second major component of plasma membranes. 
+<link target-id="d7378846971826576328082798469737883">
+<term id="c7378846971826576328082798469737883">Integral proteins
+</term>
+</link> (some specialized types are called integrins) are, as their name suggests, integrated completely into the membrane structure, and their hydrophobic membrane-spanning regions interact with the hydrophobic region of the the phospholipid bilayer (
+<link target-id="fig-ch05_01_01" document=""/>). 
+</para>
+<para id="fs-id1780876">
+<link target-id="d80698273807269826576328082798469737883">
+<term id="c80698273807269826576328082798469737883">Peripheral proteins
+</term>
+</link> are found on the exterior and interior surfaces of membranes, attached either to integral proteins or to phospholipids. Peripheral proteins, along with integral proteins, may serve as enzymes, as structural attachments for the fibers of the cytoskeleton, or as part of the cell’s recognition sites. These are sometimes referred to as “cell-specific” proteins. The body recognizes its own proteins and attacks foreign proteins associated with invasive pathogens.
+</para>
+</section>
+<section id="fs-id1443175">
+<title>Carbohydrates
+</title>
+<para id="fs-id1702908">Carbohydrates are the third major component of plasma membranes. They are always found on the exterior surface of cells and are bound either to proteins (forming glycoproteins) or to lipids (forming glycolipids) (<link target-id="fig-ch05_01_01" document=""/>). These carbohydrates allow cells to recognize each other. These sites have unique patterns that allow the cell to be recognized, much the way that the facial features unique to each person allow him or her to be recognized. This recognition function is very important to cells, as it allows the immune system to differentiate between body cells (called “self”) and foreign cells or tissues (called “non-self”). Similar types of glycoproteins and glycolipids are found on the surfaces of viruses and may change frequently, preventing immune cells from recognizing and attacking them.
+</para><note id="fs-id1394568" class="evolution   ">
+<label/>
+<title>Evolution Connection
+</title>
+<para id="fs-id1450192">
+<title>How Viruses Infect Specific Organs
+</title>Glycoprotein and glycolipid patterns on the surfaces of cells give many viruses an opportunity for infection. HIV and hepatitis viruses infect only specific organs or cells in the human body. HIV is able to penetrate the plasma membranes of a subtype of lymphocytes called T-helper cells, as well as some monocytes and central nervous system cells. The hepatitis virus attacks liver cells.
+</para>
+<para id="fs-id1397237">These viruses are able to invade these cells, because the cells have binding sites on their surfaces that are specific to and compatible with certain viruses (
+<link target-id="fig-ch05_01_05" document=""/>). Other recognition sites on the virus’s surface interact with the human immune system, prompting the body to produce antibodies. Antibodies are made in response to the antigens or proteins associated with invasive pathogens, or in response to foreign cells, such as might occur with an organ transplant. These same sites serve as places for antibodies to attach and either destroy or inhibit the activity of the virus. Unfortunately, these recognition sites on HIV change at a rapid rate because of mutations, making the production of an effective vaccine against the virus very difficult, as the virus evolves and adapts. A person infected with HIV will quickly develop different populations, or variants, of the virus that are distinguished by differences in these recognition sites. This rapid change of surface markers decreases the effectiveness of the person’s immune system in attacking the virus, because the antibodies will not recognize the new variations of the surface patterns. In the case of HIV, the problem is compounded by the fact that the virus specifically infects and destroys cells involved in the immune response, further incapacitating the host.
+</para>
+<figure id="fig-ch05_01_05">
+<label>Figure 6.1
+</label>
+<media id="fs-id1422428" alt="This illustration shows the plasma membrane of a T cell. CD4 receptors extend from the membrane into the extracellular space. The HIV virus recognizes part of the CD4 receptor and attaches to it.">
+<image mime-type="image/jpg" src="../../media/Figure_05_01_05.jpg" width="325"/>
+</media>
+<caption>HIV binds to the CD4 receptor, a glycoprotein on the surfaces of T cells. (credit: modification of work by NIH, NIAID)
+</caption>
+</figure>
+</note>
+</section>
+</section>
+<section id="fs-id1772017">
+<title>4.3c Membrane Fluidity
+</title>
+<para id="fs-id2075565">The mosaic characteristic of the membrane, described in the fluid mosaic model, helps to illustrate its nature. The integral proteins and lipids exist in the membrane as separate but loosely attached molecules. These resemble the separate, multicolored tiles of a mosaic picture, and they float, moving somewhat with respect to one another. The membrane is not like a balloon, however, that can expand and contract; rather, it is fairly rigid and can burst if penetrated or if a cell takes in too much water. However, because of its mosaic nature, a very fine needle can easily penetrate a plasma membrane without causing it to burst, and the membrane will flow and self-seal when the needle is extracted.
+</para>
+<note id="fs-id1853625" class="interactive">
+<label/>
+<title>Link to Learning
+</title>
+<media id="fs-id1448124" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/biological_memb.png" width="130"/>
+</media>
+<para id="fs-id1982720">Visit this 
+<link window="new" url="http://openstaxcollege.org/l/biological_memb">site
+</link> to see animations of the fluidity and mosaic quality of membranes.
+</para>
+</note>
+<table id="tab-ch05_01_01" summary="This table provides the constituents of the plasma membrane and their respective functions." class="  ">
+<tgroup cols="2">
+<colspec colnum="1" colname="col1"/>
+<colspec colnum="2" colname="col2"/>
+<thead>
+<row>
+<entry namest="col1" nameend="col2" align="left">The Components and Functions of the Plasma Membrane
+</entry> 
+</row>
+<row>
+<entry>Component
+</entry>
+<entry>Location
+</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Phospholipid
+</entry>
+<entry>Main fabric of the membrane
+</entry>
+</row>
+<row>
+<entry>Cholesterol
+</entry>
+<entry> Attached between phospholipids and between the two phospholipid layers
+</entry>
+</row>
+<row>
+<entry>Integral proteins (for example, integrins)
+</entry>
+<entry>Embedded within the phospholipid layer(s). May or may not penetrate through both layers
+</entry>
+</row>
+<row>
+<entry>Peripheral proteins
+</entry>
+<entry> On the inner or outer surface of the phospholipid bilayer; not embedded within the phospholipids
+</entry>
+</row>
+<row>
+<entry>Carbohydrates (components of glycoproteins and glycolipids)
+</entry>
+<entry> Generally attached to proteins on the outside membrane layer
+</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-id1568867" class="career   ">
+<label/>
+<title>Career Connection
+</title>
+<para id="fs-id2165483">
+<title>Immunologist
+</title>The variations in peripheral proteins and carbohydrates that affect a cell’s recognition sites are of prime interest in immunology. These changes are taken into consideration in vaccine development. Many infectious diseases, such as smallpox, polio, diphtheria, and tetanus, were conquered by the use of vaccines.
+</para>
+<para id="fs-id1870873">Immunologists are the physicians and scientists who research and develop vaccines, as well as treat and study allergies or other immune problems. Some immunologists study and treat autoimmune problems (diseases in which a person’s immune system attacks his or her own cells or tissues, such as lupus) and immunodeficiencies, whether acquired (such as acquired immunodeficiency syndrome, or AIDS) or hereditary (such as severe combined immunodeficiency, or SCID). Immunologists are called in to help treat organ transplantation patients, who must have their immune systems suppressed so that their bodies will not reject a transplanted organ. Some immunologists work to understand natural immunity and the effects of a person’s environment on it. Others work on questions about how the immune system affects diseases such as cancer. In the past, the importance of having a healthy immune system in preventing cancer was not at all understood.
+</para>
+<para id="fs-id2072586">To work as an immunologist, a PhD or MD is required. In addition, immunologists undertake at least 2–3 years of training in an accredited program and must pass an examination given by the American Board of Allergy and Immunology. Immunologists must possess knowledge of the functions of the human body as they relate to issues beyond immunization, and knowledge of pharmacology and medical technology, such as medications, therapies, test materials, and surgical procedures.
+</para>
+</note>
+</section>
+<section id="fs-id00000011" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-011">Like a prokaryotic cell, a eukaryotic cell has a plasma membrane, cytoplasm, and ribosomes, but a eukaryotic cell is typically larger than a prokaryotic cell, has a true nucleus (meaning its DNA is surrounded by a membrane), and has other membrane-bound organelles that allow for compartmentalization of functions. The plasma membrane is a phospholipid bilayer embedded with proteins.
+</para>
+<para id="eip999"> The modern understanding of the plasma membrane is referred to as the fluid mosaic model. The plasma membrane is composed of a bilayer of phospholipids, with their hydrophobic, fatty acid tails in contact with each other. The landscape of the membrane is studded with proteins, some of which span the membrane. Some of these proteins serve to transport materials into or out of the cell. Carbohydrates are attached to some of the proteins and lipids on the outward-facing surface of the membrane, forming complexes that function to identify the cell to other cells. The fluid nature of the membrane is due to temperature, the configuration of the fatty acid tails (some kinked by double bonds), the presence of cholesterol embedded in the membrane, and the mosaic nature of the proteins and protein-carbohydrate combinations, which are not firmly fixed in place. Plasma membranes enclose and define the borders of cells, but rather than being a static bag, they are dynamic and constantly in flux.
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d6577807273807273767367">
+<term id="t6577807273807273767367">amphiphilic
+</term> 
+<meaning id="m6577807273807273767367">molecule possessing a polar or charged area and a nonpolar or uncharged area capable of interacting with both hydrophilic and hydrophobic environments
+</meaning>
+</definition>
+<definition id="d69857565828979847367326769767683">
+<term id="t69857565828979847367326769767683">eukaryotic cells
+</term>
+<meaning id="m69857565828979847367326769767683">cell that has a membrane-bound nucleus and several other membrane-bound compartments  
+</meaning>
+</definition>
+<definition id="d707685736832777983657367327779686976">
+<term id="t707685736832777983657367327779686976">fluid mosaic model
+</term> 
+<meaning id="m707685736832777983657367327779686976">describes the structure of the plasma membrane as a mosaic of components including phospholipids, cholesterol, proteins, glycoproteins, and glycolipids (sugar chains attached to proteins or lipids, respectively), resulting in a fluid character (fluidity)
+</meaning>
+</definition>
+<definition id="d7176896779767380736883">
+<term id="t7176896779767380736883">glycolipids
+</term>
+<meaning id="m7176896779767380736883">combination of carbohydrates and lipids 
+</meaning>
+</definition>
+<definition id="d71768967798082798469737883">
+<term id="t71768967798082798469737883">glycoproteins
+</term>
+<meaning id="m71768967798082798469737883">combination of carbohydrates and proteins 
+</meaning>
+</definition>
+<definition id="d7289688279807273767367">
+<term id="t7289688279807273767367">hydrophilic
+</term> 
+<meaning id="m7289688279807273767367">molecule with the ability to bond with water; “water-loving”
+</meaning>
+</definition>
+<definition id="d7289688279807279667367">
+<term id="t7289688279807279667367">hydrophobic
+</term> 
+<meaning id="m7289688279807279667367">molecule that does not have the ability to bond with water; “water-hating”
+</meaning>
+</definition>
+<definition id="d7378846971826576328082798469737883">
+<term id="t7378846971826576328082798469737883">Integral proteins
+</term>
+<meaning id="m7378846971826576328082798469737883">protein integrated into the membrane structure that interacts exclusively with the hydrocarbon chains of membrane lipids and often spans the membrane 
+</meaning>
+</definition>
+<definition id="d79827165786976766983">
+<term id="t79827165786976766983">organelles
+</term>
+<meaning id="m79827165786976766983">compartment or sac within a cell 
+</meaning>
+</definition>
+<definition id="d80698273807269826576328082798469737883">
+<term id="t80698273807269826576328082798469737883">Peripheral proteins
+</term>
+<meaning id="m80698273807269826576328082798469737883">protein found at the surface of a plasma membrane either on its exterior or interior side 
+</meaning>
+</definition>
+<definition id="d807665837765327769776682657869">
+<term id="t807665837765327769776682657869">plasma membrane
+</term>
+<meaning id="m807665837765327769776682657869">phospholipid bilayer with embedded (integral) or attached peripheral) proteins, and separates the internal content of the cell from its surroundings 
+</meaning>
+</definition>
+</glossary>
+</document>

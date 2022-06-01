@@ -1,0 +1,50 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>X Chromosome Inactivation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m61617</md:content-id>
+  <md:title>X Chromosome Inactivation</md:title>
+  <md:abstract>X chromosome inactivation (or X inactivation) occurs in females to prevent doubling of X chromosome expression. When this happens during embryonic development, not every cell inactivates the same X, leading to different alleles being expressed in different cells.</md:abstract>
+  <md:uuid>092d9e0a-0c30-4c8f-af0a-641eb1671594</md:uuid>
+</metadata>
+
+<content>
+<section id="fs-id1727981">
+<title> 11.7a Difference in Expression in Males and Females
+</title>
+<para id="fs-id1407411">Humans display dramatic deleterious effects with autosomal trisomies and monosomies. Therefore, it may seem counterintuitive that human females and males can function normally, despite carrying different numbers of the X chromosome. Rather than a gain or loss of autosomes, variations in the number of sex chromosomes are associated with relatively mild effects. In part, this occurs because of a molecular process called 
+<link target-id="d8832737865678473866584737978">
+<term id="c8832737865678473866584737978">X inactivation
+</term>
+</link>. Early in development, when female mammalian embryos consist of just a few thousand cells (relative to trillions in the newborn), one X chromosome in each cell inactivates by tightly condensing into a quiescent (dormant) structure called a Barr body. The chance that an X chromosome (maternally or paternally derived) is inactivated in each cell is random, but once the inactivation occurs, all cells derived from that one will have the same inactive X chromosome or Barr body. By this process, females compensate for their double genetic dose of X chromosome. In so-called “tortoiseshell” cats, embryonic X inactivation is observed as color variegation (
+<link target-id="fig-ch13_02_05" document=""/>). Females that are heterozygous for an X-linked coat color gene will express one of two different coat colors over different regions of their body, corresponding to whichever X chromosome is inactivated in the embryonic cell progenitor of that region.
+</para>
+<figure id="fig-ch13_02_05">
+<label>Figure 13.1
+</label>
+<media id="fs-id1396255" alt=" Photo shows a tortoiseshell cat with orange and black fur.">
+<image mime-type="image/jpg" src="../../media/Figure_13_03_05.jpg" width="225"/>
+</media>
+<caption>In cats, the gene for coat color is located on the X chromosome. In the embryonic development of female cats, one of the two X chromosomes is randomly inactivated in each cell, resulting in a tortoiseshell pattern if the cat has two different alleles for coat color. Male cats, having only one X chromosome, never exhibit a tortoiseshell coat color. (credit: Michael Bodega)
+</caption>
+</figure>
+<para id="fs-id1635254">An individual carrying an abnormal number of X chromosomes will inactivate all but one X chromosome in each of her cells. However, even inactivated X chromosomes continue to express a few genes, and X chromosomes must reactivate for the proper maturation of female ovaries. As a result, X-chromosomal abnormalities are typically associated with mild mental and physical defects, as well as sterility. If the X chromosome is absent altogether, the individual will not develop in utero.
+</para>
+<para id="fs-id2114479">Several errors in sex chromosome number have been characterized. Individuals with three X chromosomes, called triplo-X, are phenotypically female but express developmental delays and reduced fertility. The XXY genotype, corresponding to one type of Klinefelter syndrome, corresponds to phenotypically male individuals with small testes, enlarged breasts, and reduced body hair. More complex types of Klinefelter syndrome exist in which the individual has as many as five X chromosomes. In all types, every X chromosome except one undergoes inactivation to compensate for the excess genetic dosage. This can be seen as several Barr bodies in each cell nucleus. Turner syndrome, characterized as an X0 genotype (i.e., only a single sex chromosome), corresponds to a phenotypically female individual with short stature, webbed skin in the neck region, hearing and cardiac impairments, and sterility.
+</para>
+</section>
+<section id="fs-id00000039" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-039">X chromosome inactivation occurs in females to prevent the X chromosome from being expressed twice as much. This process occurs during embryonic development, and different cells may inactivate a different X. This results in different expression in different cells. 
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d8832737865678473866584737978">
+<term id="t8832737865678473866584737978">X inactivation
+</term>
+<meaning id="m8832737865678473866584737978">condensation of X chromosomes into Barr bodies during embryonic development in females to compensate for the double genetic dose 
+</meaning>
+</definition>
+</glossary>
+</document>

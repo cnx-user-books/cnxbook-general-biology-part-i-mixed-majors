@@ -1,0 +1,192 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Energy in Living Systems</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52664</md:content-id>
+  <md:title>Energy in Living Systems</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the importance of electrons in the transfer of energy in living systems</item>
+<item>Explain how ATP is used by the cell as an energy source</item>
+</list></md:abstract>
+  <md:uuid>15e828e5-345f-41f2-a341-079248dd0320</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1894837">Energy production within a cell involves many coordinated chemical pathways. Most of these pathways are combinations of oxidation and reduction reactions. Oxidation and reduction occur in tandem. An oxidation reaction strips an electron from an atom in a compound, and the addition of this electron to another compound is a reduction reaction. Because oxidation and reduction usually occur together, these pairs of reactions are called oxidation reduction reactions, or 
+<link target-id="d826968798832826965678473797883">
+<term id="c826968798832826965678473797883">redox reactions
+</term>
+</link>.
+</para>
+<section id="fs-id1798739">
+<title>6.6a Electrons and Energy
+</title>
+<para id="fs-id3112918">The removal of an electron from a molecule, oxidizing it, results in a decrease in potential energy in the oxidized compound. The electron (sometimes as part of a hydrogen atom), does not remain unbonded, however, in the cytoplasm of a cell. Rather, the electron is shifted to a second compound, reducing the second compound. The shift of an electron from one compound to another removes some potential energy from the first compound (the oxidized compound) and increases the potential energy of the second compound (the reduced compound). The transfer of electrons between molecules is important because most of the energy stored in atoms and used to fuel cell functions is in the form of high-energy electrons. The transfer of energy in the form of electrons allows the cell to transfer and use energy in an incremental fashion—in small packages rather than in a single, destructive burst. </para><section id="fs-id2763612">
+<title>Electron Carriers
+</title>
+<para id="fs-id1405882">In living systems, a small class of compounds functions as electron shuttles: They bind and carry high-energy electrons between compounds in pathways. The principal electron carriers we will consider are derived from the B vitamin group and are derivatives of nucleotides. These compounds can be easily reduced (that is, they accept electrons) or oxidized (they lose electrons). Nicotinamide adenine dinucleotide (NAD) (
+<link target-id="fig-ch07_01_01" document=""/>) is derived from vitamin B3, niacin. NAD
+<sup>+
+</sup> is the oxidized form of the molecule; NADH is the reduced form of the molecule after it has accepted two electrons and a proton (which together are the equivalent of a hydrogen atom with an extra electron).
+</para>
+<para id="fs-id1464730">NAD
+<sup>+
+</sup> can accept electrons from an organic molecule according to the general equation:
+</para>
+<equation id="eip-739">
+<m:math display="block">
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mrow>
+<m:mtext>RH
+</m:mtext>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mtext>Reducing 
+</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mtext>agent
+</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mtext> + 
+</m:mtext>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mrow>
+<m:msup>
+<m:mrow>
+<m:mtext>NAD
+</m:mtext>
+</m:mrow>
+<m:mo>+
+</m:mo>
+</m:msup>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mtext>Oxidizing
+</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mtext>agent
+</m:mtext>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mo stretchy="false">→
+</m:mo>
+<m:mtext> 
+</m:mtext>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mrow>
+<m:mtext>NADH
+</m:mtext>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mrow>
+<m:mtext>Reduced
+</m:mtext>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+<m:mtext> +
+</m:mtext>
+<m:mtable>
+<m:mtr>
+<m:mtd>
+<m:mtext>R
+</m:mtext>
+</m:mtd>
+</m:mtr>
+<m:mtr>
+<m:mtd>
+<m:mrow>
+<m:mtext>Oxidized
+</m:mtext>
+</m:mrow>
+</m:mtd>
+</m:mtr>
+</m:mtable>
+</m:math>
+</equation>
+<para id="fs-id2073095">When electrons are added to a compound, they are reduced. A compound that reduces another is called a reducing agent. In the above equation, RH is a reducing agent, and NAD
+<sup>+
+</sup> is reduced to NADH. When electrons are removed from compound, it oxidized. A compound that oxidizes another is called an oxidizing agent. In the above equation, NAD
+<sup>+
+</sup> is an oxidizing agent, and RH is oxidized to R.
+</para>
+<para id="fs-id2583910">Similarly, flavin adenine dinucleotide (FAD
+<sup>+
+</sup>) is derived from vitamin B
+<sub>2
+</sub>, also called riboflavin. Its reduced form is FADH
+<sub>2
+</sub>. A second variation of NAD, NADP, contains an extra phosphate group. Both NAD
+<sup>+
+</sup> and FAD
+<sup>+
+</sup> are extensively used in energy extraction from sugars, and NADP plays an important role in anabolic reactions and photosynthesis.
+</para>
+<figure id="fig-ch07_01_01">
+<label>Figure 9.1
+</label>
+<media id="fs-id1937340" alt="This illustration shows the molecular structure of NAD^{+} and NADH. Both compounds are composed of an adenine nucleotide and a nicotinamide nucleotide, which bond together to form a dinucleotide. The nicotinamide nucleotide is at the 5' end, and the adenine nucleotide is at the 3’ end. Nicotinamide is a nitrogenous base, meaning it has nitrogen in a six-membered carbon ring. In NADH, one extra hydrogen is associated with this ring, which is not found in NAD^{+}.">
+<image mime-type="image/jpg" src="../../media/Figure_07_01_01ab.jpg" width="500"/>
+</media>
+<caption>The oxidized form of the electron carrier (NAD
+<sup>+
+</sup>) is shown on the left and the reduced form (NADH) is shown on the right. The nitrogenous base in NADH has one more hydrogen ion and two more electrons than in NAD
+<sup>+
+</sup>.
+</caption>
+</figure>
+</section>
+</section>
+<section id="fs-id00000021" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-021">One of the ways energy is moved is by transporting electrons. The gain or loss of an electron can alter a molecule so it now behaves differently. A molecule that gained an electron is “reduced” because it became more negative. A molecule that lost an electron is “oxidized” -- it became more positive. Certain molecules’ only function is to transport electrons around a cell (ex. NAD, FAD+). 
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d826968798832826965678473797883">
+<term id="t826968798832826965678473797883">redox reactions
+</term>
+<meaning id="m826968798832826965678473797883">chemical reaction that consists of the coupling of an oxidation reaction to a reduction reaction 
+</meaning>
+</definition>
+</glossary>
+</document>

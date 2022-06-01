@@ -1,0 +1,50 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>The Cyclic Pathway of Photosynthesis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m55514</md:content-id>
+  <md:title>The Cyclic Pathway of Photosynthesis</md:title>
+  <md:abstract>Using both photosystems during the light-dependent reactions is not required. The cyclic pathway of photosynthesis only uses photosystem I, but still results in the production of ATP.</md:abstract>
+  <md:uuid>125a40e8-89e5-4362-8b1c-e9fab2dfe627</md:uuid>
+</metadata>
+
+<content>
+<para id="delete_me">The light-dependent reactions of photosynthesis use two photosystems to energize electrons that then enter an electron transport chain. As previously discussed, this electron transport chain results in the production of ATP and NADPH. However, ATP production can still happen even with just one photosystem.
+</para>
+<para id="eip-261">ATP is required for most cellular activity, but NADPH is not. NADPH is generally only required when the photosynthesizer is actively making sugar from the light independent reactions (Calvin-Benson cycle). Since photosynthesizers don't need to make sugar all the time, they can save some energy by not producing NADPH all the time. The 
+<link target-id="d6789677673673280658472876589327970328072">
+<term id="c6789677673673280658472876589327970328072">cyclic pathway of photosynthesis
+</term>
+</link> produces ATP without producing NADPH.
+</para>
+<para id="eip-137">The cyclic pathway of photosynthesis uses just one photosystem: photosystem I. This pathway is simpler than the non-cyclic reactions. It evolved first (in photosynthetic bacteria) and is present in nearly all photosynthetic organisms. Photosystem II and the non-cyclic pathway evolved later (still in photosynthetic bacteria), and spread with the evolution of photosynthetic protists and plants.
+</para>
+<para id="eip-676">In the non-cyclic pathway, when photosystem I receives electrons from the electron transport chain, it re-energizes them. Those electrons then pass through another electron transport chain until they are accepted by NADP+. However, if there is not enough NADP+ to accept those electrons, the cycle does not immediately stop. Instead, electrons can be transported back to photosystem I, which can re-energize them again. This is called the cyclic pathway because no new electrons are ever needed (
+<link target-id="fig-ch07_03_01"/>). Electrons that leave photosystem I always return to it, so the same electrons are re-energized over and over again (as long as there is light hitting the photosystem). As electrons pass through the second electron transport chain, they are powering the transport of H+ ions across the membrane. As long as an H+ gradient exists, ATP can be made.
+</para>
+<figure id="fig-ch07_03_01" class=" "><label>Figure 7.1
+</label>
+<media id="fs-idm00000000" alt="Cyclic pathway of photosynthesis.">
+<image mime-type="image/jpg" src="../../media/Figure_CyclicPS2.jpg" width="550"/>
+</media>
+
+<caption>The Cyclic Pathway of Photosynthesis (credit: Shannon McDermott, Donna Hobbs)
+</caption></figure><para id="eip-742">If no new NADPH is made (because there are no NADP+ molecules to accept electrons), no new sugar can be made. In certain situations, this is acceptable. During the winter, plants aren't actively making a lot of sugar, and therefore wouldn't need a lot of new NADPH. With the cyclic pathway, plants can save some time and energy. 
+</para>
+<para id="eip-255">Since photosystem I is accepting electrons that are returned to it, it is not accepting electrons from the previous electron transport chain. Therefore, the first electron transport chain will be backed up, which means that photolysis will not occur. Without photolysis, no water is broken down and therefore no oxygen is produced. 
+</para>
+<section id="fs-id00000024" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-024">The cyclic pathway of photosynthesis uses just photosystem I to generate ATP. This process occurs when sugar production is not immediately necessary and therefore no new NADPH is generated. Electrons are recycled from photosystem I to be continually re-energized until they can be accepted by NADP+. The cyclic pathway generates ATP, but neither oxygen nor sugar. 
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d6789677673673280658472876589327970328072">
+<term id="t6789677673673280658472876589327970328072">cyclic pathway of photosynthesis
+</term> 
+<meaning id="m6789677673673280658472876589327970328072">process of photosynthesis that only uses Photosystem I
+</meaning>
+</definition>
+</glossary>
+</document>

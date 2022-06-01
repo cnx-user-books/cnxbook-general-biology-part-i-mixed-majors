@@ -1,0 +1,108 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Active Transport</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52572</md:content-id>
+  <md:title>Active Transport</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Understand how electrochemical gradients affect ions</item>
+<item>Distinguish between primary active transport and secondary active transport</item>
+</list></md:abstract>
+  <md:uuid>4a45e3d4-1844-4df6-ba80-248bb433ac02</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2074680">
+<link target-id="d65678473866932848265788380798284">
+<term id="c65678473866932848265788380798284">Active transport
+</term>
+</link> mechanisms require the use of the cell’s energy, usually in the form of adenosine triphosphate (ATP). If a substance must move into the cell against its concentration gradient—that is, if the concentration of the substance inside the cell is greater than its concentration in the extracellular fluid (and vice versa)—the cell must use energy to move the substance. Some active transport mechanisms move small-molecular weight materials, such as ions, through the membrane. Other mechanisms transport much larger molecules.
+</para>
+<section id="fs-id1318973">
+<title>5.2a Proteins for Active Transport
+</title>
+<section id="fs-id1569987">
+<title>Carrier Proteins for Active Transport
+</title>
+<para id="fs-id1778201">An important membrane adaption for active transport is the presence of specific carrier proteins or pumps to facilitate movement: there are three types of these proteins or 
+<link target-id="d848265788380798284698283">
+<term id="c848265788380798284698283">transporters
+</term>
+</link> (
+<link target-id="fig-ch05_03_02" document=""/>). A 
+<link target-id="d857873807982846982">
+<term id="c857873807982846982">uniporter
+</term>
+</link> carries one specific ion or molecule. A 
+<link target-id="d838977807982846982">
+<term id="c838977807982846982">symporter
+</term>
+</link> carries two different ions or molecules, both in the same direction. An 
+<link target-id="d65788473807982846982">
+<term id="c65788473807982846982">antiporter
+</term>
+</link> also carries two different ions or molecules, but in different directions. All of these transporters can also transport small, uncharged organic molecules like glucose. These three types of carrier proteins are also found in facilitated diffusion, but they do not require ATP to work in that process. Some examples of pumps for active transport are Na
+<sup>+
+</sup>-K
+<sup>+
+</sup> ATPase, which carries sodium and potassium ions, and H
+<sup>+
+</sup>-K
+<sup>+
+</sup> ATPase, which carries hydrogen and potassium ions. Both of these are antiporter carrier proteins. Two other carrier proteins are Ca
+<sup>2+
+</sup> ATPase and H
+<sup>+
+</sup> ATPase, which carry only calcium and only hydrogen ions, respectively. Both are pumps.
+</para>
+<figure id="fig-ch05_03_02">
+<label>Figure 6.3
+</label>
+<media id="fs-id1651019" alt="This illustration shows a plasma membrane with three transport proteins embedded in it. The left image shows a uniporter that transports a substance in one direction. The middle image shows a symporter that transports two different substances in the same direction. The right image shows an antiporter that transports two different substances in opposite directions.">
+<image mime-type="image/jpg" src="../../media/Figure_05_03_02.jpg" width="320"/>
+</media>
+<caption>A uniporter carries one molecule or ion. A symporter carries two different molecules or ions, both in the same direction. An antiporter also carries two different molecules or ions, but in different directions. (credit: modification of work by “Lupask”/Wikimedia Commons)
+</caption>
+</figure>
+</section>
+</section>
+<section id="fs-id00000016" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-016">The combined gradient that affects an ion includes its concentration gradient and its electrical gradient. A positive ion, for example, might tend to diffuse into a new area, down its concentration gradient, but if it is diffusing into an area of net positive charge, its diffusion will be hampered by its electrical gradient. When dealing with ions in aqueous solutions, a combination of the electrochemical and concentration gradients, rather than just the concentration gradient alone, must be considered. Living cells need certain substances that exist inside the cell in concentrations greater than they exist in the extracellular space. Moving substances up their electrochemical gradients requires energy from the cell. Active transport uses energy stored in ATP to fuel this transport. Active transport of small molecular-sized materials uses integral proteins in the cell membrane to move the materials: These proteins are analogous to pumps. Some pumps, which carry out primary active transport, couple directly with ATP to drive their action. In co-transport (or secondary active transport), energy from primary transport can be used to move another substance into the cell and up its concentration gradient.
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d65678473866932848265788380798284">
+<term id="t65678473866932848265788380798284">active transport
+</term> 
+<meaning id="m65678473866932848265788380798284">method of transporting material that requires energy
+</meaning>
+</definition>
+<definition id="d65788473807982846982">
+<term id="t65788473807982846982">antiporter
+</term> 
+<meaning id="m65788473807982846982">transporter that carries two ions or small molecules in different directions
+</meaning>
+</definition>
+<definition id="d838977807982846982">
+<term id="t838977807982846982">symporter
+</term> 
+<meaning id="m838977807982846982">transporter that carries two different ions or small molecules, both in the same direction
+</meaning>
+</definition>
+<definition id="d848265788380798284698283">
+<term id="t848265788380798284698283">transporters
+</term>
+<meaning id="m848265788380798284698283">specific carrier proteins or pumps that facilitate movement 
+</meaning>
+</definition>
+<definition id="d857873807982846982">
+<term id="t857873807982846982">uniporter
+</term> 
+<meaning id="m857873807982846982">transporter that carries one specific ion or molecule
+</meaning>
+</definition>
+</glossary>
+</document>

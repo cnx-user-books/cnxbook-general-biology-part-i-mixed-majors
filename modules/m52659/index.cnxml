@@ -1,0 +1,250 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+<title>Adenosine Triphosphate</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52659</md:content-id>
+  <md:title>Adenosine Triphosphate</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the role of ATP as the cellular energy currency</item>
+<item>Describe how energy is released through hydrolysis of ATP</item>
+</list></md:abstract>
+  <md:uuid>ccf3835d-545f-4e6a-b4d6-27e60a4daace</md:uuid>
+</metadata>
+
+<content>
+<section id="eip-267">
+<title>6.3a ATP Structure and Function
+</title>
+<para id="eip-77">Even exergonic, energy-releasing reactions require a small amount of activation energy in order to proceed. However, consider endergonic reactions, which require much more energy input, because their products have more energy than their reactants. Within the cell, where does energy to power such reactions come from? The answer lies with an energy-supplying molecule called 
+<link target-id="d6568697879837378693284827380727983807265">
+<term id="c6568697879837378693284827380727983807265">adenosine triphosphate
+</term>
+</link>, or 
+<link target-id="d658480">
+<term id="c658480">ATP
+</term>
+</link>. ATP is a small, relatively simple molecule (
+<link target-id="fig-ch06_04_01" document=""/>), but within some of its bonds, it contains the potential for a quick burst of energy that can be harnessed to perform cellular work. This molecule can be thought of as the primary energy currency of cells in much the same way that money is the currency that people exchange for things they need. ATP is used to power the majority of energy-requiring cellular reactions.
+</para><figure id="fig-ch06_04_01">
+<label>Figure 7.4
+</label>
+<media id="fs-id1870581" alt="The molecular structure of adenosine triphosphate is shown. Three phosphate groups are attached to a ribose sugar. Adenine is also attached to the ribose.">
+<image mime-type="image/jpg" src="../../media/Figure_06_04_01.jpg" width="320"/>
+</media>
+<caption>ATP is the primary energy currency of the cell. It has an adenosine backbone with three phosphate groups attached.
+</caption>
+</figure>
+<para id="fs-id1467282">As its name suggests, adenosine triphosphate is comprised of adenosine bound to three phosphate groups (
+<link target-id="fig-ch06_04_01" document=""/>). Adenosine is a RNA nucleotide without the phosphate (so just the nitrogenous base and sugar). Together, the adenosine and the three phosphates constitute an energy powerhouse. The bonds between the phosphates are considered "high-energy" bonds because the products of such bond breaking—adenosine diphosphate (ADP) and one inorganic phosphate group (P
+<sub>i
+</sub>)—have considerably lower energy than the reactants: ATP and a water molecule. Because this reaction takes place with the use of a water molecule, it is considered a hydrolysis reaction. In other words, ATP is hydrolyzed into ADP in the following reaction:
+</para><equation id="eip-628"><m:math display="block">
+<m:semantics>
+<m:mrow>
+<m:mtext>ATP
+</m:mtext>
+<m:mo>+
+</m:mo>
+<m:msub>
+<m:mtext>H
+</m:mtext>
+<m:mtext>2
+</m:mtext>
+</m:msub>
+<m:mtext>O
+</m:mtext>
+<m:mo stretchy="false">→
+</m:mo>
+<m:mtext>ADP
+</m:mtext>
+<m:mo>+
+</m:mo>
+<m:msub>
+<m:mtext>P
+</m:mtext>
+<m:mtext>i
+</m:mtext>
+</m:msub>
+<m:mo>+
+</m:mo>
+<m:mtext>energy
+</m:mtext>
+</m:mrow>
+<m:annotation encoding="StarMath 5.0">size 12{{ATP} + H rSub { size 8{2} } O  ADP + P rSub { size 8{i}} + {energy} } {}
+</m:annotation>
+</m:semantics>
+</m:math>
+</equation><para id="fs-id1477773">Like most chemical reactions, the hydrolysis of ATP to ADP is reversible. The reverse reaction regenerates ATP from ADP + P
+<sub>i
+</sub>. Indeed, cells rely on the regeneration of ATP just as people rely on the regeneration of spent money through some sort of income. Since ATP hydrolysis releases energy, ATP regeneration must require an input of energy. The formation of ATP is expressed in this equation:
+</para><equation id="eip-976"><m:math display="block">
+<m:semantics>
+<m:mrow>
+<m:mtext>ADP
+</m:mtext>
+<m:mo>+
+</m:mo>
+<m:msub>
+<m:mtext>P
+</m:mtext>
+<m:mtext>i
+</m:mtext>
+</m:msub>
+<m:mo>+
+</m:mo>
+<m:mtext> energy
+</m:mtext>
+<m:mo stretchy="false">→
+</m:mo>
+<m:mtext>ATP
+</m:mtext>
+<m:mo>+
+</m:mo>
+<m:msub>
+<m:mtext>H
+</m:mtext>
+<m:mtext>2
+</m:mtext>
+</m:msub>
+<m:mtext>O
+</m:mtext>
+</m:mrow>
+<m:annotation encoding="StarMath 5.0">size 12{{ATP} + H rSub { size 8{2} } O  ADP + P rSub { size 8{i}} + {energy} } {}
+</m:annotation>
+</m:semantics>
+</m:math>
+</equation><para id="fs-id2018833">ATP is a highly unstable molecule. Unless quickly used to perform work, ATP spontaneously dissociates into ADP + P
+<sub>i
+</sub>, and the energy released during this process is lost as heat. So how is energy released by ATP hydrolysis used to perform work inside the cell? It depends on a strategy called energy coupling. Cells couple the exergonic reaction of ATP hydrolysis with endergonic reactions, allowing them to proceed. 
+</para></section>
+<section id="fs-id1511906">
+<title>6.3b ATP in Living Systems
+</title>
+<para id="fs-id1595819">At the heart of ATP is a molecule of adenosine monophosphate (AMP), which is composed of an adenine molecule bonded to a ribose molecule and to a single phosphate group (
+<link target-id="fig-ch06_04_01" document=""/>). Ribose is a five-carbon sugar found in RNA, and AMP is one of the nucleotides in RNA. The addition of a second phosphate group to this core molecule results in the formation of adenosine 
+<emphasis effect="underline">di
+</emphasis>phosphate (ADP); the addition of a third phosphate group forms adenosine 
+<emphasis effect="underline">tri
+</emphasis>phosphate (ATP).
+</para><para id="fs-id2308504">The addition of a phosphate group to a molecule requires energy. Phosphate groups are negatively charged and thus repel one another when they are arranged in series, as they are in ADP and ATP. This repulsion makes the ADP and ATP molecules inherently unstable. The release of one or two phosphate groups from ATP, a process called 
+<link target-id="d6869807279838072798289766584737978">
+<term id="c6869807279838072798289766584737978">dephosphorylation
+</term>
+</link>, releases energy.
+</para>
+<section id="fs-id3570970">
+<title>Energy from ATP
+</title>
+<para id="fs-id1981342">Hydrolysis is the process of breaking complex macromolecules apart. During hydrolysis, water is split, or lysed, and the resulting hydrogen atom (H
+<sup>+
+</sup>) and a hydroxyl group (OH
+<sup>-
+</sup>) are added to the larger molecule. The hydrolysis of ATP produces ADP, together with an inorganic phosphate ion (P
+<sub>i
+</sub>), and the release of energy. To carry out life processes, ATP is continuously broken down into ADP, and like a rechargeable battery, ADP is continuously regenerated into ATP by the reattachment of a third phosphate group. Water, which was broken down into its hydrogen atom and hydroxyl group during ATP hydrolysis, is regenerated when a third phosphate is added to the ADP molecule, reforming ATP.
+</para><para id="fs-id1798236">Obviously, energy must be infused into the system to regenerate ATP. Where does this energy come from? In nearly every living thing on earth, the energy comes from the metabolism of glucose. In this way, ATP is a direct link between the limited set of exergonic pathways of glucose catabolism and the multitude of endergonic pathways that power living cells.
+</para>
+</section>
+<section id="fs-id2195071">
+<title>Phosphorylation
+</title>
+<para id="fs-id1451024"><link target-id="d807279838072798289766584737978">
+<term id="c807279838072798289766584737978">Phosphorylation
+</term>
+</link> refers to the addition of the phosphate (~P). ATP is generated through two mechanisms during the breakdown of glucose. A few ATP molecules are generated (that is, regenerated from ADP) as a direct result of the chemical reactions that occur in the catabolic pathways. A phosphate group is removed from an intermediate reactant in the pathway, and the energy of the reaction is used to add the third phosphate to an available ADP molecule, producing ATP (
+<link target-id="fig-ch07_01_03" document=""/>). This very direct method of phosphorylation is called 
+<link target-id="d8385668384826584694576698669763280727983">
+<term id="c8385668384826584694576698669763280727983">substrate-level phosphorylation
+</term>
+</link>.
+</para><figure id="fig-ch07_01_03">
+<label>Figure 9.1
+</label>
+<media id="fs-id1414909" alt="This illustration shows a substrate-level phosphorylation reaction in which the gamma phosphate of ATP is attached to a protein.">
+<image mime-type="image/jpg" src="../../media/Figure_07_01_03.jpg" width="350"/>
+</media>
+<caption>In phosphorylation reactions, the gamma phosphate of ATP is attached to a protein.
+</caption>
+</figure>
+</section>
+<section id="fs-id2019618">
+<title>Oxidative Phosphorylation
+</title>
+<para id="fs-id2065719">Most of the ATP generated during glucose catabolism, however, is derived from a much more complex process, chemiosmosis, which takes place in mitochondria (
+<link target-id="fig-ch07_01_04" document=""/>) within a eukaryotic cell or the plasma membrane of a prokaryotic cell. 
+<link target-id="d677269777379837779837383">
+<term id="c677269777379837779837383">Chemiosmosis
+</term>
+</link>, a process of ATP production in cellular metabolism, is used to generate 90 percent of the ATP made during glucose catabolism and is also the method used in the light reactions of photosynthesis to harness the energy of sunlight. The production of ATP using the process of chemiosmosis is called 
+<link target-id="d7988736865847386693280727983807279828976">
+<term id="c7988736865847386693280727983807279828976">oxidative phosphorylation
+</term>
+</link> because of the involvement of oxygen in the process.
+</para>
+<figure id="fig-ch07_01_04">
+<label>Figure 9.1
+</label>
+<media id="fs-id1318782" alt="This illustration shows the structure of a mitochondrion, which has an outer membrane and an inner membrane. The inner membrane has many folds, called cristae. The space between the outer membrane and the inner membrane is called the intermembrane space, and the central space of the mitochondrion is called the matrix. ATP synthase enzymes and the electron transport chain are located in the inner membrane">
+<image mime-type="image/jpg" src="../../media/Figure_07_01_04.jpg" width="300"/>
+</media>
+<caption>In eukaryotes, oxidative phosphorylation takes place in mitochondria. In prokaryotes, this process takes place in the plasma membrane. (Credit: modification of work by Mariana Ruiz Villareal)
+</caption>
+</figure>
+</section>
+</section>
+<section id="fs-id00000020" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-020">ATP is the primary energy-supplying molecule for living cells. ATP is made up of a nucleotide, a five-carbon sugar, and three phosphate groups. The bonds that connect the phosphates (phosphoanhydride bonds) have high-energy content. The energy released from the hydrolysis of ATP into ADP + P
+<sub>i
+</sub> is used to perform cellular work. Cells use ATP to perform work by coupling the exergonic reaction of ATP hydrolysis with endergonic reactions. ATP donates its phosphate group to another molecule via a process known as phosphorylation. The phosphorylated molecule is at a higher-energy state and is less stable than its unphosphorylated form, and this added energy from the addition of the phosphate allows the molecule to undergo its endergonic reaction.
+</para>
+<para id="eip-992">ATP functions as the energy currency for cells. It allows the cells to store energy briefly and transport it within the cell to support endergonic chemical reactions. The structure of ATP is that of an RNA nucleotide with three phosphates attached. As ATP is used for energy, a phosphate group or two are detached, and either ADP or AMP is produced. Energy derived from glucose catabolism is used to convert ADP into ATP. When ATP is used in a reaction, the third phosphate is temporarily attached to a substrate in a process called phosphorylation. The two processes of ATP regeneration that are used in conjunction with glucose catabolism are substrate-level phosphorylation and oxidative phosphorylation through the process of chemiosmosis.
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d6568697879837378693284827380727983807265">
+<term id="t6568697879837378693284827380727983807265">adenosine triphosphate
+</term>
+<meaning id="m6568697879837378693284827380727983807265">see ATP 
+</meaning>
+</definition>
+<definition id="d658480">
+<term id="t658480">ATP
+</term> 
+<meaning id="m658480">adenosine triphosphate, the cell’s energy currency
+</meaning>
+</definition>
+<definition id="d677269777379837779837383">
+<term id="t677269777379837779837383">Chemiosmosis
+</term>
+<meaning id="m677269777379837779837383">process in which ATP is produced during cellular metabolism by the involvement of a proton gradient across a membrane 
+</meaning>
+</definition>
+<definition id="d6869807279838072798289766584737978">
+<term id="t6869807279838072798289766584737978">dephosphorylation
+</term>
+<meaning id="m6869807279838072798289766584737978">removal of a phosphate group from a molecule 
+</meaning>
+</definition>
+<definition id="d7988736865847386693280727983807279828976">
+<term id="t7988736865847386693280727983807279828976">oxidative phosphorylation
+</term>
+<meaning id="m7988736865847386693280727983807279828976">production of ATP using the process of chemiosmosis and oxygen 
+</meaning>
+</definition>
+<definition id="d807279838072798289766584737978">
+<term id="t807279838072798289766584737978">Phosphorylation
+</term>
+<meaning id="m807279838072798289766584737978">addition of a high-energy phosphate to a compound, usually a metabolic intermediate, a protein, or ADP
+</meaning>
+</definition>
+<definition id="d8385668384826584694576698669763280727983">
+<term id="t8385668384826584694576698669763280727983">substrate-level phosphorylation
+</term>
+<meaning id="m8385668384826584694576698669763280727983">production of ATP from ADP using the excess energy from a chemical reaction and a phosphate group from a reactant
+</meaning>
+</definition>
+</glossary>
+</document>

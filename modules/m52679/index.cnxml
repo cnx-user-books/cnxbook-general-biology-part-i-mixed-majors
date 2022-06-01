@@ -1,0 +1,342 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Chromosomal Basis of Inherited Disorders</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52679</md:content-id>
+  <md:title>Chromosomal Basis of Inherited Disorders</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe how a karyogram is created</item>
+<item>Explain how nondisjunction leads to disorders in chromosome number</item>
+<item>Compare disorders caused by aneuploidy</item>
+<item>Describe how errors in chromosome structure occur through inversions and translocations</item>
+</list></md:abstract>
+  <md:uuid>7baa9f17-bddc-4107-a061-6481e296a047</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1634546">Inherited disorders can arise when chromosomes behave abnormally during meiosis. Chromosome disorders can be divided into two categories: abnormalities in chromosome number and chromosomal structural rearrangements. Because even small segments of chromosomes can span many genes, chromosomal disorders are characteristically dramatic and often fatal.
+</para>
+<section id="fs-id1447048">
+<title>13.1a Duplications and Deletions
+</title>
+<para id="fs-id1727613">In addition to the loss or gain of an entire chromosome, a chromosomal segment may be duplicated or lost. Duplications and deletions often produce offspring that survive but exhibit physical and mental abnormalities. Duplicated chromosomal segments may fuse to existing chromosomes or may be free in the nucleus. Cri-du-chat (from the French for “cry of the cat”) is a syndrome associated with nervous system abnormalities and identifiable physical features that result from a deletion of most of 5p (the small arm of chromosome 5) (
+<link target-id="fig-ch13_02_06" document=""/>). Infants with this genotype emit a characteristic high-pitched cry on which the disorder’s name is based.
+</para>
+<figure id="fig-ch13_02_06">
+<label>Figure 13.1
+</label>
+<media id="fs-id2739450" alt=" Photos show a boy with cri-du-chat syndrome. In parts a, b, c, and d of the image, he is two, four, nine, and 12 years of age, respectively.">
+<image mime-type="image/jpg" src="../../media/Figure_13_03_06.jpg" width="320"/>
+</media>
+<caption>This individual with cri-du-chat syndrome is shown at two, four, nine, and 12 years of age. (credit: Paola Cerruti Mainardi)
+</caption>
+</figure>
+</section>
+<section id="fs-id1302118">
+<title>13.1b Chromosomal Structural Rearrangements
+</title>
+<para id="fs-id1447372">Cytologists have characterized numerous structural rearrangements in chromosomes, but chromosome inversions and translocations are the most common. Both are identified during meiosis by the adaptive pairing of rearranged chromosomes with their former homologs to maintain appropriate gene alignment. If the genes carried on two homologs are not oriented correctly, a recombination event could result in the loss of genes from one chromosome and the gain of genes on the other. This would produce aneuploid gametes.
+</para>
+<section id="fs-id1153236">
+<title>Chromosome Inversions
+</title>
+<para id="fs-id1777950">A 
+<link target-id="d6772827977798379776932737886698283737978">
+<term id="c6772827977798379776932737886698283737978">chromosome inversion
+</term>
+</link> is the detachment, 180° rotation, and reinsertion of part of a chromosome. Inversions may occur in nature as a result of mechanical shear, or from the action of transposable elements (special DNA sequences capable of facilitating the rearrangement of chromosome segments with the help of enzymes that cut and paste DNA sequences). Unless they disrupt a gene sequence, inversions only change the orientation of genes and are likely to have more mild effects than aneuploid errors. However, altered gene orientation can result in functional changes because regulators of gene expression could be moved out of position with respect to their targets, causing aberrant levels of gene products.
+</para>
+<note id="fs-id1441996" class="evolution">
+<label/>
+<title>Evolution Connection
+</title>
+<para id="fs-id1780448">
+<title>The Chromosome 18 Inversion
+</title>Not all structural rearrangements of chromosomes produce nonviable, impaired, or infertile individuals. In rare instances, such a change can result in the evolution of a new species. In fact, a pericentric inversion in chromosome 18 appears to have contributed to the evolution of humans. This inversion is not present in our closest genetic relatives, the chimpanzees. Humans and chimpanzees differ cytogenetically by pericentric inversions on several chromosomes and by the fusion of two separate chromosomes in chimpanzees that correspond to chromosome two in humans.
+</para>
+<para id="fs-id1436143">The pericentric chromosome 18 inversion is believed to have occurred in early humans following their divergence from a common ancestor with chimpanzees approximately five million years ago. Researchers characterizing this inversion have suggested that approximately 19,000 nucleotide bases were duplicated on 18p, and the duplicated region inverted and reinserted on chromosome 18 of an ancestral human.
+</para>
+<para id="fs-id1299902">A comparison of human and chimpanzee genes in the region of this inversion indicates that two genes—
+<emphasis effect="italics">ROCK1
+</emphasis> and 
+<emphasis effect="italics">USP14
+</emphasis>—that are adjacent on chimpanzee chromosome 17 (which corresponds to human chromosome 18) are more distantly positioned on human chromosome 18. This suggests that one of the inversion breakpoints occurred between these two genes. Interestingly, humans and chimpanzees express 
+<emphasis effect="italics">USP14
+</emphasis> at distinct levels in specific cell types, including cortical cells and fibroblasts. Perhaps the chromosome 18 inversion in an ancestral human repositioned specific genes and reset their expression levels in a useful way. Because both 
+<emphasis effect="italics">ROCK1
+</emphasis> and 
+<emphasis effect="italics">USP14
+</emphasis> encode cellular enzymes, a change in their expression could alter cellular function. It is not known how this inversion contributed to hominid evolution, but it appears to be a significant factor in the divergence of humans from other primates.
+<sup>
+<footnote id="fs-id1302278">
+<para id="fs-id1908064">Violaine Goidts et al., “Segmental duplication associated with the human-specific inversion of chromosome 18: a further example of the impact of segmental duplications on karyotype and genome evolution in primates,” 
+<emphasis effect="italics">Human Genetics
+</emphasis>. 115 (2004):116-122
+</para>
+</footnote>
+</sup>
+</para>
+</note>
+</section>
+<section id="fs-id1407439">
+<title>Translocations
+</title>
+<para id="fs-id1447508">A 
+<link target-id="d84826578837679676584737978">
+<term id="c84826578837679676584737978">translocation
+</term>
+</link> occurs when a segment of a chromosome dissociates and reattaches to a different, nonhomologous chromosome. Translocations can be benign or have devastating effects depending on how the positions of genes are altered with respect to regulatory sequences. Notably, specific translocations have been associated with several cancers and with schizophrenia. Reciprocal translocations result from the exchange of chromosome segments between two nonhomologous chromosomes such that there is no gain or loss of genetic information (
+<link target-id="fig-ch13_02_09" document=""/>).
+</para>
+<figure id="fig-ch13_02_09">
+<label>Figure 13.1
+</label>
+<media id="fs-id1293714" alt=" Illustration shows a reciprocal translocation in which DNA is transferred from one chromosome to another. No genetic information is gained or lost in the process.">
+<image mime-type="image/jpg" src="../../media/Figure_13_03_09.jpg" width="320"/>
+</media>
+<caption>A reciprocal translocation occurs when a segment of DNA is transferred from one chromosome to another, nonhomologous chromosome. (credit: modification of work by National Human Genome Research/USA)
+</caption>
+</figure>
+</section>
+</section>
+<section id="fs-id2936109">
+<title>13.1c Identification of Chromosomes
+</title>
+<para id="fs-id1433202">The isolation and microscopic observation of chromosomes forms the basis of cytogenetics and is the primary method by which clinicians detect chromosomal abnormalities in humans. A 
+<link target-id="d756582897984898069">
+<term id="c756582897984898069">karyotype
+</term>
+</link> is the number and appearance of chromosomes, and includes their length, banding pattern, and centromere position. To obtain a view of an individual’s karyotype, cytologists photograph the chromosomes and then cut and paste each chromosome into a chart, or 
+<link target-id="d756582897971826577">
+<term id="c756582897971826577">karyogram
+</term>
+</link>, also known as an ideogram (
+<link target-id="fig-ch13_02_01" document=""/>).
+</para>
+<figure id="fig-ch13_02_01" class=" ">
+<label>Figure 13.1
+</label>
+<media id="fs-id1422041" alt="This is a karyotype of a human female. There are 22 homologous pairs of chromosomes and an X chromosome.">
+<image mime-type="image/jpg" src="../../media/Figure_13_03_01.jpg" width="700"/>
+</media>
+<caption>This karyotype is of a female human. Notice that homologous chromosomes are the same size, and have the same centromere positions and banding patterns. A human male would have an XY chromosome pair instead of the XX pair shown. (credit: Andreas Blozer et al)
+</caption>
+</figure>
+<para id="fs-id2990492">In a given species, chromosomes can be identified by their number, size, centromere position, and banding pattern. In a human karyotype, 
+<link target-id="d658584798379776983">
+<term id="c658584798379776983">autosomes
+</term>
+</link> or “body chromosomes” (all of the non–sex chromosomes) are generally organized in approximate order of size from largest (chromosome 1) to smallest (chromosome 22). The X and Y chromosomes are not autosomes. However, chromosome 21 is actually shorter than chromosome 22. This was discovered after the naming of Down syndrome as trisomy 21, reflecting how this disease results from possessing one extra chromosome 21 (three total). Not wanting to change the name of this important disease, chromosome 21 retained its numbering, despite describing the shortest set of chromosomes. The chromosome “arms” projecting from either end of the centromere may be designated as short or long, depending on their relative lengths. The short arm is abbreviated 
+<emphasis effect="italics">p 
+</emphasis>(for “petite”), whereas the long arm is abbreviated 
+<emphasis effect="italics">q 
+</emphasis>(because it follows “p” alphabetically). Each arm is further subdivided and denoted by a number. Using this naming system, locations on chromosomes can be described consistently in the scientific literature.
+</para>
+<note id="fs-id1419827" class="career">
+<label/>
+<title>Career Connection
+</title>
+<para id="fs-id2597230">
+<title>Geneticists Use Karyograms to Identify Chromosomal Aberrations
+</title>Although Mendel is referred to as the “father of modern genetics,” he performed his experiments with none of the tools that the geneticists of today routinely employ. One such powerful cytological technique is karyotyping, a method in which traits characterized by chromosomal abnormalities can be identified from a single cell. To observe an individual’s karyotype, a person’s cells (like white blood cells) are first collected from a blood sample or other tissue. In the laboratory, the isolated cells are stimulated to begin actively dividing. A chemical called colchicine is then applied to cells to arrest condensed chromosomes in metaphase. Cells are then made to swell using a hypotonic solution so the chromosomes spread apart. Finally, the sample is preserved in a fixative and applied to a slide.
+</para>
+<para id="fs-id2075354">The geneticist then stains chromosomes with one of several dyes to better visualize the distinct and reproducible banding patterns of each chromosome pair. Following staining, the chromosomes are viewed using bright-field microscopy. A common stain choice is the Giemsa stain. Giemsa staining results in approximately 400–800 bands (of tightly coiled DNA and condensed proteins) arranged along all of the 23 chromosome pairs; an experienced geneticist can identify each band. In addition to the banding patterns, chromosomes are further identified on the basis of size and centromere location. To obtain the classic depiction of the karyotype in which homologous pairs of chromosomes are aligned in numerical order from longest to shortest, the geneticist obtains a digital image, identifies each chromosome, and manually arranges the chromosomes into this pattern (
+<link target-id="fig-ch13_02_01" document=""/>).
+</para>
+<para id="fs-id1806671">At its most basic, the karyogram may reveal genetic abnormalities in which an individual has too many or too few chromosomes per cell. Examples of this are Down Syndrome, which is identified by a third copy of chromosome 21, and Turner Syndrome, which is characterized by the presence of only one X chromosome in women instead of the normal two. Geneticists can also identify large deletions or insertions of DNA. For instance, Jacobsen Syndrome—which involves distinctive facial features as well as heart and bleeding defects—is identified by a deletion on chromosome 11. Finally, the karyotype can pinpoint 
+<link target-id="d8482657883767967658473797883">
+<term id="c8482657883767967658473797883">translocations
+</term>
+</link>, which occur when a segment of genetic material breaks from one chromosome and reattaches to another chromosome or to a different part of the same chromosome. Translocations are implicated in certain cancers, including chronic myelogenous leukemia.
+</para>
+<para id="fs-id1419233">During Mendel’s lifetime, inheritance was an abstract concept that could only be inferred by performing crosses and observing the traits expressed by offspring. By observing a karyogram, today’s geneticists can actually visualize the chromosomal composition of an individual to confirm or predict genetic abnormalities in offspring, even before birth.
+</para>
+</note>
+</section>
+<section id="fs-id2334526">
+<title>13.1d Disorders in Chromosome Number
+</title>
+<para id="fs-id1464025">Of all of the chromosomal disorders, abnormalities in chromosome number are the most obviously identifiable from a karyogram. Disorders of chromosome number include the duplication or loss of entire chromosomes, as well as changes in the number of complete sets of chromosomes. They are caused by 
+<link target-id="d7879786873837485786784737978">
+<term id="c7879786873837485786784737978">nondisjunction
+</term>
+</link>, which occurs when chromosomes fail to separate during cell division. Normally, during cell division, two copies of a chromosome are split apart and move to opposite ends of the cell. The cell then splits in half, so that each half becomes a new cell with a copy of each chromosome in it. There are different types of cell division, but the differences are not critical in this chapter. If this nondisjunction happens during the cell division that forms egg/sperm cells, then those egg/sperm cells may be missing chromosomes, or have extra chromosomes. The risk of nondisjunction occurring in egg/sperm cells increases with the age of the parents.
+</para><para id="fs-id1772407">Meiosis (cell division to make egg/sperm cells) is a complicated process, but generally, a cell undergoes two rounds of division to produce egg/sperm cells. In the first division, homologous pairs of chromosomes are split apart, and in the second division, sister chromatids are split apart. Nondisjunction can have differing results depending on when the nondisjunction occurs (
+<link target-id="fig-ch13_02_02" document=""/>). If homologous chromosomes fail to separate during the first round of division, all four egg/sperm cells have an incorrect number of chromosomes. If one set of sister chromatids fail to separate during the second round of division, only two of the four egg/sperm cells have an incorrect number of chromosomes.</para><note id="fs-id1879663" class="art-connection">
+<label/>
+<title>Art Connection
+</title>
+<figure id="fig-ch13_02_02" class=" ">
+<label>Figure 13.1
+</label>
+<media id="fs-id1788358" alt="This illustration shows nondisjunction that occurs during meiosis I. Nondisjunction during meiosis I occurs when a homologous pair fails to separate, and results in two gametes with n + 1 chromosomes, and two gametes with n − 1 chromosomes. Nondisjunction during meiosis II would occur when sister chromatids fail to separate, and results in one gamete with n + 1 chromosomes, one gamete with n − 1 chromosomes, and two normal gametes.">
+<image mime-type="image/png" src="../../media/Figure_13_03_02.png" width="350"/>
+</media>
+<caption>Nondisjunction occurs when homologous chromosomes or sister chromatids fail to separate during meiosis, resulting in an abnormal chromosome number. Nondisjunction may occur during meiosis I or meiosis II.
+</caption>
+</figure>
+<para id="fs-id1472126">Which of the following statements about nondisjunction is true?
+</para>
+<list id="fs-id1341900" list-type="enumerated" number-style="lower-alpha">
+<item>Nondisjunction only results in gametes with n+1 or n–1 chromosomes.
+</item>
+<item>Nondisjunction occurring during meiosis II results in 50 percent normal gametes.
+</item>
+<item>Nondisjunction during meiosis I results in 50 percent normal gametes.
+</item>
+<item>Nondisjunction always results in four different kinds of gametes.
+</item>
+</list>
+<!-- <solution>
+<para><link window="new"  target-id="fig-ch13_02_02" document=""/>B</para>
+</solution> -->
+</note>
+</section>
+<section id="fs-id2187324">
+<title>13.1e Aneuploidy
+</title>
+<para id="fs-id2115503">An individual with the appropriate number of chromosomes for their species is called 
+<link target-id="d69858076797368">
+<term id="c69858076797368">euploid
+</term>
+</link>; in humans, euploidy corresponds to 22 pairs of autosomes and one pair of sex chromosomes. An individual with an error in chromosome number is described as 
+<link target-id="d657869858076797368">
+<term id="c657869858076797368">aneuploid
+</term>
+</link>, a term that includes 
+<link target-id="d7779787983797789">
+<term id="c7779787983797789">monosomy
+</term>
+</link> (loss of one chromosome) or 
+<link target-id="d84827383797789">
+<term id="c84827383797789">trisomy
+</term>
+</link> (gain of an extraneous chromosome). Monosomic human zygotes missing any one copy of an autosome invariably fail to develop to birth because they lack essential genes. This underscores the importance of “gene dosage” in humans. Most autosomal trisomies also fail to develop to birth; however, duplications of some of the smaller chromosomes (13, 15, 18, 21, or 22) can result in offspring that survive for several weeks to many years. Trisomic individuals suffer from a different type of genetic imbalance: an excess in gene dose. Individuals with an extra chromosome may synthesize an abundance of the gene products encoded by that chromosome. This extra dose (150 percent)  of specific genes can lead to a number of functional challenges and often precludes development. The most common trisomy among viable births is that of chromosome 21, which corresponds to Down Syndrome. Individuals with this inherited disorder are characterized by short stature and stunted digits, facial distinctions that include a broad skull and large tongue, and significant developmental delays. The incidence of Down syndrome is correlated with maternal age; older women are more likely to become pregnant with fetuses carrying the trisomy 21 genotype (
+<link target-id="fig-ch13_02_03" document=""/>).
+</para>
+<figure id="fig-ch13_02_03">
+<label>Figure 13.1
+</label>
+<media id="fs-id2338862" alt=" This graph shows the risk of Down syndrome in the fetus with increasing maternal age. Risk dramatically increases past a maternal age of 35.">
+<image mime-type="image/jpg" src="../../media/Figure_13_03_03.jpg" width="350"/>
+</media>
+<caption>The incidence of having a fetus with trisomy 21 increases dramatically with maternal age.
+</caption>
+</figure>
+<note id="fs-id2571351" class="interactive">
+<label/>
+<title>Link to Learning
+</title>
+<media id="fs-id1876100" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/down_syndrome.png" width="120"/>
+</media>
+<para id="fs-id2491521">Visualize the addition of a chromosome that leads to Down syndrome in this 
+<link window="new" url="http://openstaxcollege.org/l/down_syndrome">video simulation
+</link>.
+</para>
+</note>
+</section>
+<section id="fs-id1645084">
+<title>13.1f Polyploidy
+</title>
+<para id="fs-id1807698">An individual with more than the correct number of chromosome sets (two for diploid species) is called 
+<link target-id="d807976898076797368">
+<term id="c807976898076797368">polyploid
+</term>
+</link>. For instance, fertilization of an abnormal diploid egg with a normal haploid sperm would yield a triploid zygote. Polyploid animals are extremely rare, with only a few examples among the flatworms, crustaceans, amphibians, fish, and lizards. Polyploid animals are sterile because meiosis cannot proceed normally and instead produces mostly aneuploid daughter cells that cannot yield viable zygotes. Rarely, polyploid animals can reproduce asexually by haplodiploidy, in which an unfertilized egg divides mitotically to produce offspring. In contrast, polyploidy is very common in the plant kingdom, and polyploid plants tend to be larger and more robust than euploids of their species (
+<link target-id="fig-ch13_02_04" document=""/>).
+</para>
+<figure id="fig-ch13_02_04">
+<label>Figure 13.1
+</label>
+<media id="fs-id1634741" alt=" Photo shows an orange daylily">
+<image mime-type="image/jpg" src="../../media/Figure_13_03_04.jpg" width="320"/>
+</media>
+<caption>As with many polyploid plants, this triploid orange daylily (
+<emphasis effect="italics">Hemerocallis fulva
+</emphasis>) is particularly large and robust, and grows flowers with triple the number of petals of its diploid counterparts. (credit: Steve Karg)
+</caption>
+</figure>
+</section>
+<section id="fs-id2385726" class="summary">
+<title>Section Summary
+</title>
+<para id="fs-id2216229">The number, size, shape, and banding pattern of chromosomes make them easily identifiable in a karyogram and allows for the assessment of many chromosomal abnormalities. Disorders in chromosome number, or aneuploidies, are typically lethal to the embryo, although a few trisomic genotypes are viable. Because of X inactivation, aberrations in sex chromosomes typically have milder phenotypic effects. Aneuploidies also include instances in which segments of a chromosome are duplicated or deleted. Chromosome structures may also be rearranged, for example by inversion or translocation. Both of these aberrations can result in problematic phenotypic effects. Because they force chromosomes to assume unnatural topologies during meiosis, inversions and translocations are often associated with reduced fertility because of the likelihood of nondisjunction.
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d657869858076797368">
+<term id="t657869858076797368">aneuploid
+</term> 
+<meaning id="m657869858076797368">individual with an error in chromosome number; includes deletions and duplications of chromosome segments
+</meaning>
+</definition>
+<definition id="d658584798379776983">
+<term id="t658584798379776983">autosomes
+</term>
+<meaning id="m658584798379776983">any of the non-sex chromosomes 
+</meaning>
+</definition>
+<definition id="d6772827977798379776932737886698283737978">
+<term id="t6772827977798379776932737886698283737978">chromosome inversion
+</term> 
+<meaning id="m6772827977798379776932737886698283737978">detachment, 180° rotation, and reinsertion of a chromosome arm
+</meaning>
+</definition>
+<definition id="d69858076797368">
+<term id="t69858076797368">euploid
+</term> 
+<meaning id="m69858076797368">individual with the appropriate number of chromosomes for their species
+</meaning>
+</definition>
+<definition id="d756582897971826577">
+<term id="t756582897971826577">karyogram
+</term> 
+<meaning id="m756582897971826577">photographic image of a karyotype
+</meaning>
+</definition>
+<definition id="d756582897984898069">
+<term id="t756582897984898069">karyotype
+</term> 
+<meaning id="m756582897984898069">number and appearance of an individuals chromosomes; includes the size, banding patterns, and centromere position
+</meaning>
+</definition>
+<definition id="d7779787983797789">
+<term id="t7779787983797789">monosomy
+</term> 
+<meaning id="m7779787983797789">otherwise diploid genotype in which one chromosome is missing
+</meaning>
+</definition>
+<definition id="d7879786873837485786784737978">
+<term id="t7879786873837485786784737978">nondisjunction
+</term> 
+<meaning id="m7879786873837485786784737978">failure of synapsed homologs to completely separate and migrate to separate poles during the first cell division of meiosis
+</meaning>
+</definition>
+<definition id="d807976898076797368">
+<term id="t807976898076797368">polyploid
+</term> 
+<meaning id="m807976898076797368">individual with an incorrect number of chromosome sets
+</meaning>
+</definition>
+<definition id="d84826578837679676584737978">
+<term id="t84826578837679676584737978">translocation
+</term> 
+<meaning id="m84826578837679676584737978">process by which one segment of a chromosome dissociates and reattaches to a different, nonhomologous chromosome
+</meaning>
+</definition>
+<definition id="d8482657883767967658473797883">
+<term id="t8482657883767967658473797883">translocations
+</term>
+<meaning id="m8482657883767967658473797883">process by which one segment of a chromosome dissociates and reattaches to a different, nonhomologous chromosome 
+</meaning>
+</definition>
+<definition id="d84827383797789">
+<term id="t84827383797789">trisomy
+</term> 
+<meaning id="m84827383797789">otherwise diploid genotype in which one entire chromosome is duplicated
+</meaning>
+</definition>
+</glossary>
+</document>

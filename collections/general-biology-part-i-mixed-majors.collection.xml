@@ -1,0 +1,201 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11749</md:content-id>
+    <md:title>General Biology Part I - Mixed Majors</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>e9ecfb1e-4fdb-4967-9da9-5db4f87ec40b</md:uuid>
+<md:slug>general-biology-part-i-mixed-majors</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m46078"/>
+    <col:subcollection>
+      <md:title>Unit 1: The Chemistry of Life</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>The Study of Life</md:title>
+          <col:content>
+            <col:module document="m44386"/>
+            <col:module document="m52512"/>
+            <col:module document="m51993"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>The Chemical Foundation of Life</md:title>
+          <col:content>
+            <col:module document="m44389"/>
+            <col:module document="m52513"/>
+            <col:module document="m52522"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Biological Macromolecules</md:title>
+          <col:content>
+            <col:module document="m44395"/>
+            <col:module document="m52525"/>
+            <col:module document="m52526"/>
+            <col:module document="m52531"/>
+            <col:module document="m52532"/>
+            <col:module document="m52535"/>
+            <col:module document="m52536"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 2: The Cell</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Cell Structure</md:title>
+          <col:content>
+            <col:module document="m44404"/>
+            <col:module document="m52539"/>
+            <col:module document="m52541"/>
+            <col:module document="m52577"/>
+            <col:module document="m52542"/>
+            <col:module document="m52546"/>
+            <col:module document="m52548"/>
+            <col:module document="m52564"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Membrane Transport</md:title>
+          <col:content>
+            <col:module document="m44415"/>
+            <col:module document="m52570"/>
+            <col:module document="m52572"/>
+            <col:module document="m52584"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Metabolism</md:title>
+          <col:content>
+            <col:module document="m44421"/>
+            <col:module document="m52653"/>
+            <col:module document="m52658"/>
+            <col:module document="m52659"/>
+            <col:module document="m52660"/>
+            <col:module document="m52616"/>
+            <col:module document="m52664"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Photosynthesis</md:title>
+          <col:content>
+            <col:module document="m44446"/>
+            <col:module document="m84691"/>
+            <col:module document="m52661"/>
+            <col:module document="m52662"/>
+            <col:module document="m55514"/>
+            <col:module document="m52663"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Cellular Respiration</md:title>
+          <col:content>
+            <col:module document="m44430"/>
+            <col:module document="m52665"/>
+            <col:module document="m54705"/>
+            <col:module document="m52668"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 3: Genetics</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>DNA Structure and Function</md:title>
+          <col:content>
+            <col:module document="m67017"/>
+            <col:module document="m52683"/>
+            <col:module document="m52671"/>
+            <col:module document="m52688"/>
+            <col:module document="m54732"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Genes and Proteins</md:title>
+          <col:content>
+            <col:module document="m67016"/>
+            <col:module document="m52694"/>
+            <col:module document="m52697"/>
+            <col:module document="m52698"/>
+            <col:module document="m52700"/>
+            <col:module document="m52690"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Gene Expression</md:title>
+          <col:content>
+            <col:module document="m44533"/>
+            <col:module document="m52701"/>
+            <col:module document="m54733"/>
+            <col:module document="m52704"/>
+            <col:module document="m52707"/>
+            <col:module document="m52708"/>
+            <col:module document="m52703"/>
+            <col:module document="m61617"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Mendel's Experiments and Heredity</md:title>
+          <col:content>
+            <col:module document="m44474"/>
+            <col:module document="m52677"/>
+            <col:module document="m52678"/>
+            <col:module document="m52680"/>
+            <col:module document="m61618"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chromosomal Disorders</md:title>
+          <col:content>
+            <col:module document="m44480"/>
+            <col:module document="m52679"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Cell Reproduction</md:title>
+          <col:content>
+            <col:module document="m44457"/>
+            <col:module document="m52672"/>
+            <col:module document="m52673"/>
+            <col:module document="m52674"/>
+            <col:module document="m52689"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Meiosis and Sexual Reproduction</md:title>
+          <col:content>
+            <col:module document="m44468"/>
+            <col:module document="m52676"/>
+            <col:module document="m52675"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Biotechnology and Genomics</md:title>
+          <col:content>
+            <col:module document="m44551"/>
+            <col:module document="m52709"/>
+            <col:module document="m52710"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Unit 4: Evolutionary Processes</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Evolution and the Origin of Species</md:title>
+          <col:content>
+            <col:module document="m44561"/>
+            <col:module document="m52715"/>
+            <col:module document="m52722"/>
+            <col:module document="m52720"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

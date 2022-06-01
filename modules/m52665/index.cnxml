@@ -1,0 +1,94 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Glycolysis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52665</md:content-id>
+  <md:title>Glycolysis</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the overall result in terms of molecules produced in the breakdown of glucose by glycolysis</item>
+<item>Compare the output of glycolysis in terms of ATP molecules and NADH molecules produced</item>
+</list></md:abstract>
+  <md:uuid>10bce5b2-6b71-4c59-9541-975cc7b0811d</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1392597">You have read that nearly all of the energy used by living cells comes to them in the bonds of the sugar, glucose. 
+<link target-id="d71768967797689837383">
+<term id="c71768967797689837383">Glycolysis
+</term>
+</link> is the first step in the breakdown of glucose to extract energy for cellular metabolism. Nearly all living organisms carry out glycolysis as part of their metabolism. The process does not use oxygen and is therefore 
+<link target-id="d657865698279667367">
+<term id="c657865698279667367">anaerobic
+</term>
+</link>. Glycolysis takes place in the cytoplasm of both prokaryotic and eukaryotic cells.
+</para>
+<para id="fs-id2054513">Glycolysis begins with the six carbon ring-shaped structure of a single glucose molecule and ends with two molecules of a three-carbon sugar called 
+<link target-id="d8089828586658469">
+<term id="c8089828586658469">pyruvate
+</term>
+</link>. There are many steps to glycolysis, but it has been simplified below to only show three major steps.
+</para>
+<section id="fs-id2221367">
+<title>8.1a Steps of Glycolysis
+</title>
+<para id="fs-id2883758">Step 1. Glycolysis (
+<link target-id="Figure_08_01" document=""/>) begins with adding a phosphate group to glucose, producing glucose-6-phosphate (G6P). By changing glucose into G6P, the cell ensures that the concentration gradient of glucose remains unchanged. G6P is quickly converted into fructose diphosphate through the addition of a second phosphate group. The cell needs to get these phosphates from another molecule, which is ATP. Therefore, by converting glucose to fructose diphosphate, the cell must break a phosphate off of two ATP molecules, converting them both into ADP.
+</para>
+<para id="fs-id1595819">Step 2. In the second step of glycolysis, fructose diphosphate is split in half into two molecules of glyceraldehyde 3-phosphate (G3P). 
+</para>
+<para id="fs-id2316327">Step 3. The third step is the conversion of each G3P to pyruvate. During this step, an additional phosphate group (not from ATP) is first added to each G3P (not shown in the figure). This addition also reduces two NAD+ to two NADH by adding two electrons and a proton to each. At this point, the two phosphates that are on each molecule are removed, and added back to ADP molecules, generating 4 ATP molecules, and 2 pyruvate molecules.
+</para>
+<figure id="Fig_08_01">
+<label>Figure 8.2
+</label>
+<media id="Figure_08_01" alt="This illustration shows the basic steps in glycolysis">
+<image mime-type="image/jpg" src="../../media/Figure_08_01.jpg" width="350"/>
+</media>
+<caption>The basic steps of glycolysis.
+</caption>
+</figure>
+</section>
+<section id="fs-id2988639">
+<title>8.1b Outcomes of Glycolysis
+</title>
+<para id="fs-id2726679">Glycolysis starts with glucose and ends with two pyruvate molecules, a total of four ATP molecules and two molecules of NADH. Two ATP molecules were used in the first half of the pathway to prepare the six-carbon ring for cleavage, so the cell has a net gain of two ATP molecules and 2 NADH molecules for its use. If the cell cannot catabolize the pyruvate molecules further, it will harvest only two ATP molecules from one molecule of glucose. Mature mammalian red blood cells are not capable of 
+<link target-id="d65698279667367328269838073826584737978">
+<term id="c65698279667367328269838073826584737978">aerobic respiration
+</term>
+</link>—the process in which organisms convert energy in the presence of oxygen—and glycolysis is their sole source of ATP. If glycolysis is interrupted, these cells lose their ability to maintain their sodium-potassium pumps, and eventually, they die.
+</para>
+</section>
+<section id="fs-id00000025" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-025">Glycolysis is the first pathway used in the breakdown of glucose to extract energy. It was probably one of the earliest metabolic pathways to evolve and is used by nearly all of the organisms on earth. Glycolysis consists of two parts: the first part prepares the six-carbon ring of glucose for cleavage into two three-carbon sugars. ATP is invested in the process during this half to energize the separation. The second half of glycolysis extracts ATP and high-energy electrons from hydrogen atoms and attaches them to NAD+. Two ATP molecule are invested in the first half and four ATP molecules are formed by substrate phosphorylation during the second half. This produces a net gain of two ATP and two NADH molecules for the cell.
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d65698279667367328269838073826584737978">
+<term id="t65698279667367328269838073826584737978">aerobic respiration
+</term> 
+<meaning id="m65698279667367328269838073826584737978">process in which organisms convert energy in the presence of oxygen
+</meaning>
+</definition>
+<definition id="d657865698279667367">
+<term id="t657865698279667367">anaerobic
+</term> 
+<meaning id="m657865698279667367">process that does not use oxygen
+</meaning>
+</definition>
+<definition id="d71768967797689837383">
+<term id="t71768967797689837383">glycolysis
+</term> 
+<meaning id="m71768967797689837383">process of breaking glucose into two three-carbon molecules with the production of ATP and NADH
+</meaning>
+</definition>
+<definition id="d8089828586658469">
+<term id="t8089828586658469">pyruvate
+</term> 
+<meaning id="m8089828586658469">three-carbon sugar that can be decarboxylated and oxidized to make acetyl CoA, which enters the citric acid cycle under aerobic conditions; the end product of glycolysis
+</meaning>
+</definition>
+</glossary>
+</document>

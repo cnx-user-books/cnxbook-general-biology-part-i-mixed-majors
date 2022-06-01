@@ -1,0 +1,263 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Characteristics and Traits</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52678</md:content-id>
+  <md:title>Characteristics and Traits</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain the relationship between genotypes and phenotypes in dominant and recessive gene systems</item>
+<item>Develop a Punnett square to calculate the expected proportions of genotypes and phenotypes in a monohybrid cross</item>
+<item>Explain the purpose and methods of a test cross</item>
+<item>Identify non-Mendelian inheritance patterns such as incomplete dominance, codominance, recessive lethals, multiple alleles, and sex linkage</item>
+</list></md:abstract>
+  <md:uuid>9a0f2f2f-5f03-4126-b1db-c84ed5f9d863</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2315387">The seven characteristics that Mendel evaluated in his pea plants were each expressed as one of two versions, or traits. The physical expression of characteristics is accomplished through the expression of genes carried on chromosomes. The genetic makeup of peas consists of two similar or homologous copies of each chromosome, one from each parent. Each pair of homologous chromosomes has the same linear order of genes. In other words, peas are diploid organisms in that they have two copies of each chromosome. The same is true for many other plants and for virtually all animals. Diploid organisms utilize meiosis to produce haploid gametes, which contain one copy of each homologous chromosome that unite at fertilization to create a diploid zygote.
+</para>
+<para id="fs-id1386877">For cases in which a single gene controls a single characteristic, a diploid organism has two genetic copies that may or may not encode the same version of that characteristic. Gene variants that arise by mutation and exist at the same relative locations on homologous chromosomes are called 
+<link target-id="d65767669766983">
+<term id="c65767669766983">alleles
+</term>
+</link>. Mendel examined the inheritance of genes with just two allele forms, but it is common to encounter more than two alleles for any given gene in a natural population.
+</para>
+<section id="fs-id2075303">
+<title>12.2a Phenotypes and Genotypes
+</title>
+<para id="fs-id1983358">Two alleles for a given gene in a diploid organism are expressed and interact to produce physical characteristics. The observable traits expressed by an organism are referred to as its 
+<link target-id="d807269787984898069">
+<term id="c807269787984898069">phenotype
+</term>
+</link>. An organism’s underlying genetic makeup, is called its 
+<link target-id="d7169787984898069">
+<term id="c7169787984898069">genotype
+</term>
+</link>. Mendel’s hybridization experiments demonstrate the difference between phenotype and genotype. When true-breeding plants in which one parent had yellow pods and one had green pods were cross-fertilized, all of the F
+<sub>1
+</sub> hybrid offspring had yellow pods. That is, the hybrid offspring were phenotypically identical to the true-breeding parent with yellow pods. However, we know that the allele donated by the parent with green pods was not simply lost because it reappeared in some of the F
+<sub>2
+</sub> offspring. Therefore, the F
+<sub>1
+</sub> plants must have been genotypically different from the parent with yellow pods.
+</para>
+<para id="fs-id2121321">The parental (P) plants that Mendel used in his experiments were each homozygous for the trait he was studying. Diploid organisms that are 
+<link target-id="d72797779908971798583">
+<term id="c72797779908971798583">homozygous
+</term>
+</link> at a given gene, or locus, have two identical alleles for that gene on their homologous chromosomes. Mendel’s parental pea plants always bred true because both of the gametes produced carried the same trait. When P
+<sub>0
+</sub> plants with contrasting traits were cross-fertilized, all of the offspring were 
+<link target-id="d726984698279908971798583">
+<term id="c726984698279908971798583">heterozygous
+</term>
+</link> for the contrasting trait, meaning that their genotype reflected that they had different alleles for the gene being examined.
+</para>
+<section id="fs-id846600">
+<title>Dominant and Recessive Alleles
+</title>
+<para id="fs-id1432196">Our discussion of homozygous and heterozygous organisms brings us to why the F
+<sub>1
+</sub> heterozygous offspring were identical to one of the parents, rather than expressing both alleles. In all seven pea-plant characteristics, one of the two contrasting alleles was dominant, and the other was recessive. 
+</para>
+<para id="fs-id2891392">Several conventions exist for referring to genes and alleles. For the purposes of this chapter, we will abbreviate genes using the first letter of the gene’s corresponding dominant trait. For example, violet is the dominant trait for a pea plant’s flower color, so the flower-color gene would be abbreviated as 
+<emphasis effect="italics">V
+</emphasis> (note that it is customary to italicize gene designations). Furthermore, we will use uppercase and lowercase letters to represent dominant and recessive alleles, respectively. Therefore, we would refer to the genotype of a homozygous dominant pea plant with violet flowers as 
+<emphasis effect="italics">VV
+</emphasis>, a homozygous recessive pea plant with white flowers as 
+<emphasis effect="italics">vv
+</emphasis>, and a heterozygous pea plant with violet flowers as 
+<emphasis effect="italics">Vv
+</emphasis>.
+</para>
+</section>
+</section>
+<section id="fs-id1804658">
+<title>12.2b The Punnett Square Approach for Monohybrid Crosses and Test Crosses</title><para id="fs-id2491691"><title>Monohybrid Crosses</title>When fertilization occurs between two true-breeding parents that differ in only one characteristic, and then those offspring are crossed to each other, the process is called a 
+<link target-id="d77797879728966827368">
+<term id="c77797879728966827368">monohybrid
+</term>
+</link> cross. So the term "monohybrid cross" actually refers to two crosses. Mendel performed seven monohybrid crosses involving contrasting traits for each characteristic. 
+</para><para id="fs-id1552731">To demonstrate a monohybrid cross, consider the case of true-breeding pea plants with yellow versus green pea seeds. The dominant seed color is yellow; therefore, the parental genotypes were 
+<emphasis effect="italics">YY
+</emphasis> for the plants with yellow seeds and 
+<emphasis effect="italics">yy
+</emphasis> for the plants with green seeds, respectively. A 
+<link target-id="d8085787869848432838185658269">
+<term id="c8085787869848432838185658269">Punnett square
+</term>
+</link>, devised by the British geneticist Reginald Punnett, can be drawn that applies the rules of probability to predict the possible outcomes of a genetic cross or mating and their expected frequencies. To prepare a Punnett square, all possible combinations of the parental alleles are listed along the top (for one parent) and side (for the other parent) of a grid, representing their meiotic segregation into haploid gametes. Then the combinations of egg and sperm are made in the boxes in the table to show which alleles are combining. Each box then represents the diploid genotype of a zygote, or fertilized egg, that could result from this mating. Because each possibility is equally likely, genotypic ratios can be determined from a Punnett square. If the pattern of inheritance (dominant or recessive) is known, the phenotypic ratios can be inferred as well. For a monohybrid cross of two true-breeding parents, each parent contributes one type of allele. In this case, only one genotype is possible. All offspring are 
+<emphasis effect="italics">Yy
+</emphasis> and have yellow seeds (
+<link target-id="fig-ch12_02_01" document=""/>).
+</para>
+<figure id="fig-ch12_02_01">
+<label>Figure 12.2
+</label>
+<media id="fs-id1799175" alt="This illustration shows a monohybrid cross. In the P generation, one parent has a dominant yellow phenotype and the genotype YY, and the other parent has the recessive green phenotype and the genotype yy. Each parent produces one kind of gamete, resulting in an F_{1} generation with a dominant yellow phenotype and the genotype Yy. Self-pollination of the F_{1} generation results in an F_{2} generation with a 3 to 1 ratio of yellow to green peas. One out of three of the yellow pea plants has a dominant genotype of YY, and 2 out of 3 have the heterozygous phenotype Yy. The homozygous recessive plant has the green phenotype and the genotype yy.">
+<image mime-type="image/jpg" src="../../media/Figure_12_02_02.png" width="320"/>
+</media>
+<caption>In the P generation, pea plants that are true-breeding for the dominant yellow phenotype are crossed with plants with the recessive green phenotype. This cross produces F
+<sub>1
+</sub> heterozygotes with a yellow phenotype. Punnett square analysis can be used to predict the genotypes of the F
+<sub>2
+</sub> generation.
+</caption>
+</figure>
+<para id="fs-id1780695">A self-cross of one of the 
+<emphasis effect="italics">Yy
+</emphasis> heterozygous offspring can be represented in a 2 × 2 Punnett square because each parent can donate one of two different alleles. Therefore, the offspring can potentially have one of four allele combinations: 
+<emphasis effect="italics">YY
+</emphasis>, 
+<emphasis effect="italics">Yy
+</emphasis>, 
+<emphasis effect="italics">yY
+</emphasis>, or 
+<emphasis effect="italics">yy
+</emphasis> (
+<link target-id="fig-ch12_02_01" document=""/>). Notice that there are two ways to obtain the 
+<emphasis effect="italics">Yy
+</emphasis> genotype: a 
+<emphasis effect="italics">Y
+</emphasis> from the egg and a 
+<emphasis effect="italics">y
+</emphasis> from the sperm, or a 
+<emphasis effect="italics">y
+</emphasis> from the egg and a 
+<emphasis effect="italics">Y
+</emphasis> from the sperm. Both of these possibilities must be counted. Because fertilization is a random event, we expect each combination to be equally likely and for the offspring to exhibit a ratio of 
+<emphasis effect="italics">YY
+</emphasis>:
+<emphasis effect="italics">Yy
+</emphasis>:
+<emphasis effect="italics">yy
+</emphasis> genotypes of 1:2:1 (
+<link target-id="fig-ch12_02_01" document=""/>). Furthermore, because the 
+<emphasis effect="italics">YY
+</emphasis> and 
+<emphasis effect="italics">Yy
+</emphasis> offspring have yellow seeds and are phenotypically identical, applying the sum rule of probability, we expect the offspring to exhibit a phenotypic ratio of 3 yellow:1 green. Indeed, working with large sample sizes, Mendel observed approximately this ratio in every F
+<sub>2
+</sub> generation resulting from crosses for individual traits.
+</para>
+<para id="fs-id1883145">Mendel validated these results by performing an F
+<sub>3
+</sub> cross in which he self-crossed the dominant- and recessive-expressing F
+<sub>2
+</sub> plants. When he self-crossed the plants expressing green seeds, all of the offspring had green seeds, confirming that all green seeds had homozygous genotypes of 
+<emphasis effect="italics">yy
+</emphasis>. When he self-crossed the F
+<sub>2
+</sub> plants expressing yellow seeds, he found that one-third of the plants bred true, and two-thirds of the plants segregated at a 3:1 ratio of yellow:green seeds. In this case, the true-breeding plants had homozygous (
+<emphasis effect="italics">YY
+</emphasis>) genotypes, whereas the segregating plants corresponded to the heterozygous (
+<emphasis effect="italics">Yy
+</emphasis>) genotype. When these plants self-fertilized, the outcome was just like the F
+<sub>1
+</sub> self-fertilizing cross.
+</para>
+<section id="fs-id1837292">
+<title>The Test Cross Distinguishes the Dominant Phenotype
+</title>
+<para id="fs-id1404094">Beyond predicting the offspring of a cross between known homozygous or heterozygous parents, Mendel also developed a way to determine whether an organism that expressed a dominant trait was a heterozygote or a homozygote. Called the 
+<link target-id="d84698384326782798383">
+<term id="c84698384326782798383">test cross
+</term>
+</link>, this technique is still used by plant and animal breeders. In a test cross, the dominant-expressing organism is crossed with an organism that is homozygous recessive for the same characteristic. If the dominant-expressing organism is a homozygote, then all F
+<sub>1
+</sub> offspring will be heterozygotes expressing the dominant trait (
+<link target-id="fig-ch12_02_02" document=""/>). Alternatively, if the dominant expressing organism is a heterozygote, the F
+<sub>1
+</sub> offspring will exhibit a 1:1 ratio of heterozygotes and recessive homozygotes (
+<link target-id="fig-ch12_02_02" document=""/>). The test cross further validates Mendel’s postulate that pairs of unit factors segregate equally.
+</para>
+<note id="fs-id2138122" class="art-connection">
+<label/>
+<title>Art Connection
+</title>
+<para id="fs-id2154941">
+<figure id="fig-ch12_02_02">
+<label>Figure 12.2
+</label>
+<media id="fs-id1236377" alt="In a test cross, a parent with a dominant phenotype but unknown genotype is crossed with a recessive parent. If the parent with the unknown phenotype is homozygous dominant, all of the resulting offspring will have at least one dominant allele. If the parent with the unknown phenotype is heterozygous, fifty percent of the offspring will inherit a recessive allele from both parents and will have the recessive phenotype.">
+<image mime-type="image/jpg" src="../../media/Figure_12_02_03.jpg" width="320"/>
+</media>
+<caption>A test cross can be performed to determine whether an organism expressing a dominant trait is a homozygote or a heterozygote.
+</caption>
+</figure>
+</para>
+<para id="fs-id2306577">In pea plants, round peas (
+<emphasis effect="italics">R
+</emphasis>) are dominant to wrinkled peas (
+<emphasis effect="italics">r
+</emphasis>). You do a test cross between a pea plant with wrinkled peas (genotype 
+<emphasis effect="italics">rr
+</emphasis>) and a plant of unknown genotype that has round peas. You end up with three plants, all which have round peas. From this data, can you tell if the round pea parent plant is homozygous dominant or heterozygous? If the round pea parent plant is heterozygous, what is the probability that a random sample of 3 progeny peas will all be round?
+</para>
+</note>
+</section>
+</section>
+<section id="fs-id00000041" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-041">When true-breeding or homozygous individuals that differ for a certain trait are crossed, all of the offspring will be heterozygotes for that trait. If the traits are inherited as dominant and recessive, the F
+<sub>1
+</sub> offspring will all exhibit the same phenotype as the parent homozygous for the dominant trait. If these heterozygous offspring are self-crossed, the resulting F
+<sub>2
+</sub> offspring will be equally likely to inherit gametes carrying the dominant or recessive trait, giving rise to offspring of which one quarter are homozygous dominant, half are heterozygous, and one quarter are homozygous recessive. Because homozygous dominant and heterozygous individuals are phenotypically identical, the observed traits in the F
+<sub>2
+</sub> offspring will exhibit a ratio of three dominant to one recessive. 
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d65767669766983">
+<term id="t65767669766983">alleles
+</term>
+<meaning id="m65767669766983">gene variations that arise by mutation and exist at the same relative locations on homologous chromosomes 
+</meaning>
+</definition>
+<definition id="d7169787984898069">
+<term id="t7169787984898069">genotype
+</term> 
+<meaning id="m7169787984898069">underlying genetic makeup, consisting of both physically visible and non-expressed alleles, of an organism
+</meaning>
+</definition>
+<definition id="d726984698279908971798583">
+<term id="t726984698279908971798583">heterozygous
+</term> 
+<meaning id="m726984698279908971798583">having two different alleles for a given gene on the homologous chromosome
+</meaning>
+</definition>
+<definition id="d72797779908971798583">
+<term id="t72797779908971798583">homozygous
+</term> 
+<meaning id="m72797779908971798583">having two identical alleles for a given gene on the homologous chromosome
+</meaning>
+</definition>
+<definition id="d77797879728966827368">
+<term id="t77797879728966827368">monohybrid
+</term> 
+<meaning id="m77797879728966827368">result of a cross between two true-breeding parents that express different traits for only one characteristic; in a monohybrid cross, those heterozygous individuals are then crossed to each other
+</meaning>
+</definition>
+<definition id="d807269787984898069">
+<term id="t807269787984898069">phenotype
+</term> 
+<meaning id="m807269787984898069">observable traits expressed by an organism
+</meaning>
+</definition>
+<definition id="d8085787869848432838185658269">
+<term id="t8085787869848432838185658269">Punnett square
+</term> 
+<meaning id="m8085787869848432838185658269">visual representation of a cross between two individuals in which the gametes of each individual are denoted along the top and side of a grid, respectively, and the possible zygotic genotypes are recombined at each box in the grid
+</meaning>
+</definition>
+<definition id="d84698384326782798383">
+<term id="t84698384326782798383">test cross
+</term> 
+<meaning id="m84698384326782798383">cross between a dominant expressing individual with an unknown genotype and a homozygous recessive individual; the offspring phenotypes indicate whether the unknown parent is heterozygous or homozygous for the dominant trait
+</meaning>
+</definition>
+</glossary>
+</document>

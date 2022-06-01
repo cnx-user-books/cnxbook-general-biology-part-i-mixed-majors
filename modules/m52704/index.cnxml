@@ -1,0 +1,40 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Eukaryotic Transcription Gene Regulation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52704</md:content-id>
+  <md:title>Eukaryotic Transcription Gene Regulation</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Discuss the role of transcription factors in gene regulation</item>
+<item>Explain how enhancers and repressors regulate gene expression</item>
+</list></md:abstract>
+  <md:uuid>f31dafe2-66f0-4785-90de-f5e09aeebc3c</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2745728">Like prokaryotic cells, the transcription of genes in eukaryotes requires the actions of an RNA polymerase to bind to a sequence upstream of a gene to initiate transcription. However, unlike prokaryotic cells, the eukaryotic RNA polymerase requires other proteins, or transcription factors, to facilitate transcription initiation. Transcription factors are proteins that bind to the promoter sequence and other regulatory sequences to control the transcription of the target gene. RNA polymerase by itself cannot initiate transcription in eukaryotic cells. Transcription factors must bind to the promoter region first and recruit RNA polymerase to the site for transcription to be established.</para>
+<note id="fs-id2022629" class="interactive"><label/><title>Link to Learning</title>
+<media id="fs-id1595515" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/transcript_RNA.png" width="120"/>
+</media>
+    <para id="fs-id2192558">View the process of transcription—the making of RNA from a DNA template—at <link window="new" url="http://openstaxcollege.org/l/transcript_RNA">this site</link>.</para>
+</note><section id="fs-id1967852">
+<title>11.3a Enhancers and Transcription</title><para id="fs-id1645226">In some eukaryotic genes, there are regions that help increase or enhance transcription. These regions, called <term>enhancers</term>, are not necessarily close to the genes they enhance. They can be located upstream of a gene, within the coding region of the gene, downstream of a gene, or may be thousands of nucleotides away.</para><para id="fs-id2904783">Enhancer regions are binding sequences, or sites, for transcription factors. When a DNA-bending protein binds, the shape of the DNA changes (<link target-id="fig-ch16_04_01" document=""/>). This shape change allows for the interaction of the activators bound to the enhancers with the transcription factors bound to the promoter region and the RNA polymerase. Whereas DNA is generally depicted as a straight line in two dimensions, it is actually a three-dimensional object. Therefore, a nucleotide sequence thousands of nucleotides away can fold over and interact with a specific promoter.</para><figure id="fig-ch16_04_01"><label>Figure 16.4</label>
+
+<media id="fs-id1778252" alt="Eukaryotic gene expression is controlled by a promoter immediately adjacent to the gene, and an enhancer far upstream. The DNA folds over itself, bringing the enhancer next to the promoter. Transcription factors and mediator proteins are sandwiched between the promoter and the enhancer. Short DNA sequences within the enhancer called distal control elements bind activators, which in turn bind transcription factors and mediator proteins bound to the promoter. RNA polymerase binds the complex, allowing transcription to begin. Different genes have enhancers with different distal control elements, allowing differential regulation of transcription.">
+<image mime-type="image/jpg" src="../../media/Figure_16_04_01.jpg" width="320"/>
+</media>
+<caption>An enhancer is a DNA sequence that promotes transcription. Each enhancer is made up of short DNA sequences called distal control elements. Activators bound to the distal control elements interact with mediator proteins and transcription factors. Two different genes may have the same promoter but different distal control elements, enabling differential gene expression.</caption></figure></section>
+<section id="fs-id685962">
+<title>11.3b Turning Genes Off: Transcriptional Repressors</title><para id="fs-id1797856">Like prokaryotic cells, eukaryotic cells also have mechanisms to prevent transcription. Transcriptional repressors can bind to promoter or enhancer regions and block transcription. Like the transcriptional activators, repressors respond to external stimuli to prevent the binding of activating transcription factors.</para>
+</section>
+
+<section id="fs-id00000036" class="summary"><title>Section Summary</title><para id="eip-036">To start transcription, general transcription factors must first bind to the TATA box and recruit RNA polymerase to that location. The binding of additional regulatory transcription factors will either increase or prevent transcription. In addition to promoter sequences, enhancer regions help augment transcription. Enhancers can be upstream, downstream, within a gene itself, or on other chromosomes. Transcription factors bind to enhancer regions to increase or prevent transcription.</para></section>
+</content>
+<glossary>
+<definition id="fs-id1968258"><term>enhancer</term> <meaning id="fs-id2929520">segment of DNA that is upstream, downstream, perhaps thousands of nucleotides away, or on another chromosome that influence the transcription of a specific gene</meaning></definition>
+<definition id="fs-id1631200"><term>transcription factor binding site</term> <meaning id="fs-id1850411">sequence of DNA to which a transcription factor binds</meaning></definition>
+</glossary>
+
+</document>

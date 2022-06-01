@@ -1,0 +1,118 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+<title>Laws of Inheritance</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m52680</md:content-id>
+  <md:title>Laws of Inheritance</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain Mendel’s law of segregation and independent assortment in terms of genetics and the events of meiosis</item>
+<item>Use probability rules to calculate the probability of genotypes and phenotypes from multiple gene crosses</item>
+<item>Explain the effect of linkage and recombination on gamete genotypes</item>
+<item>Explain the phenotypic outcomes of epistatic effects between genes</item>
+</list></md:abstract>
+  <md:uuid>6a3b7961-c3db-4ada-b390-067fe742c4c1</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1894767">Mendel generalized the results of his pea-plant experiments into four postulates, some of which are sometimes called “laws,” that describe the basis of dominant and recessive inheritance in diploid organisms. As you have learned, more complex extensions of Mendelism exist that do not exhibit the same F
+<sub>2
+</sub> phenotypic ratios (3:1). Nevertheless, these laws summarize the basics of classical genetics.
+</para>
+<section id="fs-id2583739">
+<title>12.3a Pairs of Unit Factors, or Genes
+</title>
+<para id="fs-id1672163">Remember that the term "gene" was not around when Mendel was making his discoveries; he instead called these units of inheritance 
+<link target-id="d80657382696832857873843270656784798283">
+<term id="c80657382696832857873843270656784798283">paired unit factors
+</term>
+</link>. Mendel proposed first that paired unit factors of heredity were transmitted faithfully from generation to generation by the dissociation and reassociation of paired factors during gametogenesis and fertilization, respectively. After he crossed peas with contrasting traits and found that the recessive trait resurfaced in the F
+<sub>2
+</sub> generation, Mendel deduced that hereditary factors must be inherited as discrete units. This finding contradicted the belief at that time that parental traits were blended in the offspring.
+</para>
+</section>
+<section id="fs-id941837">
+<title>12.3b Alleles Can Be Dominant or Recessive
+</title>
+<para id="fs-id1432196">Mendel’s 
+<link target-id="d76658732797032687977737865786769">
+<term id="c76658732797032687977737865786769">law of dominance
+</term>
+</link> states that in a heterozygote, one trait will conceal the presence of another trait for the same characteristic. Rather than both alleles contributing to a phenotype, the dominant allele will be expressed exclusively. The recessive allele will remain “latent” but will be transmitted to offspring by the same manner in which the dominant allele is transmitted. The recessive trait will only be expressed by offspring that have two copies of this allele (
+<link target-id="fig-ch12_03_01" document=""/>), and these offspring will breed true when self-crossed.
+</para>
+<para id="fs-id1790967">Since Mendel’s experiments with pea plants, other researchers have found that the law of dominance does not always hold true. Instead, several different patterns of inheritance have been found to exist.
+</para>
+<figure id="fig-ch12_03_01">
+<label>Figure 12.3
+</label>
+<media id="fs-id1769852" alt="Photo shows an albino child with his black mother.">
+<image mime-type="image/jpg" src="../../media/Figure_12_03_01.jpg" width="250"/>
+</media>
+<caption>The child in the photo expresses albinism, a recessive trait.
+</caption>
+</figure>
+</section>
+<section id="fs-id2322286">
+<title>12.3c Equal Segregation of Alleles
+</title>
+<para id="fs-id2114874">Observing that true-breeding pea plants with contrasting traits gave rise to F
+<sub>1
+</sub> generations that all expressed the dominant trait and F
+<sub>2
+</sub> generations that expressed the dominant and recessive traits in a 3:1 ratio, Mendel proposed the 
+<link target-id="d766587327970328369718269716584737978">
+<term id="c766587327970328369718269716584737978">law of segregation
+</term>
+</link>. This law states that paired unit factors (genes) must segregate equally into gametes such that offspring have an equal likelihood of inheriting either factor. For the F
+<sub>2
+</sub> generation of a monohybrid cross, the following three possible combinations of genotypes could result: homozygous dominant, heterozygous, or homozygous recessive. Because heterozygotes could arise from two different pathways (receiving one dominant and one recessive allele from either parent), and because heterozygotes and homozygous dominant individuals are phenotypically identical, the law supports Mendel’s observed 3:1 phenotypic ratio. The equal segregation of alleles is the reason we can apply the Punnett square to accurately predict the offspring of parents with known genotypes. The physical basis of Mendel’s law of segregation is the first division of meiosis, in which the homologous chromosomes with their different versions of each gene are segregated into daughter nuclei.  The role of the meiotic segregation of chromosomes in sexual reproduction was not understood by the scientific community during Mendel’s lifetime.
+</para>
+</section>
+<section id="eip-439">
+<title>12.3d Independent Assortment
+</title>
+<para id="eip-965">Mendel’s 
+<link target-id="d76658732797032737868698069786869788432658383798284">
+<term id="c76658732797032737868698069786869788432658383798284">law of independent assortment
+</term>
+</link> states that genes do not influence each other with regard to the sorting of alleles into gametes, and every possible combination of alleles for every gene is equally likely to occur.
+</para>
+</section>
+<section id="fs-id1272830" class="summary">
+<title>Section Summary
+</title>
+<para id="eip-971">Mendel postulated that genes (characteristics) are inherited as pairs of alleles (traits) that behave in a dominant and recessive pattern. Alleles segregate into gametes such that each gamete is equally likely to receive either one of the two alleles present in a diploid individual. In addition, genes are assorted into gametes independently of one another. That is, alleles are generally not more likely to segregate into a gamete with a particular allele of another gene. A dihybrid cross demonstrates independent assortment when the genes in question are on different chromosomes or distant from each other on the same chromosome. For crosses involving more than two genes, use the forked line or probability methods to predict offspring genotypes and phenotypes rather than a Punnett square.
+</para>
+<para id="fs-id2896310">Although chromosomes sort independently into gametes during meiosis, Mendel’s law of independent assortment refers to genes, not chromosomes, and a single chromosome may carry more than 1,000 genes. When genes are located in close proximity on the same chromosome, their alleles tend to be inherited together. This results in offspring ratios that violate Mendel's law of independent assortment. However, recombination serves to exchange genetic material on homologous chromosomes such that maternal and paternal alleles may be recombined on the same chromosome. This is why alleles on a given chromosome are not always inherited together. Recombination is a random event occurring anywhere on a chromosome. Therefore, genes that are far apart on the same chromosome are likely to still assort independently because of recombination events that occurred in the intervening chromosomal space.
+</para>
+<para id="fs-id1360917">Whether or not they are sorting independently, genes may interact at the level of gene products such that the expression of an allele for one gene masks or modifies the expression of an allele for a different gene. This is called epistasis.
+</para>
+</section>
+</content>
+<glossary>
+<definition id="d76658732797032687977737865786769">
+<term id="t76658732797032687977737865786769">law of dominance
+</term> 
+<meaning id="m76658732797032687977737865786769">in a heterozygote, one trait will conceal the presence of another trait for the same characteristic
+</meaning>
+</definition>
+<definition id="d76658732797032737868698069786869788432658383798284">
+<term id="t76658732797032737868698069786869788432658383798284">law of independent assortment
+</term> 
+<meaning id="m76658732797032737868698069786869788432658383798284">genes do not influence each other with regard to sorting of alleles into gametes; every possible combination of alleles is equally likely to occur
+</meaning>
+</definition>
+<definition id="d766587327970328369718269716584737978">
+<term id="t766587327970328369718269716584737978">law of segregation
+</term> 
+<meaning id="m766587327970328369718269716584737978">paired unit factors (i.e., genes) segregate equally into gametes such that offspring have an equal likelihood of inheriting any combination of factors
+</meaning>
+</definition>
+<definition id="d80657382696832857873843270656784798283">
+<term id="t80657382696832857873843270656784798283">paired unit factors
+</term> 
+<meaning id="m80657382696832857873843270656784798283">Term used by Mendel to describe units of inheritance; modern equivalent would be "gene"
+</meaning>
+</definition>
+</glossary>
+</document>
